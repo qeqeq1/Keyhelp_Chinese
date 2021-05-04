@@ -1,0 +1,1550 @@
+# SOME DESCRIPTIVE TITLE.
+# This file is put in the public domain.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KeyHelp 21.1\n"
+"Report-Msgid-Bugs-To: info@keyhelp.de\n"
+"POT-Creation-Date: 2021-04-12 12:02+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: bin/toolbox.php:173 bin/toolbox.php:208 bin/toolbox.php:232
+#: bin/toolbox.php:309 functions/functions.translations.php:152
+msgid "Continue"
+msgstr ""
+
+#: core/UI/Cli/Cli.php:74
+msgid "This application requires root privileges."
+msgstr ""
+
+#: core/UI/Cli/Cli.php:86
+msgid "This application requires to be run in CLI mode."
+msgstr ""
+
+#: core/UI/Cli/Cli.php:106
+msgid "Error"
+msgstr ""
+
+#: core/UI/Cli/Cli.php:167
+msgid "Your Server Control Panel"
+msgstr ""
+
+#. Translators: Weekday
+#: core/i18n/Internationalization.php:79 core/i18n/Internationalization.php:91
+msgid "Sunday"
+msgstr ""
+
+#. Translators: Weekday
+#: core/i18n/Internationalization.php:80 core/i18n/Internationalization.php:92
+msgid "Monday"
+msgstr ""
+
+#. Translators: Weekday
+#: core/i18n/Internationalization.php:81 core/i18n/Internationalization.php:93
+msgid "Tuesday"
+msgstr ""
+
+#. Translators: Weekday
+#: core/i18n/Internationalization.php:82 core/i18n/Internationalization.php:94
+msgid "Wednesday"
+msgstr ""
+
+#. Translators: Weekday
+#: core/i18n/Internationalization.php:83 core/i18n/Internationalization.php:95
+msgid "Thursday"
+msgstr ""
+
+#. Translators: Weekday
+#: core/i18n/Internationalization.php:84 core/i18n/Internationalization.php:96
+msgid "Friday"
+msgstr ""
+
+#. Translators: Weekday
+#: core/i18n/Internationalization.php:85 core/i18n/Internationalization.php:97
+msgid "Saturday"
+msgstr ""
+
+#. Translators: Weekday abbreviation
+#: core/i18n/Internationalization.php:91
+msgid "Sun"
+msgstr ""
+
+#. Translators: Weekday abbreviation
+#: core/i18n/Internationalization.php:92
+msgid "Mon"
+msgstr ""
+
+#. Translators: Weekday abbreviation
+#: core/i18n/Internationalization.php:93
+msgid "Tue"
+msgstr ""
+
+#. Translators: Weekday abbreviation
+#: core/i18n/Internationalization.php:94
+msgid "Wed"
+msgstr ""
+
+#. Translators: Weekday abbreviation
+#: core/i18n/Internationalization.php:95
+msgid "Thu"
+msgstr ""
+
+#. Translators: Weekday abbreviation
+#: core/i18n/Internationalization.php:96
+msgid "Fri"
+msgstr ""
+
+#. Translators: Weekday abbreviation
+#: core/i18n/Internationalization.php:97
+msgid "Sat"
+msgstr ""
+
+#. Translators: Month name
+#: core/i18n/Internationalization.php:103
+#: core/i18n/Internationalization.php:120
+msgid "January"
+msgstr ""
+
+#. Translators: Month name
+#: core/i18n/Internationalization.php:104
+#: core/i18n/Internationalization.php:121
+msgid "February"
+msgstr ""
+
+#. Translators: Month name
+#: core/i18n/Internationalization.php:105
+#: core/i18n/Internationalization.php:122
+msgid "March"
+msgstr ""
+
+#. Translators: Month name
+#: core/i18n/Internationalization.php:106
+#: core/i18n/Internationalization.php:123
+msgid "April"
+msgstr ""
+
+#. Translators: Month name
+#. Translators: Month name abbreviation
+#: core/i18n/Internationalization.php:107
+#: core/i18n/Internationalization.php:124
+msgid "May"
+msgstr ""
+
+#. Translators: Month name
+#: core/i18n/Internationalization.php:108
+#: core/i18n/Internationalization.php:125
+msgid "June"
+msgstr ""
+
+#. Translators: Month name
+#: core/i18n/Internationalization.php:109
+#: core/i18n/Internationalization.php:126
+msgid "July"
+msgstr ""
+
+#. Translators: Month name
+#: core/i18n/Internationalization.php:110
+#: core/i18n/Internationalization.php:127
+msgid "August"
+msgstr ""
+
+#. Translators: Month name
+#: core/i18n/Internationalization.php:111
+#: core/i18n/Internationalization.php:128
+msgid "September"
+msgstr ""
+
+#. Translators: Month name
+#: core/i18n/Internationalization.php:112
+#: core/i18n/Internationalization.php:129
+msgid "October"
+msgstr ""
+
+#. Translators: Month name
+#: core/i18n/Internationalization.php:113
+#: core/i18n/Internationalization.php:130
+msgid "November"
+msgstr ""
+
+#. Translators: Month name
+#: core/i18n/Internationalization.php:114
+#: core/i18n/Internationalization.php:131
+msgid "December"
+msgstr ""
+
+#. Translators: Month name abbreviation
+#: core/i18n/Internationalization.php:120
+msgid "Jan"
+msgstr ""
+
+#. Translators: Month name abbreviation
+#: core/i18n/Internationalization.php:121
+msgid "Feb"
+msgstr ""
+
+#. Translators: Month name abbreviation
+#: core/i18n/Internationalization.php:122
+msgid "Mar"
+msgstr ""
+
+#. Translators: Month name abbreviation
+#: core/i18n/Internationalization.php:123
+msgid "Apr"
+msgstr ""
+
+#. Translators: Month name abbreviation
+#: core/i18n/Internationalization.php:125
+msgid "Jun"
+msgstr ""
+
+#. Translators: Month name abbreviation
+#: core/i18n/Internationalization.php:126
+msgid "Jul"
+msgstr ""
+
+#. Translators: Month name abbreviation
+#: core/i18n/Internationalization.php:127
+msgid "Aug"
+msgstr ""
+
+#. Translators: Month name abbreviation
+#: core/i18n/Internationalization.php:128
+msgid "Sep"
+msgstr ""
+
+#. Translators: Month name abbreviation
+#: core/i18n/Internationalization.php:129
+msgid "Oct"
+msgstr ""
+
+#. Translators: Month name abbreviation
+#: core/i18n/Internationalization.php:130
+msgid "Nov"
+msgstr ""
+
+#. Translators: Month name abbreviation
+#: core/i18n/Internationalization.php:131
+msgid "Dec"
+msgstr ""
+
+#. Translators: Thousands separator for number formatting, default ","
+#: core/i18n/Internationalization.php:137
+msgid "_number_format_thousands_separator"
+msgstr ""
+
+#. Translators: Decimal separator for number formatting, default "."
+#: core/i18n/Internationalization.php:143
+msgid "_number_format_decimal_separator"
+msgstr ""
+
+#. Translators: Use 'ltr' / 'left-to-right' or 'rtl' / 'right-to-left' to define the text direction
+#: core/i18n/Internationalization.php:153
+msgid "_text_direction"
+msgstr ""
+
+#. Translators: Localized time + date format, example: "14:57:33 - January 7, 2020", see http://php.net/date
+#: core/i18n/Internationalization.php:269
+#: core/i18n/Internationalization.php:348
+msgid "H:i:s - F j, Y"
+msgstr ""
+
+#. Translators: Localized time + date format [short month], example: "14:57:33 - Jan 7, 2020", see http://php.net/date
+#: core/i18n/Internationalization.php:280
+#: core/i18n/Internationalization.php:345
+msgid "H:i:s - M j, Y"
+msgstr ""
+
+#. Translators: Localized time + date format [short month], example: "14:57 - Jan 7, 2020", see http://php.net/date
+#: core/i18n/Internationalization.php:291
+#: core/i18n/Internationalization.php:351
+msgid "H:i - M j, Y"
+msgstr ""
+
+#. Translators: Localized date format (short), example: "Jan 7, 2020", see http://php.net/date
+#: core/i18n/Internationalization.php:302
+#: core/i18n/Internationalization.php:339
+msgid "M j, Y"
+msgstr ""
+
+#. Translators: Localized date format, example: "January 7, 2020", see http://php.net/date
+#: core/i18n/Internationalization.php:313
+#: core/i18n/Internationalization.php:342 pages/user_applications.php:354
+msgid "F j, Y"
+msgstr ""
+
+#. Translators: Localized weekday + date + time format, example: "Sunday, January 7, 2020 - 14:57:33", see http://php.net/date
+#: core/i18n/Internationalization.php:354 pages/admin_dashboard.php:144
+msgid "l, F j, Y - H:i:s"
+msgstr ""
+
+#. Translators: Localized weekday + date + time format, example: "Sunday, January 7, 2020", see http://php.net/date
+#: core/i18n/Internationalization.php:357 core/pending/AjaxRequest.php:643
+msgid "l, F j, Y"
+msgstr ""
+
+#: core/pending/AjaxRequest.php:311 functions/functions.main.php:420
+#: functions/functions.translations.php:36 pages/admin_accounts_user.php:227
+#: pages/admin_accounts_user.php:260 pages/admin_accounts_user.php:320
+#: pages/admin_accounts_user.php:328 pages/admin_accounts_user.php:1560
+#: pages/admin_template_account.php:643 pages/admin_traffic.php:178
+msgid "unlimited"
+msgstr ""
+
+#: core/pending/AjaxRequest.php:340 functions/functions.translations.php:38
+#: functions/functions.translations.php:390 install/install.php:407
+#: install/install.php:857 install/install.php:862
+#: pages/admin_accounts_user.php:354 pages/backup_repository.php:363
+#: pages/user_databases.php:257
+msgid "Username"
+msgstr ""
+
+#: core/pending/AjaxRequest.php:348 core/pending/AjaxRequest.php:376
+#: functions/functions.translations.php:42 pages/admin_template_account.php:91
+msgid "Domains"
+msgstr ""
+
+#: core/pending/AjaxRequest.php:352 functions/functions.translations.php:43
+#: pages/admin_template_account.php:95
+msgid "Subdomains"
+msgstr ""
+
+#: core/pending/AjaxRequest.php:356 functions/functions.translations.php:52
+#: pages/admin_template_account.php:99
+msgid "Email accounts"
+msgstr ""
+
+#: core/pending/AjaxRequest.php:360 functions/functions.translations.php:53
+#: pages/admin_template_account.php:103
+msgid "Email addresses"
+msgstr ""
+
+#: core/pending/AjaxRequest.php:364 functions/functions.translations.php:45
+#: pages/admin_template_account.php:107 pages/user_dashboard.php:169
+msgid "Databases"
+msgstr ""
+
+#: core/pending/AjaxRequest.php:368 functions/functions.translations.php:46
+#: pages/admin_template_account.php:111
+msgid "FTP users"
+msgstr ""
+
+#: core/pending/AjaxRequest.php:372 functions/functions.translations.php:47
+#: pages/admin_template_account.php:115
+msgid "Scheduled tasks"
+msgstr ""
+
+#: core/pending/AjaxRequest.php:380 functions/functions.translations.php:69
+msgid "Permissions"
+msgstr ""
+
+#: core/pending/AjaxRequest.php:522 functions/functions.translations.php:49
+msgid "No entries available"
+msgstr ""
+
+#: cronjob/jobs/01-maintenance.php:139
+#, php-format
+msgid "Problems while updating license on server \"%s\""
+msgstr ""
+
+#: cronjob/jobs/01-maintenance.php:145
+#, php-format
+msgid ""
+"Hello!\n"
+"\n"
+"The following problems occured while updating your KeyHelp Professional "
+"license on server \"%s\"."
+msgstr ""
+
+#: cronjob/jobs/01-maintenance.php:159
+msgid ""
+"The license data stored on the server no longer matches the actual server "
+"settings or the license specifications have changed."
+msgstr ""
+
+#: cronjob/jobs/01-maintenance.php:160
+msgid ""
+"This may have been caused e.g. by changed device data, such as a changed IP "
+"address."
+msgstr ""
+
+#: cronjob/jobs/01-maintenance.php:161
+msgid "Please check you license data via the license management."
+msgstr ""
+
+#: cronjob/jobs/01-maintenance.php:164
+msgid "Failed to update the license file."
+msgstr ""
+
+#: cronjob/jobs/01-maintenance.php:166
+#, php-format
+msgid ""
+"Please ensure that outgoing connections are not blocked and all files within "
+"%1$s belong to the user \"%2$s\"."
+msgstr ""
+
+#: cronjob/jobs/01-maintenance.php:171
+msgid "Failed to decrypt the license file."
+msgstr ""
+
+#: cronjob/jobs/01-maintenance.php:172
+msgid "Please request the license again via the license management."
+msgstr ""
+
+#: cronjob/jobs/statistic.php:343
+#, php-format
+msgid "Traffic usage of user \"%s\" exceeded the limit"
+msgstr ""
+
+#: cronjob/jobs/statistic.php:345
+#, php-format
+msgid ""
+"The traffic usage of a user on server \"%s\" exceeded the limit.\n"
+"\n"
+"User: %s\n"
+"Usage: %s\n"
+"Limit: %s\n"
+msgstr ""
+
+#: cronjob/mastercronjob.php:206
+msgid "Your KeyHelp installation has been updated"
+msgstr ""
+
+#: cronjob/mastercronjob.php:211
+#, php-format
+msgid ""
+"Hello!\n"
+"\n"
+"Your KeyHelp installation on server \"%1$s\" has been updated to version "
+"%2$s.\n"
+"\n"
+"An overview of all changes of the version can be found here: <a>%3$s</a>"
+msgstr ""
+
+#: cronjob/mastercronjob.php:231 functions/functions.translations.php:121
+msgid "Please note"
+msgstr ""
+
+#: functions/functions.main.php:742
+msgid "Restricted"
+msgstr ""
+
+#: functions/functions.main.php:743
+msgid "Backup"
+msgstr ""
+
+#: functions/functions.main.php:744
+msgid "File manager"
+msgstr ""
+
+#: functions/functions.main.php:745
+msgid "DNS editor"
+msgstr ""
+
+#: functions/functions.main.php:746
+msgid "Domain security"
+msgstr ""
+
+#: functions/functions.main.php:747
+msgid "Certificate management"
+msgstr ""
+
+#: functions/functions.main.php:748
+msgid "Database remote access"
+msgstr ""
+
+#: functions/functions.main.php:749
+msgid "Panel access"
+msgstr ""
+
+#: functions/functions.main.php:750
+msgid "Applications"
+msgstr ""
+
+#: functions/functions.main.php:818
+msgid "Failed to gather information from update server."
+msgstr ""
+
+#: functions/functions.main.php:833
+msgid "Invalid HTTP status code received"
+msgstr ""
+
+#: functions/functions.main.php:1344
+msgid "Day(s)"
+msgstr ""
+
+#: functions/functions.main.php:1879 functions/functions.translations.php:82
+msgid "Default"
+msgstr ""
+
+#: functions/functions.main.php:1884
+msgid "Like main domain"
+msgstr ""
+
+#: functions/functions.main.php:1913 functions/functions.translations.php:130
+msgid "Outdated"
+msgstr ""
+
+#: functions/functions.main.php:1919
+msgid "Error, not executable"
+msgstr ""
+
+#: functions/functions.main.php:2061
+msgid "Not specified"
+msgstr ""
+
+#: functions/functions.translations.php:33
+msgid "Yes"
+msgstr ""
+
+#: functions/functions.translations.php:34 install/install.php:413
+msgid "No"
+msgstr ""
+
+#: functions/functions.translations.php:35
+msgid "Options"
+msgstr ""
+
+#: functions/functions.translations.php:37
+msgid "Delete selection"
+msgstr ""
+
+#: functions/functions.translations.php:39 pages/domains.php:392
+msgid "Owner"
+msgstr ""
+
+#: functions/functions.translations.php:40
+msgid "Logged in as"
+msgstr ""
+
+#: functions/functions.translations.php:41
+msgid "Log out"
+msgstr ""
+
+#: functions/functions.translations.php:44
+msgid "Database"
+msgstr ""
+
+#: functions/functions.translations.php:48 pages/admin_template_account.php:86
+msgid "Traffic"
+msgstr ""
+
+#: functions/functions.translations.php:50
+msgid "Description"
+msgstr ""
+
+#: functions/functions.translations.php:51 install/install.php:409
+#: pages/admin_accounts_user.php:805 pages/scheduled_tasks.php:483
+#: pages/user_email.php:419
+msgid "Email address"
+msgstr ""
+
+#: functions/functions.translations.php:54
+msgid "IP address"
+msgstr ""
+
+#: functions/functions.translations.php:55 pages/admin_api.php:216
+msgid "IP addresses"
+msgstr ""
+
+#: functions/functions.translations.php:56
+msgid "MAC address"
+msgstr ""
+
+#: functions/functions.translations.php:57
+msgid "Language"
+msgstr ""
+
+#: functions/functions.translations.php:58
+msgid "Is enabled"
+msgstr ""
+
+#: functions/functions.translations.php:59
+msgid "Confirmation"
+msgstr ""
+
+#: functions/functions.translations.php:60
+#: functions/functions.translations.php:164
+#: pages/admin_template_account.php:561 pages/admin_template_email.php:298
+msgid "Delete"
+msgstr ""
+
+#: functions/functions.translations.php:61
+msgid "Delete confirmation"
+msgstr ""
+
+#: functions/functions.translations.php:62
+msgid ""
+"Please confirm the deletion of the displayed elements by activating the "
+"following checkbox."
+msgstr ""
+
+#: functions/functions.translations.php:63
+#: functions/functions.translations.php:180
+#: functions/functions.translations.php:423
+#: functions/functions.translations.php:424
+#: functions/functions.translations.php:1514 install/install.php:969
+msgid "Attention"
+msgstr ""
+
+#: functions/functions.translations.php:64
+msgid "Warning"
+msgstr ""
+
+#: functions/functions.translations.php:65 pages/dns_editor.php:56
+msgid "Search"
+msgstr ""
+
+#: functions/functions.translations.php:66
+msgid "View"
+msgstr ""
+
+#: functions/functions.translations.php:67
+msgid "Settings"
+msgstr ""
+
+#: functions/functions.translations.php:68
+#: functions/functions.translations.php:181
+msgid "Download"
+msgstr ""
+
+#: functions/functions.translations.php:70
+msgid "Resources"
+msgstr ""
+
+#: functions/functions.translations.php:71 pages/admin_template_account.php:202
+#: pages/admin_template_email.php:85
+msgid "Add"
+msgstr ""
+
+#: functions/functions.translations.php:72
+#: functions/functions.translations.php:163
+#: pages/admin_template_account.php:202 pages/admin_template_email.php:85
+#: pages/admin_white_label.php:212 pages/dns_editor.php:92
+msgid "Edit"
+msgstr ""
+
+#: functions/functions.translations.php:73
+msgid "Enabled"
+msgstr ""
+
+#: functions/functions.translations.php:74
+#: pages/admin_apache_server_status.php:42
+msgid "Disabled"
+msgstr ""
+
+#: functions/functions.translations.php:75
+msgid "Active"
+msgstr ""
+
+#: functions/functions.translations.php:76
+msgid "Inactive"
+msgstr ""
+
+#: functions/functions.translations.php:77
+msgid "Status"
+msgstr ""
+
+#: functions/functions.translations.php:78 pages/scheduled_tasks.php:151
+msgid "Pending"
+msgstr ""
+
+#: functions/functions.translations.php:79
+#: functions/functions.translations.php:184 pages/scheduled_tasks.php:152
+msgid "Processing"
+msgstr ""
+
+#: functions/functions.translations.php:80 pages/scheduled_tasks.php:153
+msgid "Finished"
+msgstr ""
+
+#. Translators: Like condition or status
+#: functions/functions.translations.php:81
+msgid "State"
+msgstr ""
+
+#: functions/functions.translations.php:83
+msgid "This information is filled out automatically."
+msgstr ""
+
+#: functions/functions.translations.php:84 pages/profile.php:328
+msgid "Server"
+msgstr ""
+
+#: functions/functions.translations.php:85
+msgid "Protocol"
+msgstr ""
+
+#: functions/functions.translations.php:86 pages/backup_repository.php:362
+msgid "Port"
+msgstr ""
+
+#: functions/functions.translations.php:87
+msgid "Connection data"
+msgstr ""
+
+#: functions/functions.translations.php:88
+msgid "Profile"
+msgstr ""
+
+#: functions/functions.translations.php:89
+msgid "items"
+msgstr ""
+
+#: functions/functions.translations.php:90
+msgid "items total"
+msgstr ""
+
+#: functions/functions.translations.php:91 pages/backup_repository.php:360
+#: pages/domains.php:1042
+msgid "Directory"
+msgstr ""
+
+#: functions/functions.translations.php:92
+msgid "Copy"
+msgstr ""
+
+#: functions/functions.translations.php:93
+msgid "Move"
+msgstr ""
+
+#: functions/functions.translations.php:94 pages/admin_firewall.php:458
+#: pages/backup_repository.php:358
+msgid "Name"
+msgstr ""
+
+#: functions/functions.translations.php:95 pages/domains.php:432
+#: pages/domains.php:1139 pages/domains.php:1222
+msgid "Please select"
+msgstr ""
+
+#: functions/functions.translations.php:96
+msgid "Viewing options"
+msgstr ""
+
+#: functions/functions.translations.php:97
+msgid "Are you sure you want to reset the settings?"
+msgstr ""
+
+#: functions/functions.translations.php:98
+msgid "Notes"
+msgstr ""
+
+#: functions/functions.translations.php:99
+msgid "An error occurred."
+msgstr ""
+
+#: functions/functions.translations.php:100
+#: functions/functions.translations.php:577
+#: functions/functions.translations.php:580
+#: functions/functions.translations.php:661
+#: functions/functions.translations.php:1357
+msgid "Example"
+msgstr ""
+
+#: functions/functions.translations.php:101
+msgid "Remove"
+msgstr ""
+
+#: functions/functions.translations.php:102
+msgid "General"
+msgstr ""
+
+#: functions/functions.translations.php:103
+msgid "Demo mode"
+msgstr ""
+
+#: functions/functions.translations.php:104
+msgid "Admin area"
+msgstr ""
+
+#: functions/functions.translations.php:105
+msgid "User area"
+msgstr ""
+
+#: functions/functions.translations.php:106
+msgid "Configuration"
+msgstr ""
+
+#: functions/functions.translations.php:107
+#: functions/functions.translations.php:187
+msgid "Configure"
+msgstr ""
+
+#: functions/functions.translations.php:108
+msgid "Security"
+msgstr ""
+
+#: functions/functions.translations.php:109
+msgid "Hide this message"
+msgstr ""
+
+#: functions/functions.translations.php:110
+msgid "Created at"
+msgstr ""
+
+#: functions/functions.translations.php:111
+msgid "SSH fingerprint"
+msgstr ""
+
+#: functions/functions.translations.php:112
+msgid "Miscellaneous"
+msgstr ""
+
+#: functions/functions.translations.php:113 index.php:336 index.php:350
+#: index.php:336 index.php:350
+msgid "Please try again later."
+msgstr ""
+
+#: functions/functions.translations.php:114
+msgid "Total"
+msgstr ""
+
+#: functions/functions.translations.php:115
+msgid "CPU"
+msgstr ""
+
+#: functions/functions.translations.php:116
+msgid "CPU load"
+msgstr ""
+
+#: functions/functions.translations.php:117
+msgid "Cores"
+msgstr ""
+
+#: functions/functions.translations.php:118
+msgid "Online"
+msgstr ""
+
+#: functions/functions.translations.php:119
+msgid "Offline"
+msgstr ""
+
+#: functions/functions.translations.php:120
+msgid "Size"
+msgstr ""
+
+#: functions/functions.translations.php:122
+msgid "Are you sure you want to delete the selected item?"
+msgstr ""
+
+#: functions/functions.translations.php:123
+msgid "Are you sure you want to delete the selected items?"
+msgstr ""
+
+#: functions/functions.translations.php:124
+msgid "Full screen"
+msgstr ""
+
+#: functions/functions.translations.php:125
+msgid "Exit full screen"
+msgstr ""
+
+#: functions/functions.translations.php:126 pages/admin_accounts_user.php:353
+#: pages/domains.php:386
+msgid "All fields"
+msgstr ""
+
+#: functions/functions.translations.php:127
+#: functions/functions.translations.php:1669
+msgid "Control panel"
+msgstr ""
+
+#: functions/functions.translations.php:128
+msgid "Enable dark mode"
+msgstr ""
+
+#: functions/functions.translations.php:129
+msgid "Disable dark mode"
+msgstr ""
+
+#: functions/functions.translations.php:132
+#: functions/functions.translations.php:133
+msgid "Time"
+msgstr ""
+
+#: functions/functions.translations.php:133
+#: functions/functions.translations.php:1511
+msgid "Format"
+msgstr ""
+
+#: functions/functions.translations.php:134
+msgid "Day of week"
+msgstr ""
+
+#: functions/functions.translations.php:135
+msgid "Day of month"
+msgstr ""
+
+#: functions/functions.translations.php:136
+msgid "Month"
+msgstr ""
+
+#: functions/functions.translations.php:137 pages/admin_configuration.php:1782
+#: pages/admin_maintenance_intervals.php:79 pages/domains.php:1180
+#: pages/ssl_certificates.php:290
+msgid "Days"
+msgstr ""
+
+#: functions/functions.translations.php:138 pages/admin_configuration.php:1117
+#: pages/admin_configuration.php:1781 pages/admin_maintenance_intervals.php:78
+#: pages/domains.php:1179
+msgid "Hours"
+msgstr ""
+
+#: functions/functions.translations.php:139 pages/admin_configuration.php:1116
+#: pages/admin_configuration.php:1780 pages/admin_maintenance_intervals.php:77
+#: pages/domains.php:1178
+msgid "Minutes"
+msgstr ""
+
+#: functions/functions.translations.php:140 pages/admin_configuration.php:1115
+#: pages/domains.php:1177
+msgid "Seconds"
+msgstr ""
+
+#: functions/functions.translations.php:141 pages/scheduled_tasks.php:519
+msgid "Hourly"
+msgstr ""
+
+#: functions/functions.translations.php:142 pages/backup_deprecated.php:263
+#: pages/scheduled_tasks.php:520
+msgid "Daily"
+msgstr ""
+
+#: functions/functions.translations.php:143 pages/backup_deprecated.php:264
+#: pages/scheduled_tasks.php:521
+msgid "Weekly"
+msgstr ""
+
+#: functions/functions.translations.php:144 pages/backup_deprecated.php:265
+#: pages/scheduled_tasks.php:522
+msgid "Monthly"
+msgstr ""
+
+#: functions/functions.translations.php:145 pages/scheduled_tasks.php:523
+msgid "Yearly"
+msgstr ""
+
+#: functions/functions.translations.php:147
+msgid "Back to overview"
+msgstr ""
+
+#: functions/functions.translations.php:148
+msgid "Save"
+msgstr ""
+
+#: functions/functions.translations.php:149
+msgid "Okay"
+msgstr ""
+
+#: functions/functions.translations.php:150
+msgid "Cancel"
+msgstr ""
+
+#: functions/functions.translations.php:151
+msgid "Close"
+msgstr ""
+
+#: functions/functions.translations.php:153
+msgid "Refresh"
+msgstr ""
+
+#: functions/functions.translations.php:154
+#: functions/functions.translations.php:169
+msgid "Reset settings"
+msgstr ""
+
+#: functions/functions.translations.php:155
+msgid "Next page"
+msgstr ""
+
+#: functions/functions.translations.php:156
+msgid "Previous page"
+msgstr ""
+
+#: functions/functions.translations.php:157 index.php:484 index.php:484
+msgid "Browse"
+msgstr ""
+
+#: functions/functions.translations.php:158
+msgid "Choose file"
+msgstr ""
+
+#: functions/functions.translations.php:159
+msgid "Manage"
+msgstr ""
+
+#: functions/functions.translations.php:160 index.php:485 index.php:485
+msgid "Show more"
+msgstr ""
+
+#: functions/functions.translations.php:161
+msgid "Customize view"
+msgstr ""
+
+#: functions/functions.translations.php:165
+msgid "Edit user"
+msgstr ""
+
+#: functions/functions.translations.php:166
+msgid "Login as this user"
+msgstr ""
+
+#: functions/functions.translations.php:167
+msgid "Webmail"
+msgstr ""
+
+#: functions/functions.translations.php:170
+msgid "Start service"
+msgstr ""
+
+#: functions/functions.translations.php:171
+msgid "Stop service"
+msgstr ""
+
+#: functions/functions.translations.php:172
+msgid "Restart service"
+msgstr ""
+
+#: functions/functions.translations.php:173
+msgid "Service is already running"
+msgstr ""
+
+#: functions/functions.translations.php:174
+msgid "Service has already been stopped"
+msgstr ""
+
+#: functions/functions.translations.php:175
+msgid "Service is not running"
+msgstr ""
+
+#: functions/functions.translations.php:176
+msgid "Default DNS zone active"
+msgstr ""
+
+#: functions/functions.translations.php:176
+#: functions/functions.translations.php:177
+#: functions/functions.translations.php:178
+msgid "Edit DNS zone"
+msgstr ""
+
+#: functions/functions.translations.php:177
+msgid "Custom DNS zone active"
+msgstr ""
+
+#: functions/functions.translations.php:178
+msgid "DNS zone is disabled"
+msgstr ""
+
+#: functions/functions.translations.php:179
+msgid "Show log file"
+msgstr ""
+
+#: functions/functions.translations.php:182
+msgid "Everything okay"
+msgstr ""
+
+#: functions/functions.translations.php:183
+msgid "An error occurred"
+msgstr ""
+
+#: functions/functions.translations.php:185
+msgid "Will be deleted"
+msgstr ""
+
+#: functions/functions.translations.php:186
+msgid "Unknown status"
+msgstr ""
+
+#: functions/functions.translations.php:188
+msgid "Run now"
+msgstr ""
+
+#: functions/functions.translations.php:189
+msgid "Restore"
+msgstr ""
+
+#: functions/functions.translations.php:191 install/install.php:408
+#: install/install.php:858 install/install.php:864
+#: pages/backup_repository.php:364
+msgid "Password"
+msgstr ""
+
+#: functions/functions.translations.php:192
+msgid "Password doesn't match confirmation"
+msgstr ""
+
+#: functions/functions.translations.php:193 index.php:482 index.php:482
+msgid "Show"
+msgstr ""
+
+#: functions/functions.translations.php:194
+msgid "Generate"
+msgstr ""
+
+#: functions/functions.translations.php:195
+msgid "Confirm password"
+msgstr ""
+
+#: functions/functions.translations.php:196
+msgid "Password suggestion"
+msgstr ""
+
+#: functions/functions.translations.php:197
+msgid "Leave blank to keep current password."
+msgstr ""
+
+#: functions/functions.translations.php:198
+#, php-format
+msgid "Minimum of %s character in length"
+msgstr ""
+
+#: functions/functions.translations.php:199
+msgid "Minimum of one letter"
+msgstr ""
+
+#: functions/functions.translations.php:200
+msgid "Minimum of one lowercase letter"
+msgstr ""
+
+#: functions/functions.translations.php:201
+msgid "Minimum of one uppercase letter"
+msgstr ""
+
+#: functions/functions.translations.php:202
+msgid "Minimum of one digit"
+msgstr ""
+
+#: functions/functions.translations.php:203
+msgid "Minimum of one special character"
+msgstr ""
+
+#: functions/functions.translations.php:208
+msgid "Login"
+msgstr ""
+
+#: functions/functions.translations.php:209
+msgid "Forgot password?"
+msgstr ""
+
+#: functions/functions.translations.php:211
+msgid "Please enter your username and email address."
+msgstr ""
+
+#: functions/functions.translations.php:212
+msgid ""
+"You will receive an email with instructions, how to reset your password."
+msgstr ""
+
+#: functions/functions.translations.php:213
+msgid "Request email"
+msgstr ""
+
+#: functions/functions.translations.php:214
+msgid "Enter your new password below."
+msgstr ""
+
+#: functions/functions.translations.php:215
+msgid "Back to login"
+msgstr ""
+
+#: functions/functions.translations.php:217
+msgid "Authentication code"
+msgstr ""
+
+#: functions/functions.translations.php:218
+msgid ""
+"Open the two-factor authentication app on your device to view your "
+"authentication code and verify your identity."
+msgstr ""
+
+#: functions/functions.translations.php:219
+msgid "Verify identity"
+msgstr ""
+
+#: functions/functions.translations.php:224
+msgid "Account settings"
+msgstr ""
+
+#: functions/functions.translations.php:225
+msgid "Current password"
+msgstr ""
+
+#: functions/functions.translations.php:227
+msgid "Contact data"
+msgstr ""
+
+#: functions/functions.translations.php:228 pages/profile.php:342
+msgid "First name"
+msgstr ""
+
+#: functions/functions.translations.php:229 pages/profile.php:343
+msgid "Last name"
+msgstr ""
+
+#: functions/functions.translations.php:230 pages/profile.php:344
+msgid "Company"
+msgstr ""
+
+#: functions/functions.translations.php:231 pages/profile.php:345
+msgid "Telephone"
+msgstr ""
+
+#: functions/functions.translations.php:232 pages/profile.php:346
+msgid "Address"
+msgstr ""
+
+#: functions/functions.translations.php:233 pages/profile.php:348
+msgid "Zip code"
+msgstr ""
+
+#: functions/functions.translations.php:234 pages/profile.php:347
+msgid "City"
+msgstr ""
+
+#: functions/functions.translations.php:235 pages/profile.php:349
+msgid "State / province / region"
+msgstr ""
+
+#: functions/functions.translations.php:236 pages/profile.php:350
+msgid "Country"
+msgstr ""
+
+#: functions/functions.translations.php:237 pages/profile.php:351
+msgid "Client ID"
+msgstr ""
+
+#: functions/functions.translations.php:239
+msgid "Two-factor authentication"
+msgstr ""
+
+#: functions/functions.translations.php:240
+msgid ""
+"The two-factor authentication provides an additional layer of security for "
+"your user account."
+msgstr ""
+
+#: functions/functions.translations.php:241
+msgid ""
+"If enabled, in addition to your username and password, you will need an "
+"authentication code to log in."
+msgstr ""
+
+#: functions/functions.translations.php:242
+msgid ""
+"This way your account is protected even if a malicious user has gained "
+"access to your password."
+msgstr ""
+
+#: functions/functions.translations.php:243
+msgid "Authentication method"
+msgstr ""
+
+#: functions/functions.translations.php:244
+msgid ""
+"Setup an app on your smartphone to generate two-factor authentication codes "
+"when prompted."
+msgstr ""
+
+#: functions/functions.translations.php:245
+#, php-format
+msgid "You can use apps like %s, %s or %s to name a few."
+msgstr ""
+
+#: functions/functions.translations.php:249
+msgid ""
+"Make sure to have a backup of your secret key in case you lose access to "
+"your device."
+msgstr ""
+
+#: functions/functions.translations.php:250
+msgid "Setup new app"
+msgstr ""
+
+#: functions/functions.translations.php:251
+msgid "Setup your authentication app"
+msgstr ""
+
+#: functions/functions.translations.php:252
+msgid ""
+"Scan this QR code with your two-factor authentication app on your phone. If "
+"you can not use the QR code, enter the key manually instead."
+msgstr ""
+
+#: functions/functions.translations.php:253
+msgid "Scan this QR code."
+msgstr ""
+
+#: functions/functions.translations.php:254
+msgid "Or enter the following key."
+msgstr ""
+
+#: functions/functions.translations.php:255
+msgid "Enter six-digit authentication code"
+msgstr ""
+
+#: functions/functions.translations.php:256
+msgid ""
+"Confirm this process by entering the 6-digit code provided by the selected "
+"authentication method."
+msgstr ""
+
+#: functions/functions.translations.php:258
+msgid "SSH keys"
+msgstr ""
+
+#: functions/functions.translations.php:259
+msgid "Here you can manage your SSH public keys associated with your account."
+msgstr ""
+
+#: functions/functions.translations.php:260
+msgid ""
+"Using SSH keys for server authentication provides a more secure and "
+"convenient alternative to traditional password authentication."
+msgstr ""
+
+#: functions/functions.translations.php:261 pages/profile.php:428
+msgid "Add SSH key"
+msgstr ""
+
+#: functions/functions.translations.php:262
+msgid "Fingerprint"
+msgstr ""
+
+#: functions/functions.translations.php:263
+msgid "A freely definable name for easier identification."
+msgstr ""
+
+#: functions/functions.translations.php:264
+msgid "Public key"
+msgstr ""
+
+#: functions/functions.translations.php:265
+msgid "A public key usually begins with one of the following strings:"
+msgstr ""
+
+#: functions/functions.translations.php:267
+msgid "Delete SSH key"
+msgstr ""
+
+#: functions/functions.translations.php:268
+msgid "Please confirm the deletion of the following SSH key."
+msgstr ""
+
+#: functions/functions.translations.php:272
+msgid "KeyHelp Demo"
+msgstr ""
+
+#: functions/functions.translations.php:274
+msgid "Click on the links below or use the credentials to log in."
+msgstr ""
+
+#: functions/functions.translations.php:282
+msgid "Are you looking for a suitable storage space for your backups?"
+msgstr ""
+
+#: functions/functions.translations.php:284
+msgid "How about <a>KeyDisc</a>, the flexible cloud storage?"
+msgstr ""
+
+#: index.php:335 index.php:335
+msgid "The server control panel is currently being updated."
+msgstr ""
+
+#: index.php:343 index.php:343
+msgid "The requested domain could not be found on this server."
+msgstr ""
+
+#: index.php:349 index.php:349
+msgid ""
+"Due to maintenance the server control panel is temporarily not available."
+msgstr ""
+
+#: index.php:371 index.php:371
+msgid "Maintenance mode is enabled."
+msgstr ""
+
+#: index.php:483 index.php:483
+msgid "Hide"
+msgstr ""
+
+#: pages/admin_accounts_user.php:356 pages/domains.php:387
+msgid "Domain"
+msgstr ""
+
+#: pages/admin_active_sessions.php:98
+msgid "Main Administrator"
+msgstr ""
+
+#: pages/admin_active_sessions.php:99
+msgid "Administrator"
+msgstr ""
+
+#: pages/admin_active_sessions.php:100
+msgid "User"
+msgstr ""
+
+#: pages/admin_configuration.php:951
+msgid "Day"
+msgid_plural "Days"
+msgstr[0] ""
+msgstr[1] ""
+
+#: pages/admin_dashboard.php:81
+msgid "During the KeyHelp Installation errors occurred!"
+msgstr ""
+
+#: pages/admin_dashboard.php:82
+msgid ""
+"Your KeyHelp Installation may not work as expected, as long as the reasons "
+"for these errors are not fixed."
+msgstr ""
+
+#: pages/admin_dashboard.php:83
+#, php-format
+msgid "Problems occurred while installing the following modules: %s"
+msgstr ""
+
+#: pages/admin_dashboard.php:84
+#, php-format
+msgid "Please check the <a>install log</a> file at %s."
+msgstr ""
+
+#: pages/admin_dashboard.php:108
+#, php-format
+msgid "%s days left"
+msgstr ""
+
+#: pages/admin_dashboard.php:143
+#, php-format
+msgid "KeyHelp was updated to version %s."
+msgstr ""
+
+#: pages/admin_maintenance_intervals.php:163
+#, php-format
+msgid "%s minute"
+msgid_plural "%s minutes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: pages/admin_maintenance_intervals.php:166
+#, php-format
+msgid "%s hour"
+msgid_plural "%s hours"
+msgstr[0] ""
+msgstr[1] ""
+
+#: pages/admin_maintenance_intervals.php:169
+#, php-format
+msgid "%s day"
+msgid_plural "%s days"
+msgstr[0] ""
+msgstr[1] ""
+
+#: pages/admin_traffic.php:85
+msgid "No data gathered yet"
+msgstr ""
+
+#: pages/domains.php:1001
+msgid "The following domains were successfully created."
+msgstr ""
+
+#: pages/domains.php:1181 pages/ssl_certificates.php:291
+msgid "Weeks"
+msgstr ""
+
+#: pages/profile.php:328
+msgid "A user has changed its contact data"
+msgstr ""
+
+#: pages/profile.php:331
+#, php-format
+msgid "The user \"%s\" has changed its contact data."
+msgstr ""
+
+#: pages/profile.php:334
+msgid "Previously stored data:"
+msgstr ""
+
+#: pages/profile.php:335
+msgid "New data:"
+msgstr ""
+
+#: pages/ssl_certificates.php:76
+msgid "Let's Encrypt certificate"
+msgstr ""
+
+#: pages/ssl_certificates.php:234
+msgid "Add Certificate"
+msgstr ""
+
+#: pages/ssl_certificates.php:292
+msgid "Years"
+msgstr ""
+
+#: pages/ssl_certificates.php:571
+msgid "Edit Certificate"
+msgstr ""
+
+#: pages/ssl_certificates.php:839
+msgid "Delete Certificate"
+msgstr ""
+
+#: pages/user_databases.php:143
+msgid "Add Database"
+msgstr ""
+
+#: pages/user_databases.php:291
+msgid "Edit Database"
+msgstr ""
+
+#: pages/user_databases.php:429
+msgid "Delete Database"
+msgstr ""
+
+#: pages/user_dir_protection.php:131
+msgid "Add Directory Protection"
+msgstr ""
+
+#: pages/user_dir_protection.php:131
+msgid "Edit Directory Protection"
+msgstr ""
+
+#: pages/user_dir_protection.php:231
+#, php-format
+msgid ""
+"The directory protection for the directory %s has been successfully created "
+"and is available in a few moments."
+msgstr ""
+
+#: pages/user_dir_protection.php:235
+#, php-format
+msgid ""
+"The directory protection for the directory %s has been successfully updated. "
+"The changes take effect in a few moments."
+msgstr ""
+
+#: pages/user_dir_protection.php:306
+msgid "Delete Directory Protection"
+msgstr ""
+
+#: pages/user_ftp.php:137
+msgid "Add FTP User"
+msgstr ""
+
+#: pages/user_ftp.php:230
+msgid "Edit FTP User"
+msgstr ""
+
+#: pages/user_ftp.php:331
+msgid "Delete FTP User"
+msgstr ""

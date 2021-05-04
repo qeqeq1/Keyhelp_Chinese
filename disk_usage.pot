@@ -1,0 +1,94 @@
+# SOME DESCRIPTIVE TITLE.
+# This file is put in the public domain.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KeyHelp 21.1\n"
+"Report-Msgid-Bugs-To: info@keyhelp.de\n"
+"POT-Creation-Date: 2021-04-12 12:02+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: functions/functions.translations.php:1117
+msgid "Here you find an overview of all mounted devices and their status."
+msgstr ""
+
+#: functions/functions.translations.php:1118
+msgid "Temporary file systems"
+msgstr ""
+
+#: functions/functions.translations.php:1119
+msgid "Regular filesystems"
+msgstr ""
+
+#: functions/functions.translations.php:1120
+msgid "Mount"
+msgstr ""
+
+#: functions/functions.translations.php:1121
+msgid "File system"
+msgstr ""
+
+#: functions/functions.translations.php:1122 pages/admin_disk_overview.php:54
+msgid "Reserve"
+msgstr ""
+
+#: functions/functions.translations.php:1123
+msgid "Max. available"
+msgstr ""
+
+#: functions/functions.translations.php:1124 pages/admin_disk_overview.php:53
+msgid "Free"
+msgstr ""
+
+#: functions/functions.translations.php:1125 pages/admin_disk_overview.php:52
+msgid "Used"
+msgstr ""
+
+#: functions/functions.translations.php:1126
+msgid "Usage"
+msgstr ""
+
+#: functions/functions.translations.php:1128
+msgid ""
+"Here you can analyze the disk usage of your server to easily identify large "
+"files and folders."
+msgstr ""
+
+#: functions/functions.translations.php:1129
+msgid "Inodes / Objects"
+msgstr ""
+
+#: functions/functions.translations.php:1130
+msgid "Utilization share"
+msgstr ""
+
+#: functions/functions.translations.php:1131
+msgid "Automatic data collection"
+msgstr ""
+
+#: functions/functions.translations.php:1132
+msgid ""
+"If enabled, data collection is triggered as soon as you click on a directory."
+msgstr ""
+
+#: functions/functions.translations.php:1133
+msgid ""
+"On servers with a lot of data, it may be advisable to disable this setting "
+"and trigger the data collection manually."
+msgstr ""
+
+#: functions/functions.translations.php:1134
+msgid "Collecting file sizes"
+msgstr ""
+
+#: functions/functions.translations.php:1135
+msgid "Collecting inodes / objects"
+msgstr ""

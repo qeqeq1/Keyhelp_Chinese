@@ -1,0 +1,105 @@
+# SOME DESCRIPTIVE TITLE.
+# This file is put in the public domain.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KeyHelp 21.1\n"
+"Report-Msgid-Bugs-To: info@keyhelp.de\n"
+"POT-Creation-Date: 2021-04-12 12:02+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: functions/functions.translations.php:1047
+msgid "Login time"
+msgstr ""
+
+#: functions/functions.translations.php:1048
+msgid "Idle time"
+msgstr ""
+
+#: functions/functions.translations.php:1050
+msgid "Control panel sessions"
+msgstr ""
+
+#: functions/functions.translations.php:1051
+msgid "Session idle time"
+msgstr ""
+
+#: functions/functions.translations.php:1052
+msgid "User role"
+msgstr ""
+
+#: functions/functions.translations.php:1053
+msgid "Stop selected sessions"
+msgstr ""
+
+#: functions/functions.translations.php:1054
+msgid "Are you sure you want to stop all selected sessions?"
+msgstr ""
+
+#: functions/functions.translations.php:1056
+msgid "System user sessions"
+msgstr ""
+
+#: functions/functions.translations.php:1057
+msgid "Current process"
+msgstr ""
+
+#: functions/functions.translations.php:1058
+msgid "Session type"
+msgstr ""
+
+#: functions/functions.translations.php:1060
+msgid "Email server sessions"
+msgstr ""
+
+#: functions/functions.translations.php:1061
+msgid "Connection count"
+msgstr ""
+
+#: functions/functions.translations.php:1063
+msgid "FTP sessions"
+msgstr ""
+
+#: functions/functions.translations.php:1064
+msgid "FTP server uptime"
+msgstr ""
+
+#: functions/functions.translations.php:1065
+msgid "Progress"
+msgstr ""
+
+#: functions/functions.translations.php:1066
+msgid "Location"
+msgstr ""
+
+#: functions/functions.translations.php:1067
+msgid "Speed"
+msgstr ""
+
+#: functions/functions.translations.php:1068
+msgid "Idle"
+msgstr ""
+
+#: functions/functions.translations.php:1069
+msgid "Authenticating"
+msgstr ""
+
+#: functions/functions.translations.php:1070
+msgid "Downloading"
+msgstr ""
+
+#: functions/functions.translations.php:1071
+msgid "Uploading"
+msgstr ""
+
+#: functions/functions.translations.php:1072
+msgid "Unknown"
+msgstr ""

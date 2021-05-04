@@ -1,0 +1,394 @@
+# SOME DESCRIPTIVE TITLE.
+# This file is put in the public domain.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KeyHelp 21.1\n"
+"Report-Msgid-Bugs-To: info@keyhelp.de\n"
+"POT-Creation-Date: 2021-04-12 12:02+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: core/Backup/BackupOperation.php:50
+msgid "Update repository settings"
+msgstr ""
+
+#: core/Backup/BackupRepository.php:533
+#: functions/functions.translations.php:1651
+msgid "Local"
+msgstr ""
+
+#: functions/functions.translations.php:1641
+msgid "Backup features"
+msgstr ""
+
+#: functions/functions.translations.php:1642
+msgid "Create backup"
+msgstr ""
+
+#: functions/functions.translations.php:1643
+msgid "Here you can start a backup process."
+msgstr ""
+
+#: functions/functions.translations.php:1644
+msgid ""
+"After finishing, the backup archive will be stored in the repository you "
+"selected."
+msgstr ""
+
+#: functions/functions.translations.php:1645
+msgid "Schedule a backup"
+msgstr ""
+
+#: functions/functions.translations.php:1646
+msgid "Here you can schedule regular backup tasks."
+msgstr ""
+
+#: functions/functions.translations.php:1647
+msgid "The backup process runs automatically at the time you specified."
+msgstr ""
+
+#: functions/functions.translations.php:1648
+msgid "Stored backups"
+msgstr ""
+
+#: functions/functions.translations.php:1649
+msgid ""
+"Here you get an overview of all stored backups that are located locally on "
+"this server and on the remote server."
+msgstr ""
+
+#: functions/functions.translations.php:1650
+msgid ""
+"You can also download your backups to your personal computer, or remove "
+"files stored backups."
+msgstr ""
+
+#: functions/functions.translations.php:1652
+msgid "Remote"
+msgstr ""
+
+#: functions/functions.translations.php:1653
+msgid "Remote server settings"
+msgstr ""
+
+#: functions/functions.translations.php:1654
+msgid ""
+"Here you can specify an external server on which your backups can be stored."
+msgstr ""
+
+#: functions/functions.translations.php:1656
+msgid "Last performed backups"
+msgstr ""
+
+#: functions/functions.translations.php:1657
+msgid "Started on"
+msgstr ""
+
+#: functions/functions.translations.php:1658
+msgid "Repository"
+msgstr ""
+
+#: functions/functions.translations.php:1659
+msgid "Started automatically"
+msgstr ""
+
+#: functions/functions.translations.php:1660
+msgid "Starts soon"
+msgstr ""
+
+#. Translators: Keep the double percentage sign!
+#: functions/functions.translations.php:1662
+#, php-format
+msgid "Processing (Progress: %u%%)"
+msgstr ""
+
+#: functions/functions.translations.php:1663
+msgid "Finished successfully"
+msgstr ""
+
+#: functions/functions.translations.php:1664
+#, php-format
+msgid "Canceled (Error: %s)"
+msgstr ""
+
+#: functions/functions.translations.php:1666
+msgid "Backup scope"
+msgstr ""
+
+#: functions/functions.translations.php:1668
+#, php-format
+msgid "Full server backup (%s)."
+msgstr ""
+
+#: functions/functions.translations.php:1669
+msgid "All databases"
+msgstr ""
+
+#: functions/functions.translations.php:1671
+msgid "Full user backups (home directories, databases, emails)."
+msgstr ""
+
+#: functions/functions.translations.php:1672
+msgid "Full backup (home directory, databases, emails)."
+msgstr ""
+
+#: functions/functions.translations.php:1673
+msgid "Here you can specify where the backup archive should be stored."
+msgstr ""
+
+#: functions/functions.translations.php:1674
+msgid "Local repository"
+msgstr ""
+
+#: functions/functions.translations.php:1675
+msgid "The administrator has prohibited to store local backups."
+msgstr ""
+
+#: functions/functions.translations.php:1676
+msgid "Remote repository"
+msgstr ""
+
+#: functions/functions.translations.php:1677
+msgid "There are no remote connection settings stored."
+msgstr ""
+
+#: functions/functions.translations.php:1678
+msgid "Email address for notifications"
+msgstr ""
+
+#: functions/functions.translations.php:1679
+msgid ""
+"If an error occurs during backup, a message is sent to this email address."
+msgstr ""
+
+#: functions/functions.translations.php:1680
+msgid "Send notification also in case of success."
+msgstr ""
+
+#: functions/functions.translations.php:1681
+msgid "Enable password protection"
+msgstr ""
+
+#: functions/functions.translations.php:1682
+msgid ""
+"For security reasons, we recommend protecting your backup with a password, "
+"especially if your backup contains sensitive data."
+msgstr ""
+
+#: functions/functions.translations.php:1683
+msgid "Note that you can not restore the backup without the password!"
+msgstr ""
+
+#: functions/functions.translations.php:1685
+msgid "Backup task is enabled"
+msgstr ""
+
+#: functions/functions.translations.php:1686
+msgid "Backup interval"
+msgstr ""
+
+#: functions/functions.translations.php:1687
+#, php-format
+msgid "The server is running with the timezone %s."
+msgstr ""
+
+#: functions/functions.translations.php:1688
+msgid "Select interval"
+msgstr ""
+
+#: functions/functions.translations.php:1689
+msgid "Maximum number of files in repository"
+msgstr ""
+
+#: functions/functions.translations.php:1690
+msgid ""
+"To save disk space, you can limit the number of files in the chosen "
+"repository, the old backup files are removed for this purpose."
+msgstr ""
+
+#: functions/functions.translations.php:1691
+msgid "The value \"0\" / empty means \"no limit\"."
+msgstr ""
+
+#: functions/functions.translations.php:1692
+#, php-format
+msgid ""
+"The file limit for the local repository has been set to %s by the "
+"administrator."
+msgstr ""
+
+#: functions/functions.translations.php:1693
+msgid "Days between 29th and 31st do not work for every month."
+msgstr ""
+
+#: functions/functions.translations.php:1695
+msgid "View"
+msgstr ""
+
+#: functions/functions.translations.php:1696
+msgid "Creation date"
+msgstr ""
+
+#: functions/functions.translations.php:1697
+msgid "Filename"
+msgstr ""
+
+#: functions/functions.translations.php:1698
+msgid "Total size"
+msgstr ""
+
+#: functions/functions.translations.php:1699
+msgid "Are you sure you want to delete the selected files?"
+msgstr ""
+
+#: functions/functions.translations.php:1701
+msgid "Remote server"
+msgstr ""
+
+#: functions/functions.translations.php:1702
+msgid "Enter the host name or the IP address of the server."
+msgstr ""
+
+#: functions/functions.translations.php:1703
+msgid "If port is empty, the default port for the selected protocol is used."
+msgstr ""
+
+#: functions/functions.translations.php:1704
+msgid "FTP options"
+msgstr ""
+
+#: functions/functions.translations.php:1705
+msgid "SFTP options"
+msgstr ""
+
+#: functions/functions.translations.php:1706
+msgid "Use FTPS"
+msgstr ""
+
+#: functions/functions.translations.php:1707
+msgid "FTP over SSL, short FTPS, is a method to encrypt the FTP protocol."
+msgstr ""
+
+#: functions/functions.translations.php:1708
+msgid "Use passive mode"
+msgstr ""
+
+#: functions/functions.translations.php:1709
+msgid ""
+"This option should be selected if because of a firewall no connection to the "
+"remote server can be established."
+msgstr ""
+
+#: functions/functions.translations.php:1710
+msgid "Use public / private key authentication"
+msgstr ""
+
+#: functions/functions.translations.php:1711
+msgid "Directory on the server"
+msgstr ""
+
+#: functions/functions.translations.php:1712
+msgid "Login name"
+msgstr ""
+
+#: functions/functions.translations.php:1713
+msgid "This field can be left blank, if the value has already been saved."
+msgstr ""
+
+#: functions/functions.translations.php:1714
+msgid "Test connection"
+msgstr ""
+
+#: functions/functions.translations.php:1715
+msgid "Public key"
+msgstr ""
+
+#: functions/functions.translations.php:1716
+msgid "Place the public key on the remote server."
+msgstr ""
+
+#: functions/functions.translations.php:1717
+msgid "There is no public key. You must create a new key pair first."
+msgstr ""
+
+#: functions/functions.translations.php:1718
+msgid "Create key pair"
+msgstr ""
+
+#: functions/functions.translations.php:1719
+msgid "Remove key pair"
+msgstr ""
+
+#: functions/functions.translations.php:1720
+msgid "Everything okay!"
+msgstr ""
+
+#: functions/functions.translations.php:1722
+msgid "User backup"
+msgstr ""
+
+#: functions/functions.translations.php:1723
+msgid "Server backup"
+msgstr ""
+
+#: pages/backup_repository.php:59 pages/backup_repository.php:531
+msgid "Repository management"
+msgstr ""
+
+#: pages/backup_repository.php:117
+msgid "Add repository"
+msgstr ""
+
+#: pages/backup_repository.php:117
+msgid "Edit repository"
+msgstr ""
+
+#: pages/backup_repository.php:276
+msgid "The authentication token could not be received."
+msgstr ""
+
+#: pages/backup_repository.php:307
+msgid "Failed to connect to repository storage."
+msgstr ""
+
+#: pages/backup_repository.php:318
+#, php-format
+msgid "Backup repository %s has been added."
+msgstr ""
+
+#: pages/backup_repository.php:318
+#, php-format
+msgid "Backup repository %s has been updated."
+msgstr ""
+
+#: pages/backup_repository.php:359
+msgid "Storage type"
+msgstr ""
+
+#: pages/backup_repository.php:361
+msgid "Host"
+msgstr ""
+
+#: pages/backup_repository.php:365
+msgid "WebDAV URL"
+msgstr ""
+
+#: pages/backup_repository.php:451
+msgid "Delete repository"
+msgstr ""
+
+#: pages/backup_restore.php:57
+msgid "Select repository"
+msgstr ""
+
+#: pages/backup_restore.php:85
+msgid "Restore"
+msgstr ""

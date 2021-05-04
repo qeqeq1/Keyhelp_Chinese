@@ -1,0 +1,221 @@
+# SOME DESCRIPTIVE TITLE.
+# This file is put in the public domain.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KeyHelp 21.1\n"
+"Report-Msgid-Bugs-To: info@keyhelp.de\n"
+"POT-Creation-Date: 2021-04-12 12:02+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: functions/functions.translations.php:1368
+msgid "Here you can set up and manage email addresses."
+msgstr ""
+
+#: functions/functions.translations.php:1369
+msgid ""
+"For each email account, you can assign additional alternative email "
+"addresses (aliases) and set up redirects to other email addresses."
+msgstr ""
+
+#: functions/functions.translations.php:1370
+msgid "Inbox"
+msgstr ""
+
+#: functions/functions.translations.php:1371
+msgid "Outbox"
+msgstr ""
+
+#: functions/functions.translations.php:1372
+msgid "Port for STARTTLS"
+msgstr ""
+
+#: functions/functions.translations.php:1373
+msgid "Port for SSL/TLS"
+msgstr ""
+
+#: functions/functions.translations.php:1374
+msgid "Add email account"
+msgstr ""
+
+#: functions/functions.translations.php:1375
+msgid "Edit email account"
+msgstr ""
+
+#: functions/functions.translations.php:1376
+msgid "Delete email account"
+msgstr ""
+
+#: functions/functions.translations.php:1377
+msgid "Email account"
+msgstr ""
+
+#: functions/functions.translations.php:1378
+msgid "Forwarding"
+msgstr ""
+
+#: functions/functions.translations.php:1379
+msgid "Mailbox size"
+msgstr ""
+
+#: functions/functions.translations.php:1380
+msgid "Forward to"
+msgstr ""
+
+#: functions/functions.translations.php:1381
+msgid "Forwarding account"
+msgstr ""
+
+#: functions/functions.translations.php:1382
+msgid "Catch-all"
+msgstr ""
+
+#: functions/functions.translations.php:1383
+msgid "Protections"
+msgstr ""
+
+#: functions/functions.translations.php:1384
+msgid "Virus"
+msgstr ""
+
+#: functions/functions.translations.php:1385
+msgid "Spam"
+msgstr ""
+
+#: functions/functions.translations.php:1386
+msgid ""
+"Email accounts can be automatically set up in popular email clients such as "
+"Microsoft Outlook, Mozilla Thunderbird, Apple Mail, etc. Your email client "
+"automatically obtains the necessary data from the server."
+msgstr ""
+
+#. Translators: first placeholder: Apple Mail | second placeholder: Safari browser
+#: functions/functions.translations.php:1389
+#, php-format
+msgid ""
+"To use the auto-configuration for %1$s, open one of the following links with "
+"%2$s according to your intended use."
+msgstr ""
+
+#: functions/functions.translations.php:1390
+msgid "Safari browser"
+msgstr ""
+
+#: functions/functions.translations.php:1391
+msgid "Setup IMAP account"
+msgstr ""
+
+#: functions/functions.translations.php:1392
+msgid "Setup POP3 account"
+msgstr ""
+
+#: functions/functions.translations.php:1393
+msgid ""
+"For a manual configuration please use the data from the following table."
+msgstr ""
+
+#: functions/functions.translations.php:1395
+msgid ""
+"All emails sent to a non-configured address within this domain will be "
+"delivered to this email account."
+msgstr ""
+
+#: functions/functions.translations.php:1396
+msgid "Protection measures will be disabled for this email account."
+msgstr ""
+
+#: functions/functions.translations.php:1397
+msgid ""
+"Please note, that you will likely receive a higher amount of spam, phishing "
+"and malware emails."
+msgstr ""
+
+#: functions/functions.translations.php:1398
+msgid "Check incoming emails for viruses"
+msgstr ""
+
+#: functions/functions.translations.php:1399
+#, php-format
+msgid "If a virus is found, the subject of the email is tagged with %s."
+msgstr ""
+
+#: functions/functions.translations.php:1400
+msgid "Check incoming emails for spam"
+msgstr ""
+
+#: functions/functions.translations.php:1401
+#, php-format
+msgid "If spam is found, the subject of the email is tagged with %s."
+msgstr ""
+
+#: functions/functions.translations.php:1402
+msgid "Spam score"
+msgstr ""
+
+#: functions/functions.translations.php:1403
+msgid "The lower the value, the more sensitive is the spam filter."
+msgstr ""
+
+#: functions/functions.translations.php:1404
+msgid "Alias addresses"
+msgstr ""
+
+#: functions/functions.translations.php:1405
+msgid ""
+"Email aliases are alternative email addresses which are associated to an "
+"email account. All emails sent to an alias, will be received by the primary "
+"address."
+msgstr ""
+
+#: functions/functions.translations.php:1406
+msgid "Add alias address"
+msgstr ""
+
+#: functions/functions.translations.php:1407
+msgid "Here you can specify email forwarding to one or more email addresses."
+msgstr ""
+
+#: functions/functions.translations.php:1408
+msgid "Store forwarded emails in the mailbox as well"
+msgstr ""
+
+#: functions/functions.translations.php:1409
+msgid ""
+"Separate multiple email addresses by space, comma, semicolon or newline from "
+"each other."
+msgstr ""
+
+#: functions/functions.translations.php:1410
+msgid ""
+"Please note: If you use an external email address, not managed by this "
+"server, you may need to whitelist this server in the SPF (Sender Policy "
+"Framework) settings of the external server."
+msgstr ""
+
+#: functions/functions.translations.php:1411
+msgid "Advanced settings"
+msgstr ""
+
+#: functions/functions.translations.php:1412
+msgid "Auto-Expunge"
+msgstr ""
+
+#: functions/functions.translations.php:1413
+msgid "Expunge emails older than XX days from the junk/spam folder."
+msgstr ""
+
+#: functions/functions.translations.php:1414
+msgid "Expunge emails older than XX days from the trash."
+msgstr ""
+
+#: functions/functions.translations.php:1415
+msgid "If this field is empty, the feature is disabled."
+msgstr ""

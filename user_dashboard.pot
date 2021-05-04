@@ -1,0 +1,130 @@
+# SOME DESCRIPTIVE TITLE.
+# This file is put in the public domain.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KeyHelp 21.1\n"
+"Report-Msgid-Bugs-To: info@keyhelp.de\n"
+"POT-Creation-Date: 2021-04-12 12:02+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: functions/functions.translations.php:1159
+msgid "Disk space"
+msgstr ""
+
+#: functions/functions.translations.php:1160 pages/user_dashboard.php:167
+msgid "Webspace"
+msgstr ""
+
+#: functions/functions.translations.php:1161 pages/user_dashboard.php:168
+msgid "Emails"
+msgstr ""
+
+#: functions/functions.translations.php:1162 pages/user_dashboard.php:170
+msgid "Free"
+msgstr ""
+
+#: functions/functions.translations.php:1164
+msgid "Account information"
+msgstr ""
+
+#: functions/functions.translations.php:1165
+msgid "Main domains"
+msgstr ""
+
+#: functions/functions.translations.php:1166
+msgid "Absolute path to home directory"
+msgstr ""
+
+#: functions/functions.translations.php:1167
+msgid "System username"
+msgstr ""
+
+#: functions/functions.translations.php:1169
+msgid "Account options"
+msgstr ""
+
+#: functions/functions.translations.php:1170
+msgid "Directory listing"
+msgstr ""
+
+#: functions/functions.translations.php:1171
+msgid ""
+"If this option is enabled the files located in a web folder are shown as "
+"file lists in the browser even if there is no index file (e.g. index.html, "
+"index.php)."
+msgstr ""
+
+#: functions/functions.translations.php:1172
+msgid "IP anonymization inside web server logs"
+msgstr ""
+
+#: functions/functions.translations.php:1173
+msgid ""
+"Due to data privacy regulations, it may be necessary that IP addresses "
+"within the log files may only be stored anonymously after the period of time "
+"necessary for technical analysis (usually 7 days)."
+msgstr ""
+
+#: functions/functions.translations.php:1174
+msgid ""
+"Anonymization takes place after the automatic rotation of the log files."
+msgstr ""
+
+#: functions/functions.translations.php:1176
+msgid "Update profile"
+msgstr ""
+
+#: functions/functions.translations.php:1177
+msgid "You have not specified an email address for your account."
+msgstr ""
+
+#: functions/functions.translations.php:1178
+msgid ""
+"It is advisable to set an email address, to receive important email "
+"notifications and to reset your password if necessary."
+msgstr ""
+
+#: pages/user_dashboard.php:145
+msgid "You have exceeded the disk space limit of your account."
+msgstr ""
+
+#: pages/user_dashboard.php:146
+msgid "The storage of further data was restricted."
+msgstr ""
+
+#: pages/user_dashboard.php:147
+msgid ""
+"Please delete files that are no longer needed or ask your administrator to "
+"increase the disk space limit."
+msgstr ""
+
+#: pages/user_dashboard.php:148
+msgid ""
+"As soon as you have gained enough free disk space again, it will take a "
+"short moment until your account is fully activated again, please be patient."
+msgstr ""
+
+#: pages/user_dashboard.php:154
+msgid "Your user account only has a limited amount of free disk space left."
+msgstr ""
+
+#: pages/user_dashboard.php:155
+msgid ""
+"Please note that after exceeding the limit, you will not be able to save any "
+"more data."
+msgstr ""
+
+#: pages/user_dashboard.php:156
+msgid ""
+"Delete files that are no longer needed or ask your administrator to increase "
+"the disk space limit."
+msgstr ""

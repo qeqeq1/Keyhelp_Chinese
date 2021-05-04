@@ -1,0 +1,61 @@
+# SOME DESCRIPTIVE TITLE.
+# This file is put in the public domain.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KeyHelp 21.1\n"
+"Report-Msgid-Bugs-To: info@keyhelp.de\n"
+"POT-Creation-Date: 2021-04-12 12:02+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: cronjob/jobs/statistic.php:591
+msgid "Select period"
+msgstr ""
+
+#: functions/functions.translations.php:1435
+msgid "Statistics"
+msgstr ""
+
+#: functions/functions.translations.php:1436
+msgid "Click the button to open the statistics."
+msgstr ""
+
+#: functions/functions.translations.php:1437
+msgid ""
+"You will be prompted to log in, use the same user name that you use to log "
+"in to this control panel."
+msgstr ""
+
+#: functions/functions.translations.php:1438
+msgid "Show statistics"
+msgstr ""
+
+#: functions/functions.translations.php:1439
+msgid "Password for statistics access"
+msgstr ""
+
+#: pages/user_webstats.php:92
+msgid ""
+"You use the web statistics for the first time. In order to make the "
+"statistics only available to you alone, it is important that you first set a "
+"password for access."
+msgstr ""
+
+#: pages/user_webstats.php:93
+msgid ""
+"Use the password change option below. The password can be changed later, as "
+"often as you want."
+msgstr ""
+
+#: pages/user_webstats.php:119
+msgid ""
+"There are currently no statistics for your domains. Please try again later."
+msgstr ""

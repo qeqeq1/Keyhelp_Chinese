@@ -1,0 +1,79 @@
+# SOME DESCRIPTIVE TITLE.
+# This file is put in the public domain.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KeyHelp 21.1\n"
+"Report-Msgid-Bugs-To: info@keyhelp.de\n"
+"POT-Creation-Date: 2021-04-12 12:02+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: functions/functions.translations.php:1141
+msgid ""
+"Here you can see all emails that are about to be sent but have not yet been "
+"successfully sent."
+msgstr ""
+
+#: functions/functions.translations.php:1142
+msgid ""
+"You can use this source of information to identify possible spam issues."
+msgstr ""
+
+#: functions/functions.translations.php:1143
+#, php-format
+msgid "You can analyze the email header using the %s command from the console."
+msgstr ""
+
+#: functions/functions.translations.php:1144
+#, php-format
+msgid ""
+"If you encounter that your server is sending spam emails, the %s line in the "
+"email header could indicate which file is responsible for sending them."
+msgstr ""
+
+#: functions/functions.translations.php:1145
+msgid "Messages in queue"
+msgstr ""
+
+#: functions/functions.translations.php:1146
+#, php-format
+msgid ""
+"There are more than %s records in the queue! Possibly there are problems "
+"with spam mails."
+msgstr ""
+
+#: functions/functions.translations.php:1147
+msgid "Delete entire queue"
+msgstr ""
+
+#: functions/functions.translations.php:1148
+msgid "ID"
+msgstr ""
+
+#: functions/functions.translations.php:1149
+msgid "Sender"
+msgstr ""
+
+#: functions/functions.translations.php:1150
+msgid "Recipient"
+msgstr ""
+
+#: functions/functions.translations.php:1151
+msgid "Arrival date"
+msgstr ""
+
+#: functions/functions.translations.php:1152
+msgid "Age"
+msgstr ""
+
+#: functions/functions.translations.php:1153
+msgid "Are you sure you want to delete the entire email queue?"
+msgstr ""

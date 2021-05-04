@@ -1,0 +1,315 @@
+# SOME DESCRIPTIVE TITLE.
+# This file is put in the public domain.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KeyHelp 21.1\n"
+"Report-Msgid-Bugs-To: info@keyhelp.de\n"
+"POT-Creation-Date: 2021-04-12 12:02+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: functions/functions.translations.php:1443
+msgid ""
+"Here you can manage your files and folders within your personal home "
+"directory."
+msgstr ""
+
+#: functions/functions.translations.php:1445
+#, php-format
+msgid ""
+"Your websites should be stored inside of the %1$s folder. Files that you "
+"don't want to make accessible via the Internet should be placed in %2$s."
+msgstr ""
+
+#: functions/functions.translations.php:1449
+#, php-format
+msgid ""
+"The directories %s are part of your SSH environment and should be ignored."
+msgstr ""
+
+#: functions/functions.translations.php:1452
+msgid "No files should be stored or changed in these directories."
+msgstr ""
+
+#: functions/functions.translations.php:1453
+msgid "New"
+msgstr ""
+
+#: functions/functions.translations.php:1454
+msgid "Upload"
+msgstr ""
+
+#: functions/functions.translations.php:1455
+msgid "Modified time"
+msgstr ""
+
+#: functions/functions.translations.php:1456
+msgid "Empty file"
+msgstr ""
+
+#: functions/functions.translations.php:1457
+msgid "Create"
+msgstr ""
+
+#: functions/functions.translations.php:1458
+msgid "Rename"
+msgstr ""
+
+#: functions/functions.translations.php:1459
+msgid "Rename item"
+msgstr ""
+
+#: functions/functions.translations.php:1460
+msgid "New name"
+msgstr ""
+
+#: functions/functions.translations.php:1461
+msgid "Maximum file size"
+msgstr ""
+
+#: functions/functions.translations.php:1462
+msgid "Change permissions"
+msgstr ""
+
+#: functions/functions.translations.php:1463
+msgid "File permissions"
+msgstr ""
+
+#: functions/functions.translations.php:1464
+msgid "Extract archive"
+msgstr ""
+
+#: functions/functions.translations.php:1465
+msgid "Extract"
+msgstr ""
+
+#: functions/functions.translations.php:1466
+#: functions/functions.translations.php:1482 pages/user_file_manager.php:700
+msgid "Replace existing files"
+msgstr ""
+
+#: functions/functions.translations.php:1467
+msgid "Download as .zip"
+msgstr ""
+
+#: functions/functions.translations.php:1468
+msgid "Download as .tar.gz"
+msgstr ""
+
+#: functions/functions.translations.php:1469
+msgid "Current path"
+msgstr ""
+
+#: functions/functions.translations.php:1470
+msgid "Group"
+msgstr ""
+
+#: functions/functions.translations.php:1471
+msgid "Others"
+msgstr ""
+
+#: functions/functions.translations.php:1472
+msgid "Read"
+msgstr ""
+
+#: functions/functions.translations.php:1473
+msgid "Write"
+msgstr ""
+
+#: functions/functions.translations.php:1474
+msgid "Execute"
+msgstr ""
+
+#: functions/functions.translations.php:1475
+msgid "Numeric value"
+msgstr ""
+
+#: functions/functions.translations.php:1476
+msgid "Delete item"
+msgstr ""
+
+#: functions/functions.translations.php:1477
+msgid "Selected items"
+msgstr ""
+
+#: functions/functions.translations.php:1478
+msgid "File operation"
+msgstr ""
+
+#: functions/functions.translations.php:1479
+msgid "Please first select the files and directories you want to copy or move."
+msgstr ""
+
+#: functions/functions.translations.php:1480
+msgid "Target directory"
+msgstr ""
+
+#: functions/functions.translations.php:1481
+msgid "If the directory does not exist, it will be created."
+msgstr ""
+
+#: pages/user_file_manager.php:47
+msgid "Security violation due to a modified home directory path."
+msgstr ""
+
+#: pages/user_file_manager.php:48
+msgid "You are not allowed to use the file manager."
+msgstr ""
+
+#: pages/user_file_manager.php:87
+msgid "Failed to open directory."
+msgstr ""
+
+#: pages/user_file_manager.php:251 pages/user_file_manager.php:517
+msgid "The name is invalid or contains illegal characters."
+msgstr ""
+
+#: pages/user_file_manager.php:258 pages/user_file_manager.php:332
+#: pages/user_file_manager.php:524
+#, php-format
+msgid "There is already an item with the name %s."
+msgstr ""
+
+#: pages/user_file_manager.php:269
+#, php-format
+msgid "Directory %s created."
+msgstr ""
+
+#: pages/user_file_manager.php:269
+#, php-format
+msgid "File %s created."
+msgstr ""
+
+#: pages/user_file_manager.php:275
+msgid "Failed to create directory."
+msgstr ""
+
+#: pages/user_file_manager.php:275
+msgid "Failed to create file."
+msgstr ""
+
+#: pages/user_file_manager.php:277
+msgid ""
+"Possible reasons: Quota exceeded / Insufficient user rights of the parent "
+"folder."
+msgstr ""
+
+#: pages/user_file_manager.php:326 pages/user_file_manager.php:347
+#, php-format
+msgid "Failed to upload file %s."
+msgstr ""
+
+#: pages/user_file_manager.php:343
+#, php-format
+msgid "File %s uploaded."
+msgstr ""
+
+#: pages/user_file_manager.php:408
+msgid "Permission denied to delete the following items:"
+msgstr ""
+
+#: pages/user_file_manager.php:468
+msgid "File permissions updated."
+msgstr ""
+
+#: pages/user_file_manager.php:473
+msgid "Failed to update file permissions."
+msgstr ""
+
+#: pages/user_file_manager.php:474 pages/user_file_manager.php:539
+#: pages/user_file_manager.php:590
+msgid "Do you own the file?"
+msgstr ""
+
+#: pages/user_file_manager.php:533
+msgid "File renamed."
+msgstr ""
+
+#: pages/user_file_manager.php:538
+msgid "Failed to rename file."
+msgstr ""
+
+#: pages/user_file_manager.php:589
+msgid "Failed to download file."
+msgstr ""
+
+#: pages/user_file_manager.php:620
+msgid "The archive was successfully extracted."
+msgstr ""
+
+#: pages/user_file_manager.php:624
+msgid "Archive extraction failed."
+msgstr ""
+
+#: pages/user_file_manager.php:662
+msgid ""
+"Please select a directory other than the one in which the elements are "
+"currently located."
+msgstr ""
+
+#: pages/user_file_manager.php:668 pages/user_file_manager.php:679
+msgid "Invalid target directory."
+msgstr ""
+
+#: pages/user_file_manager.php:699
+msgid "An item with the same name already exists in the target directory."
+msgstr ""
+
+#: pages/user_file_manager.php:700
+#, php-format
+msgid "You can check the %s checkbox and try again."
+msgstr ""
+
+#: pages/user_file_manager.php:722
+msgid "You cannot copy or move a directory into itself."
+msgstr ""
+
+#: pages/user_file_manager.php:735
+msgid "The target directory contains illegal characters."
+msgstr ""
+
+#: pages/user_file_manager.php:780
+msgid "The selected items were successfully copied."
+msgstr ""
+
+#: pages/user_file_manager.php:780
+msgid "The selected items were successfully moved."
+msgstr ""
+
+#: pages/user_file_manager.php:787
+msgid "The following items could not be copied:"
+msgstr ""
+
+#: pages/user_file_manager.php:787
+msgid "The following items could not be moved:"
+msgstr ""
+
+#: pages/user_file_manager.php:809
+msgid "Edit file"
+msgstr ""
+
+#: pages/user_file_manager.php:844
+#, php-format
+msgid "File %s updated."
+msgstr ""
+
+#: pages/user_file_manager.php:848
+#, php-format
+msgid "Failed to update file %s."
+msgstr ""
+
+#: pages/user_file_manager.php:861 pages/user_file_manager.php:914
+msgid "Failed to open file."
+msgstr ""
+
+#: pages/user_file_manager.php:883
+msgid "Show file"
+msgstr ""

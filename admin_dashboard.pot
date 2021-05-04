@@ -1,0 +1,298 @@
+# SOME DESCRIPTIVE TITLE.
+# This file is put in the public domain.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KeyHelp 21.1\n"
+"Report-Msgid-Bugs-To: info@keyhelp.de\n"
+"POT-Creation-Date: 2021-04-12 12:02+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: functions/functions.translations.php:292
+msgid "News"
+msgstr ""
+
+#: functions/functions.translations.php:293
+msgid "More news"
+msgstr ""
+
+#: functions/functions.translations.php:295
+msgid "Administrator accounts"
+msgstr ""
+
+#: functions/functions.translations.php:296
+msgid "User accounts"
+msgstr ""
+
+#: functions/functions.translations.php:297
+msgid "Consumed disk space"
+msgstr ""
+
+#: functions/functions.translations.php:299
+msgid "Server time"
+msgstr ""
+
+#: functions/functions.translations.php:300
+msgid "Uptime"
+msgstr ""
+
+#: functions/functions.translations.php:301
+msgid "Hostname"
+msgstr ""
+
+#: functions/functions.translations.php:302
+msgid "Process count"
+msgstr ""
+
+#: functions/functions.translations.php:303
+msgid "Emails in queue"
+msgstr ""
+
+#: functions/functions.translations.php:304
+msgid "Free"
+msgstr ""
+
+#: functions/functions.translations.php:305
+msgid "Used"
+msgstr ""
+
+#: functions/functions.translations.php:307
+msgid "Disk space"
+msgstr ""
+
+#: functions/functions.translations.php:308
+msgid "Memory"
+msgstr ""
+
+#: functions/functions.translations.php:309
+msgid "Swap space"
+msgstr ""
+
+#: functions/functions.translations.php:311
+msgid "Applications"
+msgstr ""
+
+#: functions/functions.translations.php:312
+msgid "Operating system"
+msgstr ""
+
+#: functions/functions.translations.php:313
+msgid "Kernel"
+msgstr ""
+
+#: functions/functions.translations.php:314
+msgid "Web server"
+msgstr ""
+
+#: functions/functions.translations.php:315
+msgid "PHP version"
+msgstr ""
+
+#: functions/functions.translations.php:316
+msgid "Database server"
+msgstr ""
+
+#: functions/functions.translations.php:317
+msgid "FTP server"
+msgstr ""
+
+#: functions/functions.translations.php:318
+msgid "Database administration"
+msgstr ""
+
+#: functions/functions.translations.php:319
+msgid "Webmail"
+msgstr ""
+
+#: functions/functions.translations.php:320
+msgid "Changelog"
+msgstr ""
+
+#: functions/functions.translations.php:321
+msgid "Update available"
+msgstr ""
+
+#: functions/functions.translations.php:322
+msgid "Auto-update is disabled."
+msgstr ""
+
+#: functions/functions.translations.php:323
+msgid "Failed to retrieve update information."
+msgstr ""
+
+#: functions/functions.translations.php:324
+msgid "Mail transfer agent"
+msgstr ""
+
+#: functions/functions.translations.php:325
+msgid "Mail delivery agent"
+msgstr ""
+
+#: functions/functions.translations.php:326
+msgid "Cryptography"
+msgstr ""
+
+#: functions/functions.translations.php:328
+msgid "A server restart is required to complete previous updates."
+msgstr ""
+
+#: functions/functions.translations.php:329
+msgid "Reboot server"
+msgstr ""
+
+#: functions/functions.translations.php:330
+#, php-format
+msgid "Updates for %s software packages are available."
+msgstr ""
+
+#: functions/functions.translations.php:331
+msgid "The software on your server is up to date."
+msgstr ""
+
+#: functions/functions.translations.php:333
+msgid "This server uses a LXC virtualization."
+msgstr ""
+
+#: functions/functions.translations.php:334
+msgid "The load value is probably incorrect."
+msgstr ""
+
+#: functions/functions.translations.php:336
+msgid "Why I see this hint?"
+msgstr ""
+
+#: functions/functions.translations.php:337
+msgid "KeyHelp performs automatic system updates at regular intervals."
+msgstr ""
+
+#: functions/functions.translations.php:338
+msgid ""
+"If you see pending updates at this point after such an update, it means that "
+"some updates have been held back."
+msgstr ""
+
+#: functions/functions.translations.php:339
+msgid ""
+"These types of updates potentially affect the functionality of the installed "
+"services."
+msgstr ""
+
+#: functions/functions.translations.php:340
+msgid ""
+"To ensure smooth operation, such updates are not automatically installed."
+msgstr ""
+
+#: functions/functions.translations.php:341
+msgid ""
+"However, you can install such updates yourself using the console command "
+"\"apt-get dist-upgrade\"."
+msgstr ""
+
+#: functions/functions.translations.php:342
+msgid "Service/port monitoring"
+msgstr ""
+
+#: functions/functions.translations.php:343
+msgid "Service"
+msgstr ""
+
+#: functions/functions.translations.php:345
+msgid "Welcome to your <b>KeyHelp</b> server control panel"
+msgstr ""
+
+#: functions/functions.translations.php:346
+msgid ""
+"Before you start setting up your server, here are some important tips to "
+"ensure the stability of your system."
+msgstr ""
+
+#: functions/functions.translations.php:347
+msgid "Do not change the default PHP Interpreter of your operating system."
+msgstr ""
+
+#: functions/functions.translations.php:349
+#, php-format
+msgid "If you need other PHP versions, use the ones provided under %s."
+msgstr ""
+
+#: functions/functions.translations.php:352
+msgid "Never upgrade your operating system version manually."
+msgstr ""
+
+#: functions/functions.translations.php:353
+msgid ""
+"Instead, always use the instructions and upgrade scripts that you can find "
+"<a>here</a>."
+msgstr ""
+
+#: functions/functions.translations.php:355
+msgid "Update notes"
+msgstr ""
+
+#: functions/functions.translations.php:357
+msgid ""
+"The support of your operating system will be discontinued by the operating "
+"system manufacturer soon."
+msgstr ""
+
+#: functions/functions.translations.php:358
+msgid ""
+"It will reach end-of-life status and will not receive any further system "
+"updates."
+msgstr ""
+
+#: functions/functions.translations.php:359
+msgid ""
+"The support of your operating system was discontinued by the operating "
+"system manufacturer."
+msgstr ""
+
+#: functions/functions.translations.php:360
+msgid ""
+"It reached end-of-life status and will not receive any further system "
+"updates."
+msgstr ""
+
+#: functions/functions.translations.php:361
+msgid "We recommend upgrading to a newer operating system version."
+msgstr ""
+
+#: functions/functions.translations.php:362
+msgid "End of support period:"
+msgstr ""
+
+#: functions/functions.translations.php:363
+msgid "Please don't upgrade your OS manually."
+msgstr ""
+
+#: functions/functions.translations.php:364
+msgid ""
+"We have prepared a script and a step-by-step tutorial for performing the "
+"upgrade."
+msgstr ""
+
+#: functions/functions.translations.php:365
+msgid "Please ask your support for further instructions."
+msgstr ""
+
+#: functions/functions.translations.php:366
+msgid "The guide can be found <a>here</a>."
+msgstr ""
+
+#: pages/user_dashboard.php:95
+#, php-format
+msgid "Your account will be deleted on %s."
+msgstr ""
+
+#: pages/user_dashboard.php:101
+#, php-format
+msgid "Your account will be suspended on %s."
+msgstr ""

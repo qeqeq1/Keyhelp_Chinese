@@ -1,0 +1,1540 @@
+# SOME DESCRIPTIVE TITLE.
+# This file is put in the public domain.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KeyHelp 21.1\n"
+"Report-Msgid-Bugs-To: info@keyhelp.de\n"
+"POT-Creation-Date: 2021-04-12 12:02+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: functions/functions.translations.php:496
+msgid "Important note"
+msgstr ""
+
+#: functions/functions.translations.php:498
+msgid "Hostname"
+msgstr ""
+
+#: functions/functions.translations.php:499
+msgid ""
+"Here you can change the hostname of this server and therewith the domain, on "
+"which you can access the control panel."
+msgstr ""
+
+#: functions/functions.translations.php:500
+msgid ""
+"To ensure a smooth transition between a hostname update your Let's Encrypt "
+"certificates used to protect server services get switched to an interims "
+"self-signed certificate."
+msgstr ""
+
+#: functions/functions.translations.php:501
+msgid ""
+"When your new hostname is fully resolvable, you can switch back to Let's "
+"Encrypt via the <a>SSL/TLS certificates management</a>."
+msgstr ""
+
+#: functions/functions.translations.php:502
+#, php-format
+msgid "A backup of all modified configuration files can be found here %s."
+msgstr ""
+
+#: functions/functions.translations.php:503
+msgid "Please note: Custom DNS settings will not be changed!"
+msgstr ""
+
+#: functions/functions.translations.php:505
+msgid "Active IP addresses"
+msgstr ""
+
+#: functions/functions.translations.php:506
+msgid ""
+"Here you can specify which IP addresses should be used for configuration "
+"files."
+msgstr ""
+
+#: functions/functions.translations.php:507
+msgid ""
+"IP addresses that do not appear in this list must first be configured "
+"manually via the network interfaces."
+msgstr ""
+
+#: functions/functions.translations.php:508
+msgid ""
+"After modifying the IP addresses, affected configuration files will be "
+"rewritten."
+msgstr ""
+
+#: functions/functions.translations.php:509
+#: functions/functions.translations.php:538
+msgid "Domains with custom DNS settings will not be changed."
+msgstr ""
+
+#: functions/functions.translations.php:510
+msgid "Select up to 2 IP addresses."
+msgstr ""
+
+#: functions/functions.translations.php:512
+msgid "Installed interpreters"
+msgstr ""
+
+#: functions/functions.translations.php:513
+msgid "Here you see all installed PHP interpreters on your server."
+msgstr ""
+
+#: functions/functions.translations.php:514
+msgid ""
+"If you have customized your interpreters (e.g. installed additional "
+"modules, ...), you may want to turn off auto-update."
+msgstr ""
+
+#: functions/functions.translations.php:515
+msgid "Version"
+msgstr ""
+
+#: functions/functions.translations.php:516
+msgid "Errors"
+msgstr ""
+
+#: functions/functions.translations.php:517
+msgid "Selectable"
+msgstr ""
+
+#: functions/functions.translations.php:518
+msgid "Auto-update"
+msgstr ""
+
+#: functions/functions.translations.php:519
+msgid "Uninstall"
+msgstr ""
+
+#: functions/functions.translations.php:520
+msgid "Default PHP version of the operating system"
+msgstr ""
+
+#: functions/functions.translations.php:521
+msgid "Available interpreters"
+msgstr ""
+
+#: functions/functions.translations.php:522
+msgid ""
+"Here you see all available PHP interpreters, which could be installed on "
+"your server."
+msgstr ""
+
+#: functions/functions.translations.php:523
+msgid "Install"
+msgstr ""
+
+#: functions/functions.translations.php:525
+msgid "Select RAM drive directories"
+msgstr ""
+
+#: functions/functions.translations.php:526
+msgid ""
+"If a RAM drive is enabled for a certain directory, files are written to RAM "
+"instead to the hard drive."
+msgstr ""
+
+#: functions/functions.translations.php:527
+msgid ""
+"Please note that this option makes little sense if there is limited disk "
+"space available."
+msgstr ""
+
+#: functions/functions.translations.php:528
+msgid ""
+"When a heavily filled temporary directory is stored in RAM, it can block "
+"memory needed for other applications, leading to swapping and increased hard "
+"disk activity."
+msgstr ""
+
+#: functions/functions.translations.php:529
+msgid "Prevent script execution"
+msgstr ""
+
+#: functions/functions.translations.php:530
+msgid ""
+"Malicious scripts can install themselves in temporary folders and cause "
+"damage from there."
+msgstr ""
+
+#: functions/functions.translations.php:531
+msgid ""
+"If this option is enabled, script execution will be prevented for this "
+"folder."
+msgstr ""
+
+#: functions/functions.translations.php:532
+msgid "RAM drive size"
+msgstr ""
+
+#: functions/functions.translations.php:533
+#, no-php-format
+msgid "% of physical RAM"
+msgstr ""
+
+#: functions/functions.translations.php:535
+msgid "Name server"
+msgstr ""
+
+#: functions/functions.translations.php:536
+msgid "Here you can change the name servers used for the DNS configuration."
+msgstr ""
+
+#: functions/functions.translations.php:537
+msgid ""
+"After modifying the name servers, affected configuration files will be "
+"rewritten."
+msgstr ""
+
+#: functions/functions.translations.php:539
+msgid "Add name server"
+msgstr ""
+
+#: functions/functions.translations.php:541
+msgid "Log format"
+msgstr ""
+
+#: functions/functions.translations.php:542
+msgid "Here you can specify the log format for web server access logs."
+msgstr ""
+
+#: functions/functions.translations.php:543
+#, php-format
+msgid "The log format must end with %s."
+msgstr ""
+
+#: functions/functions.translations.php:544
+msgid "A reference of all available parameters can be found <a>here</a>."
+msgstr ""
+
+#: functions/functions.translations.php:545
+msgid "Web server ports"
+msgstr ""
+
+#: functions/functions.translations.php:546
+msgid "Here you can specify the ports on which the Apache web server listens."
+msgstr ""
+
+#: functions/functions.translations.php:547
+msgid ""
+"Necessary configuration files are written according to the specified ports."
+msgstr ""
+
+#: functions/functions.translations.php:548
+msgid ""
+"This option is useful if, for example, you want to use another web server in "
+"addition to the existing Apache web server."
+msgstr ""
+
+#: functions/functions.translations.php:549
+msgid "Use this option only if you are aware of the consequences."
+msgstr ""
+
+#: functions/functions.translations.php:550
+msgid ""
+"Incorrect data may result in this panel and all managed domains being "
+"inaccessible."
+msgstr ""
+
+#: functions/functions.translations.php:551
+msgid "HTTP port"
+msgstr ""
+
+#: functions/functions.translations.php:552
+#: functions/functions.translations.php:554
+#, php-format
+msgid "Custom port must be in range from %s to %s."
+msgstr ""
+
+#: functions/functions.translations.php:552
+#: functions/functions.translations.php:554
+msgid "Default port:"
+msgstr ""
+
+#: functions/functions.translations.php:553
+msgid "HTTPS port"
+msgstr ""
+
+#: functions/functions.translations.php:556
+msgid "Maximum message size"
+msgstr ""
+
+#: functions/functions.translations.php:557
+msgid "IMAP login: process_limit"
+msgstr ""
+
+#: functions/functions.translations.php:558
+msgid ""
+"If a large number of users try to access the mail server, especially when "
+"querying multiple folders in the email inbox using the IMAP protocol, it can "
+"quickly happen that the limit for client connections is reached."
+msgstr ""
+
+#: functions/functions.translations.php:559
+#: functions/functions.translations.php:563
+msgid ""
+"If you receive the following error message, you should increase this value."
+msgstr ""
+
+#: functions/functions.translations.php:561
+msgid "Maximum connections per user"
+msgstr ""
+
+#: functions/functions.translations.php:562
+msgid ""
+"Sets the maximum number of connections allowed for a user per IP address."
+msgstr ""
+
+#: functions/functions.translations.php:565
+msgid "Enforcing the mailbox quota"
+msgstr ""
+
+#: functions/functions.translations.php:566
+msgid ""
+"Enabling this setting ensures that a mailbox cannot grow larger in size than "
+"specified."
+msgstr ""
+
+#. Translators: Keep the double percentage sign!
+#: functions/functions.translations.php:568
+#, php-format
+msgid ""
+"When a mailbox reaches %d%% of its capacity, the user gets informed about "
+"this incident."
+msgstr ""
+
+#: functions/functions.translations.php:569
+msgid "Upon reaching 100%, new mail will be rejected by the mail server."
+msgstr ""
+
+#: functions/functions.translations.php:570
+msgid "Email virus checks"
+msgstr ""
+
+#: functions/functions.translations.php:571
+msgid ""
+"You can disable virus checking for incoming emails to save system resources."
+msgstr ""
+
+#: functions/functions.translations.php:572
+msgid "Train spam filters"
+msgstr ""
+
+#: functions/functions.translations.php:573
+msgid ""
+"Activates a cronjob that takes care of examining the junk/spam folders of "
+"mailboxes to improve the filtering of emails for spam."
+msgstr ""
+
+#: functions/functions.translations.php:574
+msgid ""
+"With enough training, the tagging of email subjects with ***SPAM*** gets "
+"progressively better."
+msgstr ""
+
+#: functions/functions.translations.php:575
+msgid "DNS-based whitelists"
+msgstr ""
+
+#: functions/functions.translations.php:576
+msgid ""
+"These lists can be used to classify emails of trusted origin. You can use "
+"these lists to prevent false-positives if you use too restrictive blacklists."
+msgstr ""
+
+#: functions/functions.translations.php:578
+msgid "DNS-based blacklists"
+msgstr ""
+
+#: functions/functions.translations.php:579
+msgid ""
+"These lists can be used to classify emails of doubtful origin as spam. Such "
+"emails are then rejected by the mail server."
+msgstr ""
+
+#: functions/functions.translations.php:582
+msgid "Allow remote access"
+msgstr ""
+
+#: functions/functions.translations.php:583
+msgid "This setting opens your database server for external access."
+msgstr ""
+
+#: functions/functions.translations.php:584
+msgid ""
+"Based on your firewall rules, it may be necessary to update your rules and "
+"open the MariaDB/MySQL port (Default: 3306)."
+msgstr ""
+
+#: functions/functions.translations.php:585
+msgid ""
+"Please note that it is advisable to open this port only for the IPs / IP "
+"ranges you need."
+msgstr ""
+
+#: functions/functions.translations.php:586
+msgid ""
+"After that you can provide the privilege to your user accounts, so they can "
+"log into their database from external hosts."
+msgstr ""
+
+#: functions/functions.translations.php:587
+msgid "Rules for assignment of database / user names"
+msgstr ""
+
+#: functions/functions.translations.php:588
+msgid "Auto-generated names"
+msgstr ""
+
+#: functions/functions.translations.php:589
+msgid "The names are automatically generated based on the username."
+msgstr ""
+
+#: functions/functions.translations.php:590
+msgid "Restricted choice of names"
+msgstr ""
+
+#: functions/functions.translations.php:591
+msgid ""
+"The names are prefixed with the username, otherwise they can be assigned "
+"individually."
+msgstr ""
+
+#: functions/functions.translations.php:592
+msgid "Free choice of names"
+msgstr ""
+
+#: functions/functions.translations.php:593
+msgid "The names can be assigned completely individually."
+msgstr ""
+
+#: functions/functions.translations.php:595
+msgid "Custom FTP usernames"
+msgstr ""
+
+#: functions/functions.translations.php:596
+msgid "Allows users to assign their own FTP usernames."
+msgstr ""
+
+#: functions/functions.translations.php:597
+msgid "Allows only SSL/TLS protected connections."
+msgstr ""
+
+#: functions/functions.translations.php:598
+msgid ""
+"If this option is enabled, only FTPS connections in explicit mode are "
+"allowed."
+msgstr ""
+
+#: functions/functions.translations.php:600
+msgid "Additional binaries"
+msgstr ""
+
+#: functions/functions.translations.php:601
+msgid ""
+"Here you can define additional binaries, which should be part of each "
+"restricted SSH environment."
+msgstr ""
+
+#: functions/functions.translations.php:602
+#: functions/functions.translations.php:605
+msgid "Please specify absolute paths."
+msgstr ""
+
+#: functions/functions.translations.php:603
+msgid "Additional paths"
+msgstr ""
+
+#: functions/functions.translations.php:604
+msgid "Sometimes, binaries require additional files/directories to run."
+msgstr ""
+
+#: functions/functions.translations.php:604
+#, php-format
+msgid "These are usually located in the %s directory."
+msgstr ""
+
+#: functions/functions.translations.php:606
+msgid "Note that the additional content will not be uninstalled automatically."
+msgstr ""
+
+#: functions/functions.translations.php:606
+msgid ""
+"Once the restricted SSH environment is updated, the files remain in it until "
+"it is completely disabled again for a particular user."
+msgstr ""
+
+#: functions/functions.translations.php:608
+msgid "Time zone"
+msgstr ""
+
+#: functions/functions.translations.php:609
+msgid ""
+"Here you can update the time zone of the server as well as set the default "
+"time zone of all PHP interpreters."
+msgstr ""
+
+#: functions/functions.translations.php:611
+msgid "Performing a server reboot"
+msgstr ""
+
+#: functions/functions.translations.php:612
+msgid "Please confirm to reboot by activating the following checkbox."
+msgstr ""
+
+#: functions/functions.translations.php:614
+msgid "SSL/TLS certificate notifications"
+msgstr ""
+
+#: functions/functions.translations.php:615
+msgid ""
+"Specify who should receive notifications of problems detected during routine "
+"SSL/TLS certificate checking."
+msgstr ""
+
+#: functions/functions.translations.php:616
+msgid ""
+"This includes problems with renewing Let's Encrypt certificates and "
+"expiration warnings for currently used certificates."
+msgstr ""
+
+#: functions/functions.translations.php:617
+msgid "Administrator accounts"
+msgstr ""
+
+#: functions/functions.translations.php:618
+msgid "Certificate owners"
+msgstr ""
+
+#: functions/functions.translations.php:619
+msgid "Alternate email address"
+msgstr ""
+
+#: functions/functions.translations.php:620
+msgid "Notification email address"
+msgstr ""
+
+#: functions/functions.translations.php:621
+msgid "Certificate expiration notification"
+msgstr ""
+
+#: functions/functions.translations.php:622
+msgid ""
+"Specifies how many days before the certificate expires a notification is "
+"sent."
+msgstr ""
+
+#: functions/functions.translations.php:623
+msgid "No notification"
+msgstr ""
+
+#: functions/functions.translations.php:624
+msgid "Let's Encrypt"
+msgstr ""
+
+#: functions/functions.translations.php:625
+msgid "Environment"
+msgstr ""
+
+#: functions/functions.translations.php:626
+msgid ""
+"The test environment generates invalid certificates, but is suitable for "
+"testing of settings and functionality."
+msgstr ""
+
+#: functions/functions.translations.php:627
+#, php-format
+msgid ""
+"After changing the environment, it may be necessary to remove the folder %s."
+msgstr ""
+
+#: functions/functions.translations.php:628
+msgid "Live environment"
+msgstr ""
+
+#: functions/functions.translations.php:629
+msgid "Test environment"
+msgstr ""
+
+#: functions/functions.translations.php:630
+msgid "The country, which is used in the CSR for requested certificates."
+msgstr ""
+
+#: functions/functions.translations.php:631
+msgid "The state, which is used in the CSR for requested certificates."
+msgstr ""
+
+#: functions/functions.translations.php:633
+msgid "Password minimum length"
+msgstr ""
+
+#: functions/functions.translations.php:634
+msgid "Password complexity"
+msgstr ""
+
+#: functions/functions.translations.php:635
+msgid "The password must consist of at least one of the following characters."
+msgstr ""
+
+#: functions/functions.translations.php:636
+msgid "Letters"
+msgstr ""
+
+#: functions/functions.translations.php:637
+msgid "Lower-case letters"
+msgstr ""
+
+#: functions/functions.translations.php:638
+msgid "Upper-case letters"
+msgstr ""
+
+#: functions/functions.translations.php:639
+msgid "Digits"
+msgstr ""
+
+#: functions/functions.translations.php:640
+msgid "Special characters"
+msgstr ""
+
+#: functions/functions.translations.php:641
+msgid "Additional password checks"
+msgstr ""
+
+#: functions/functions.translations.php:642
+msgid "Disallows the 100,000 most common passwords."
+msgstr ""
+
+#: functions/functions.translations.php:643
+msgid "Checks whether the password is contained in a known data leak."
+msgstr ""
+
+#: functions/functions.translations.php:645
+msgid ""
+"For verification, a service at <a>haveibeenpwned.com</a> is used. This "
+"website enables internet users to check whether their personal data has been "
+"compromised by data leaks."
+msgstr ""
+
+#: functions/functions.translations.php:649
+msgid ""
+"At no time is the password transmitted to this service. The security of the "
+"data is ensured by a <a>k-anonymity</a> model."
+msgstr ""
+
+#: functions/functions.translations.php:653
+msgid "Brute-force protection"
+msgstr ""
+
+#: functions/functions.translations.php:654
+msgid ""
+"Login attempts are throttled if the system has detected too many invalid "
+"requests from an IP subnet."
+msgstr ""
+
+#: functions/functions.translations.php:655
+msgid ""
+"Here you can specify the maximum number of seconds by which further requests "
+"from this IP subnet should be throttled."
+msgstr ""
+
+#: functions/functions.translations.php:656
+msgid "Session idle time"
+msgstr ""
+
+#: functions/functions.translations.php:657
+msgid ""
+"Idle time of the session until the user is automatically logged out due to "
+"inactivity."
+msgstr ""
+
+#: functions/functions.translations.php:658
+msgid "Restrict administrative access"
+msgstr ""
+
+#: functions/functions.translations.php:659
+msgid ""
+"Here you can restrict the login for administrator accounts to one or more "
+"IPs or subnet addresses."
+msgstr ""
+
+#: functions/functions.translations.php:660
+msgid "This setting has no effect on the login of regular user accounts."
+msgstr ""
+
+#: functions/functions.translations.php:662
+msgid "List acts as..."
+msgstr ""
+
+#: functions/functions.translations.php:663
+msgid "Blacklist - Blocks access for all listed addresses."
+msgstr ""
+
+#: functions/functions.translations.php:664
+msgid "Whitelist - Grants access only for listed addresses."
+msgstr ""
+
+#: functions/functions.translations.php:665
+msgid ""
+"If you can no longer log in due to a changed IP, you can also disable access "
+"restrictions from console by calling the following program:"
+msgstr ""
+
+#: functions/functions.translations.php:667
+msgid "Choose configuration type"
+msgstr ""
+
+#: functions/functions.translations.php:668
+msgid "Default configuration"
+msgstr ""
+
+#: functions/functions.translations.php:669
+msgid "These settings are managed by the control panel."
+msgstr ""
+
+#: functions/functions.translations.php:670
+msgid ""
+"They ensure a good level of security and support for a wide range of clients."
+msgstr ""
+
+#: functions/functions.translations.php:671
+msgid ""
+"As part of a panel update, the settings can be adapted to current standards."
+msgstr ""
+
+#: functions/functions.translations.php:672
+msgid "Custom configuration"
+msgstr ""
+
+#: functions/functions.translations.php:673
+msgid "Minimal TLS protocol version"
+msgstr ""
+
+#: functions/functions.translations.php:674
+msgid ""
+"For services with clients that support TLS 1.3 and don't need backward "
+"compatibility."
+msgstr ""
+
+#: functions/functions.translations.php:675
+msgid ""
+"For general-purpose servers with a variety of clients, recommended for "
+"almost all systems."
+msgstr ""
+
+#: functions/functions.translations.php:676
+msgid "For compatibility with old clients."
+msgstr ""
+
+#: functions/functions.translations.php:677
+msgid ""
+"For compatibility with a number of very old clients. Should be used only as "
+"a last resort."
+msgstr ""
+
+#: functions/functions.translations.php:678
+msgid "TLS ciphers"
+msgstr ""
+
+#: functions/functions.translations.php:680
+msgid "Loading application list."
+msgstr ""
+
+#: functions/functions.translations.php:681
+msgid "If you are not being forwarded automatically, please click <a>here</a>."
+msgstr ""
+
+#: functions/functions.translations.php:682
+msgid "Filter application list"
+msgstr ""
+
+#: functions/functions.translations.php:683
+msgid ""
+"Here you define which applications should be displayed to users for "
+"installation."
+msgstr ""
+
+#: functions/functions.translations.php:684
+msgid "Allow all applications"
+msgstr ""
+
+#: functions/functions.translations.php:685
+msgid "Allow only selected applications"
+msgstr ""
+
+#: functions/functions.translations.php:687
+msgid "File manager is enabled"
+msgstr ""
+
+#: functions/functions.translations.php:688
+msgid ""
+"With this option you can enable / disable the file manager for the entire "
+"server."
+msgstr ""
+
+#: functions/functions.translations.php:689
+msgid ""
+"In order for the file manager to work, changes to the panel's sudoers file "
+"are required, which will be set up when the file manager is enabled."
+msgstr ""
+
+#: functions/functions.translations.php:690
+msgid "If you disable the file manager, these changes will be undone."
+msgstr ""
+
+#: functions/functions.translations.php:692
+msgid "Action in case of infection"
+msgstr ""
+
+#: functions/functions.translations.php:693
+msgid "No action / Report only"
+msgstr ""
+
+#: functions/functions.translations.php:694
+msgid "Move infection to quarantine"
+msgstr ""
+
+#: functions/functions.translations.php:695
+msgid "Delete infection (not recommended)"
+msgstr ""
+
+#: functions/functions.translations.php:696
+msgid "Notification"
+msgstr ""
+
+#: functions/functions.translations.php:697
+msgid ""
+"If infections are found / errors occur, the scan log is sent to this email "
+"address."
+msgstr ""
+
+#: functions/functions.translations.php:698
+msgid ""
+"If no email address is specified, notifications are sent to the "
+"administrator accounts."
+msgstr ""
+
+#: functions/functions.translations.php:699
+msgid "Send scan log, even if no infections have been found"
+msgstr ""
+
+#: functions/functions.translations.php:700
+msgid "Scan the following directories"
+msgstr ""
+
+#: functions/functions.translations.php:701
+msgid ""
+"Define the directory paths which should be scanned during a virus check."
+msgstr ""
+
+#: functions/functions.translations.php:702
+msgid ""
+"Separate multiple paths by space, comma, semicolon or newline from each "
+"other."
+msgstr ""
+
+#: functions/functions.translations.php:703
+msgid "Exclude paths from scanning"
+msgstr ""
+
+#: functions/functions.translations.php:704
+msgid "Specify the absolute paths of files or directories you want to exclude."
+msgstr ""
+
+#: functions/functions.translations.php:705
+msgid "Additional virus signatures"
+msgstr ""
+
+#: functions/functions.translations.php:706
+msgid ""
+"Additional virus signatures help you to enhance the detection rate of your "
+"virus scanner."
+msgstr ""
+
+#: functions/functions.translations.php:707
+msgid "Below you can add signature databases URLs."
+msgstr ""
+
+#: functions/functions.translations.php:708
+#, php-format
+msgid ""
+"As a starting point to get an overview of some of the available signatures, "
+"you can visit <a>%s</a>."
+msgstr ""
+
+#: functions/functions.translations.php:710
+msgid "Webmail client is enabled"
+msgstr ""
+
+#: functions/functions.translations.php:711
+msgid "This URL is used within the navigation to access the webmail client."
+msgstr ""
+
+#: functions/functions.translations.php:712
+#: functions/functions.translations.php:737
+msgid ""
+"Changing this can be useful if you have installed your own instance of this "
+"tool and want the URL to point to this location."
+msgstr ""
+
+#: functions/functions.translations.php:713
+#: functions/functions.translations.php:738
+msgid "Specify a valid URL, starting with \"http://\" or \"https://\"."
+msgstr ""
+
+#: functions/functions.translations.php:714
+msgid "Webmail client"
+msgstr ""
+
+#: functions/functions.translations.php:715
+msgid "Behavior of the webmail subdomain"
+msgstr ""
+
+#: functions/functions.translations.php:716
+msgid ""
+"For each domain created, there is always also a subdomain \"webmail.<DOMAIN "
+"NAME>\" available."
+msgstr ""
+
+#: functions/functions.translations.php:717
+msgid "Here you can define what should happen when this domain is accessed."
+msgstr ""
+
+#: functions/functions.translations.php:718
+msgid "Redirection"
+msgstr ""
+
+#: functions/functions.translations.php:719
+msgid ""
+"The user is redirected to the webmailer within the control panel domain."
+msgstr ""
+
+#: functions/functions.translations.php:720
+msgid "The domain name in the address bar is changed."
+msgstr ""
+
+#: functions/functions.translations.php:721
+#: functions/functions.translations.php:724
+msgid "Keep domain name"
+msgstr ""
+
+#: functions/functions.translations.php:722
+#: functions/functions.translations.php:725
+msgid "The domain name in the address bar remains unchanged."
+msgstr ""
+
+#: functions/functions.translations.php:723
+msgid ""
+"An insecure access via http:// will be redirected to a secure https:// "
+"connection."
+msgstr ""
+
+#: functions/functions.translations.php:724
+msgid "Insecure"
+msgstr ""
+
+#: functions/functions.translations.php:726
+msgid "Warning, insecure access via http:// is possible!"
+msgstr ""
+
+#: functions/functions.translations.php:727
+msgid "Product name"
+msgstr ""
+
+#: functions/functions.translations.php:728
+msgid "Support URL"
+msgstr ""
+
+#: functions/functions.translations.php:729
+msgid "Plugins"
+msgstr ""
+
+#: functions/functions.translations.php:730
+msgid "A comma-separated list of enabled Roundcube plugins."
+msgstr ""
+
+#: functions/functions.translations.php:731
+msgid "Default setting:"
+msgstr ""
+
+#: functions/functions.translations.php:732
+msgid "Interface skin"
+msgstr ""
+
+#: functions/functions.translations.php:733
+msgid "Database administration client is enabled"
+msgstr ""
+
+#: functions/functions.translations.php:734
+msgid "Database administration client"
+msgstr ""
+
+#: functions/functions.translations.php:735
+msgid "Access URL"
+msgstr ""
+
+#: functions/functions.translations.php:736
+msgid ""
+"This URL is used within the navigation to access the database administration "
+"client."
+msgstr ""
+
+#: functions/functions.translations.php:740
+msgid "Compression rate"
+msgstr ""
+
+#: functions/functions.translations.php:741
+msgid ""
+"You can reduce the duration of the backup process at the expense of the "
+"resulting file size by choosing a faster compression method."
+msgstr ""
+
+#: functions/functions.translations.php:742
+#: functions/functions.translations.php:745
+msgid "No compression"
+msgstr ""
+
+#: functions/functions.translations.php:742
+#, php-format
+msgid "The fastest option is %s."
+msgstr ""
+
+#: functions/functions.translations.php:743
+msgid "Multithreading"
+msgstr ""
+
+#: functions/functions.translations.php:744
+msgid ""
+"If you use a multiprocessor or multicore system, you can get a speed "
+"increase with this switch."
+msgstr ""
+
+#: functions/functions.translations.php:746
+msgid "Fastest compression"
+msgstr ""
+
+#: functions/functions.translations.php:747
+msgid "Fast compression"
+msgstr ""
+
+#: functions/functions.translations.php:748
+msgid "Normal compression"
+msgstr ""
+
+#: functions/functions.translations.php:749
+msgid "Maximum compression"
+msgstr ""
+
+#: functions/functions.translations.php:750
+msgid "Ultra compression"
+msgstr ""
+
+#: functions/functions.translations.php:751
+msgid "Enable local repository"
+msgstr ""
+
+#: functions/functions.translations.php:752
+msgid ""
+"If disabled, storing backups inside of the local repository is prohibited."
+msgstr ""
+
+#: functions/functions.translations.php:753
+#: functions/functions.translations.php:759
+msgid "This setting only affects user backups."
+msgstr ""
+
+#: functions/functions.translations.php:754
+msgid "Maximum number of files per local repository"
+msgstr ""
+
+#: functions/functions.translations.php:755
+msgid ""
+"To save disk space, you can limit the number of files in the local "
+"repository."
+msgstr ""
+
+#: functions/functions.translations.php:756
+msgid "Old backup files are removed when the limit is reached."
+msgstr ""
+
+#: functions/functions.translations.php:757
+msgid "The value \"0\" means that there are no limitations."
+msgstr ""
+
+#: functions/functions.translations.php:758
+msgid ""
+"Warning, this may result in all available disk space being consumed by "
+"backup files over time."
+msgstr ""
+
+#: functions/functions.translations.php:761
+msgid "Delete PHP session files older than"
+msgstr ""
+
+#: functions/functions.translations.php:762
+msgid "Deletes all files with access times older than"
+msgstr ""
+
+#: functions/functions.translations.php:763
+msgid "If this field is empty, no files will be deleted."
+msgstr ""
+
+#: functions/functions.translations.php:765
+msgid "Enable statistics"
+msgstr ""
+
+#: functions/functions.translations.php:766
+msgid ""
+"If this option is disabled, the analyzing and parsing of web server log "
+"files by the analyzing tool AWStats is disabled."
+msgstr ""
+
+#: functions/functions.translations.php:767
+msgid ""
+"Furthermore, user accounts will not be able to access their web statistics "
+"any longer."
+msgstr ""
+
+#: functions/functions.translations.php:769
+msgid "System domain scheme"
+msgstr ""
+
+#: functions/functions.translations.php:770
+msgid "When creating a new user, you can decide to create a system domain."
+msgstr ""
+
+#: functions/functions.translations.php:771
+msgid ""
+"With this domain, the user is able to access its webspace, even without "
+"having a domain assigned."
+msgstr ""
+
+#: functions/functions.translations.php:772
+msgid "Here you can specify the scheme of this domain."
+msgstr ""
+
+#: functions/functions.translations.php:773
+msgid "You can use the following placeholder:"
+msgstr ""
+
+#: functions/functions.translations.php:774
+msgid "Will be replaced with the user name."
+msgstr ""
+
+#: functions/functions.translations.php:775
+#, php-format
+msgid "Will be replaced with the panel domain (%s)."
+msgstr ""
+
+#: functions/functions.translations.php:777
+msgid "Change the theme for all accounts on this server."
+msgstr ""
+
+#: functions/functions.translations.php:778
+msgid ""
+"You may also have to update your white label settings, in order to make them "
+"work with the selected theme."
+msgstr ""
+
+#: functions/functions.translations.php:779
+msgid "Author"
+msgstr ""
+
+#: functions/functions.translations.php:780
+msgid "Website"
+msgstr ""
+
+#: functions/functions.translations.php:781
+msgid "Default design mode"
+msgstr ""
+
+#: functions/functions.translations.php:782
+msgid "Dark mode"
+msgstr ""
+
+#: functions/functions.translations.php:784
+msgid ""
+"If you disable a language that is currently used by users, the language "
+"settings of the users will be changed to the current default language."
+msgstr ""
+
+#: functions/functions.translations.php:785
+msgid "Translator"
+msgstr ""
+
+#: functions/functions.translations.php:786
+msgid "Used"
+msgstr ""
+
+#: functions/functions.translations.php:787
+msgid "Official translation"
+msgstr ""
+
+#. Translators: Keep the double percentage sign!
+#: functions/functions.translations.php:789
+#, php-format
+msgid "This translation covers %s%% of all texts."
+msgstr ""
+
+#: functions/functions.translations.php:791
+msgid ""
+"Here you can configure which services you want to monitor on the dashboard."
+msgstr ""
+
+#: functions/functions.translations.php:792
+msgid ""
+"If you do not want to monitor any service, simply remove all services from "
+"the list below."
+msgstr ""
+
+#: functions/functions.translations.php:793
+msgid "Add service"
+msgstr ""
+
+#: functions/functions.translations.php:794
+msgid "Service name (freely selectable)"
+msgstr ""
+
+#: functions/functions.translations.php:796
+msgid ""
+"Here you can extend the power of your control panel by adding a license."
+msgstr ""
+
+#: functions/functions.translations.php:797
+msgid "A license is bound to various device data of the server."
+msgstr ""
+
+#: functions/functions.translations.php:798
+#, php-format
+msgid ""
+"If these device data change, the license must be updated, otherwise it will "
+"be declared invalid after a grace period of %s days."
+msgstr ""
+
+#: functions/functions.translations.php:799
+msgid "License key"
+msgstr ""
+
+#: functions/functions.translations.php:800
+msgid "Valid"
+msgstr ""
+
+#: functions/functions.translations.php:801
+msgid "Invalid"
+msgstr ""
+
+#: functions/functions.translations.php:802
+msgid "The license is about to be declared invalid."
+msgstr ""
+
+#: functions/functions.translations.php:803
+msgid ""
+"Possible reasons are that the registered device data no longer matches the "
+"server settings, the license specifications have changed or the license "
+"server could not be reached in the last couple of days."
+msgstr ""
+
+#: functions/functions.translations.php:804
+msgid ""
+"The license will be declared invalid if the problems are not solved within "
+"the next days."
+msgstr ""
+
+#: functions/functions.translations.php:805
+msgid "Add license key"
+msgstr ""
+
+#: functions/functions.translations.php:806
+msgid "Edit license key"
+msgstr ""
+
+#: functions/functions.translations.php:807
+msgid "Delete license"
+msgstr ""
+
+#: functions/functions.translations.php:808
+msgid "Expire date"
+msgstr ""
+
+#: functions/functions.translations.php:809
+msgid "Expired"
+msgstr ""
+
+#: functions/functions.translations.php:810
+msgid "Expires soon"
+msgstr ""
+
+#: functions/functions.translations.php:811
+msgid "Activated product"
+msgstr ""
+
+#: functions/functions.translations.php:812
+msgid "KeyHelp Professional"
+msgstr ""
+
+#: functions/functions.translations.php:813
+msgid "KeyHelp Standard"
+msgstr ""
+
+#: functions/functions.translations.php:814
+msgid "KeyHelp Professional license"
+msgstr ""
+
+#: functions/functions.translations.php:815
+msgid "Validity"
+msgstr ""
+
+#: functions/functions.translations.php:816
+msgid "Registered device data"
+msgstr ""
+
+#: functions/functions.translations.php:817
+msgid "This value did not match the current server settings."
+msgstr ""
+
+#: functions/functions.translations.php:818
+msgid "Last update"
+msgstr ""
+
+#: functions/functions.translations.php:819
+#: functions/functions.translations.php:821
+msgid "To remain valid, the license must be updated regularly."
+msgstr ""
+
+#: functions/functions.translations.php:820
+msgid ""
+"This license could not be updated within the last days and was therefore "
+"declared invalid."
+msgstr ""
+
+#: functions/functions.translations.php:822
+msgid "This license could not be updated recently."
+msgstr ""
+
+#: functions/functions.translations.php:824
+msgid "Support access"
+msgstr ""
+
+#: functions/functions.translations.php:825
+msgid ""
+"If the following option is enabled, you allow the support team SSH access to "
+"your server."
+msgstr ""
+
+#: functions/functions.translations.php:826
+msgid ""
+"If you encounter problems with your server, the support can help you solve "
+"them."
+msgstr ""
+
+#: functions/functions.translations.php:827
+msgid ""
+"You may need to update your firewall rules to allow the support members to "
+"connect to your server."
+msgstr ""
+
+#: functions/functions.translations.php:828
+msgid ""
+"The access by the support team is only for the purpose of solving the "
+"problem and only with an appropriate order by yourself."
+msgstr ""
+
+#: functions/functions.translations.php:830
+msgid "IP anonymization inside web server logs"
+msgstr ""
+
+#: functions/functions.translations.php:831
+msgid ""
+"Due to data privacy regulations, it may be necessary that IP addresses "
+"within the log files may only be stored anonymously after the period of time "
+"necessary for technical analysis (usually 7 days)."
+msgstr ""
+
+#: functions/functions.translations.php:832
+msgid ""
+"Anonymization takes place after the automatic rotation of the log files."
+msgstr ""
+
+#: functions/functions.translations.php:833
+msgid "Anonymizes logs of all user accounts"
+msgstr ""
+
+#: functions/functions.translations.php:834
+msgid ""
+"If this option is disabled, users can individually determine whether they "
+"want an anonymization."
+msgstr ""
+
+#: functions/functions.translations.php:835
+msgid "Anonymizes logs of the control panel"
+msgstr ""
+
+#: functions/functions.translations.php:836
+msgid "IPs anonymization inside web statistics (AWStats)"
+msgstr ""
+
+#: functions/functions.translations.php:837
+msgid ""
+"If enabled, the collected visitor IPs within the web statistics are removed "
+"after a short period of time (usually 24 hours)."
+msgstr ""
+
+#: functions/functions.translations.php:839
+msgid "Notification sender email address"
+msgstr ""
+
+#: functions/functions.translations.php:840
+msgid ""
+"Will be used as sender address for automatic generated emails (e.g. new user "
+"was created, etc.)."
+msgstr ""
+
+#: functions/functions.translations.php:841
+msgid "Notification on traffic exceedance"
+msgstr ""
+
+#: functions/functions.translations.php:842
+msgid ""
+"Sends a notification to the email address given here as soon as the traffic "
+"of a user exceeds the set limit in the current month."
+msgstr ""
+
+#: functions/functions.translations.php:843
+msgid "If this field is empty, no notification will be sent."
+msgstr ""
+
+#: functions/functions.translations.php:845
+msgid ""
+"Notification options concerning SSL/TLS certificates can be found <a>here</"
+"a>."
+msgstr ""
+
+#: functions/functions.translations.php:848
+msgid "Send 'Email account has been setup successfully' notification"
+msgstr ""
+
+#: functions/functions.translations.php:849
+msgid ""
+"When a user creates a new mailbox, an automated email is sent to the new "
+"email address to ensure, the mailbox has been setup successfully."
+msgstr ""
+
+#: functions/functions.translations.php:850
+msgid "Email addresses of the server domain"
+msgstr ""
+
+#: functions/functions.translations.php:852
+#, php-format
+msgid ""
+"Here you can specify where emails being sent to the server domain (%s) "
+"should be forwarded to."
+msgstr ""
+
+#: functions/functions.translations.php:853
+msgid ""
+"Please note: If you use an external email address, not managed by this "
+"server, you may need to whitelist this server in the SPF (Sender Policy "
+"Framework) settings of the external server."
+msgstr ""
+
+#: functions/functions.translations.php:855
+#, php-format
+msgid "Available recipient addresses (%s)"
+msgstr ""
+
+#: functions/functions.translations.php:855
+msgid "Name"
+msgstr ""
+
+#: functions/functions.translations.php:856
+msgid "Forward to"
+msgstr ""
+
+#: functions/functions.translations.php:858
+msgid "Enable subdomain catch-all"
+msgstr ""
+
+#: functions/functions.translations.php:859
+msgid ""
+"If enabled, all non-existent subdomains return a \"404 - page not found\" "
+"error."
+msgstr ""
+
+#: functions/functions.translations.php:860
+msgid "Redirect to main domain"
+msgstr ""
+
+#: functions/functions.translations.php:861
+msgid ""
+"Instead of returning a 404 error, a 302 redirect to the main domain is "
+"performed."
+msgstr ""
+
+#: functions/functions.translations.php:863
+msgid "Maintenance mode"
+msgstr ""
+
+#: functions/functions.translations.php:864
+msgid ""
+"If you are updating your white label settings or making changes to your "
+"server, it may be useful to enable maintenance mode."
+msgstr ""
+
+#: functions/functions.translations.php:865
+msgid "IPs excluded from maintenance mode"
+msgstr ""
+
+#: functions/functions.translations.php:866
+msgid ""
+"If enabled, the login will only be displayed for the IPs / IP ranges listed "
+"below. Other visitors will be informed that login is currently not possible."
+msgstr ""
+
+#: functions/functions.translations.php:868
+#, php-format
+msgid ""
+"You should include at least your own IP %s to be able to disable the "
+"maintenance mode later via your browser."
+msgstr ""
+
+#: functions/functions.translations.php:871
+msgid ""
+"If you can no longer log in due to a changed IP, you can also disable "
+"maintenance mode from console by calling the following program:"
+msgstr ""
+
+#: pages/admin_configuration.php:2081
+msgid "Failed to decrypt license file."
+msgstr ""
+
+#: pages/admin_configuration.php:2105
+msgid "The license could not be aquired."
+msgstr ""
+
+#: pages/admin_configuration.php:2106
+msgid ""
+"You have either entered an invalid license key, the license has already "
+"expired or was disabled."
+msgstr ""
+
+#: pages/admin_configuration.php:2111 pages/admin_configuration.php:2116
+msgid "Failed to connect with license server:"
+msgstr ""
+
+#: pages/admin_configuration.php:2111
+msgid "Invalid API response."
+msgstr ""
+
+#: pages/admin_configuration.php:2116
+msgid "Remote server is not available."
+msgstr ""

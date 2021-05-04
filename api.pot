@@ -1,0 +1,151 @@
+# SOME DESCRIPTIVE TITLE.
+# This file is put in the public domain.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KeyHelp 21.1\n"
+"Report-Msgid-Bugs-To: info@keyhelp.de\n"
+"POT-Creation-Date: 2021-04-12 12:02+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: functions/functions.translations.php:875 pages/admin_api.php:289
+msgid "API key prefix"
+msgstr ""
+
+#: functions/functions.translations.php:876
+msgid "Here you can manage the API settings of this server."
+msgstr ""
+
+#: functions/functions.translations.php:877
+msgid ""
+"Each request to the API requires authorization by an API key. Here you can "
+"manage your API keys."
+msgstr ""
+
+#: functions/functions.translations.php:878
+msgid ""
+"For security reasons, it is advisable to restrict each key to one or more IP "
+"addresses or IP ranges."
+msgstr ""
+
+#: functions/functions.translations.php:879
+#: functions/functions.translations.php:886 pages/admin_api.php:213
+msgid "API key"
+msgstr ""
+
+#: functions/functions.translations.php:879
+#, php-format
+msgid "To authenticate, pass the %s HTTP header with each request."
+msgstr ""
+
+#: functions/functions.translations.php:880
+msgid ""
+"For a complete documentation of all available API functions, see the <a>REST "
+"API reference</a>."
+msgstr ""
+
+#: functions/functions.translations.php:881
+msgid "API version"
+msgstr ""
+
+#: functions/functions.translations.php:882
+msgid "API access"
+msgstr ""
+
+#: functions/functions.translations.php:883 pages/admin_api.php:146
+msgid "Add API key"
+msgstr ""
+
+#: functions/functions.translations.php:884
+msgid "Unprotected"
+msgstr ""
+
+#: functions/functions.translations.php:885
+msgid "Last access"
+msgstr ""
+
+#: functions/functions.translations.php:887
+msgid "Your API key is not stored in plain text on the server."
+msgstr ""
+
+#: functions/functions.translations.php:888
+msgid ""
+"After submitting this form, the created API key is displayed only once in "
+"plain text, there is no possibility to restore the key later."
+msgstr ""
+
+#: functions/functions.translations.php:889
+msgid ""
+"To help you identifying multiple keys, each key is prefixed by a random "
+"string, which is stored in plain text."
+msgstr ""
+
+#: functions/functions.translations.php:890
+msgid ""
+"For identification purposes, an arbitrary name can be assigned to the API "
+"key."
+msgstr ""
+
+#: functions/functions.translations.php:891
+msgid ""
+"Although the API key created is large and it is almost impossible to access "
+"the API via brute-force due to various security measures, it should only be "
+"considered secure, when access to it is limited to one or more IP "
+"addresses / IP ranges."
+msgstr ""
+
+#: functions/functions.translations.php:892
+msgid "Ignore resource limits of user accounts"
+msgstr ""
+
+#: functions/functions.translations.php:893
+msgid ""
+"When adding resources (e.g. an FTP user, database, etc.) to a user account, "
+"checks are performed based on the account's configured limits."
+msgstr ""
+
+#: functions/functions.translations.php:894
+msgid ""
+"If this option is enabled, resources can be added regardless of whether the "
+"account meets the resource limits."
+msgstr ""
+
+#: functions/functions.translations.php:895
+msgid "Apply password policy when using the API"
+msgstr ""
+
+#: functions/functions.translations.php:896
+msgid ""
+"If enabled, the API will only accept passwords that meet the complexity "
+"settings defined <a>here</a>."
+msgstr ""
+
+#: functions/functions.translations.php:897
+msgid "If disabled, no password complexity checks are performed."
+msgstr ""
+
+#: functions/functions.translations.php:898
+msgid ""
+"In this case the application using the API is responsible for providing "
+"strong passwords."
+msgstr ""
+
+#: pages/admin_api.php:146
+msgid "Edit API key"
+msgstr ""
+
+#: pages/admin_api.php:188
+msgid "The API key has been created, please keep it in a safe place."
+msgstr ""
+
+#: pages/admin_api.php:244
+msgid "Delete API key"
+msgstr ""

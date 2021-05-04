@@ -1,0 +1,158 @@
+# SOME DESCRIPTIVE TITLE.
+# This file is put in the public domain.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KeyHelp 21.1\n"
+"Report-Msgid-Bugs-To: info@keyhelp.de\n"
+"POT-Creation-Date: 2021-04-12 12:02+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: functions/functions.translations.php:1003
+msgid "Auto refresh:"
+msgstr ""
+
+#: functions/functions.translations.php:1004
+#: pages/admin_apache_server_status.php:45
+#, php-format
+msgid "Every %s seconds"
+msgstr ""
+
+#: functions/functions.translations.php:1006
+msgid ""
+"Here you can view log entries for all system-related tasks and maintenance "
+"work performed by the control panel in the background."
+msgstr ""
+
+#: functions/functions.translations.php:1007
+msgid "Select log file"
+msgstr ""
+
+#: functions/functions.translations.php:1008
+msgid "Available files"
+msgstr ""
+
+#: functions/functions.translations.php:1009
+msgid "Tasks & maintenance logs"
+msgstr ""
+
+#: functions/functions.translations.php:1010
+msgid "Backup logs"
+msgstr ""
+
+#: functions/functions.translations.php:1011
+msgid "Application logs"
+msgstr ""
+
+#: functions/functions.translations.php:1012
+msgid "The latest entries"
+msgstr ""
+
+#: functions/functions.translations.php:1013
+msgid "Total content of the log file"
+msgstr ""
+
+#: functions/functions.translations.php:1014
+msgid "To total content"
+msgstr ""
+
+#: functions/functions.translations.php:1015
+msgid "To bottom"
+msgstr ""
+
+#: functions/functions.translations.php:1016
+msgid "To top"
+msgstr ""
+
+#: functions/functions.translations.php:1017
+msgid "To top of page"
+msgstr ""
+
+#: functions/functions.translations.php:1021
+msgid "Anonymize IP addresses"
+msgstr ""
+
+#: functions/functions.translations.php:1022
+#, php-format
+msgid "This setting causes IP addresses to be anonymized after %s hours."
+msgstr ""
+
+#: functions/functions.translations.php:1023
+msgid "Rotation of log records"
+msgstr ""
+
+#: functions/functions.translations.php:1024
+msgid "Keep only records that are younger than XX days"
+msgstr ""
+
+#: functions/functions.translations.php:1025
+msgid "Keep a maximum of XX records"
+msgstr ""
+
+#: functions/functions.translations.php:1026
+msgid "Do not delete records"
+msgstr ""
+
+#: functions/functions.translations.php:1027
+msgid "Date"
+msgstr ""
+
+#: functions/functions.translations.php:1028
+msgid "Message"
+msgstr ""
+
+#: functions/functions.translations.php:1029
+msgid "Level"
+msgstr ""
+
+#: functions/functions.translations.php:1030
+msgid "User"
+msgstr ""
+
+#: functions/functions.translations.php:1031
+msgid "Channel"
+msgstr ""
+
+#: functions/functions.translations.php:1032
+msgid "Show log levels"
+msgstr ""
+
+#: functions/functions.translations.php:1033
+msgid "Debug"
+msgstr ""
+
+#: functions/functions.translations.php:1034
+msgid "Info"
+msgstr ""
+
+#: functions/functions.translations.php:1035
+msgid "Notice"
+msgstr ""
+
+#: functions/functions.translations.php:1036
+msgid "Warning"
+msgstr ""
+
+#: functions/functions.translations.php:1037
+msgid "Error"
+msgstr ""
+
+#: functions/functions.translations.php:1038
+msgid "Alert"
+msgstr ""
+
+#: functions/functions.translations.php:1039
+msgid "Critical"
+msgstr ""
+
+#: functions/functions.translations.php:1040
+msgid "Emergency"
+msgstr ""

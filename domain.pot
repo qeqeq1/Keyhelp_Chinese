@@ -1,0 +1,435 @@
+# SOME DESCRIPTIVE TITLE.
+# This file is put in the public domain.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KeyHelp 21.1\n"
+"Report-Msgid-Bugs-To: info@keyhelp.de\n"
+"POT-Creation-Date: 2021-04-12 12:02+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: functions/functions.translations.php:1218
+#: pages/admin_prohibited_domains.php:124
+msgid "Add domain"
+msgstr ""
+
+#: functions/functions.translations.php:1219
+#: pages/admin_prohibited_domains.php:187
+msgid "Edit domain"
+msgstr ""
+
+#: functions/functions.translations.php:1220
+#: pages/admin_prohibited_domains.php:269
+msgid "Delete domain"
+msgstr ""
+
+#: functions/functions.translations.php:1222
+msgid "Use this interface to manage your domains."
+msgstr ""
+
+#: functions/functions.translations.php:1223
+msgid "Domain"
+msgstr ""
+
+#: functions/functions.translations.php:1224
+msgid "Domain target"
+msgstr ""
+
+#: functions/functions.translations.php:1225
+msgid "PHP version"
+msgstr ""
+
+#: functions/functions.translations.php:1226
+msgid "Email domain"
+msgstr ""
+
+#: functions/functions.translations.php:1227
+msgid "Subdomain count"
+msgstr ""
+
+#: functions/functions.translations.php:1228
+msgid "DKIM DNS record"
+msgstr ""
+
+#: functions/functions.translations.php:1229
+msgid "Let's Encrypt certificate"
+msgstr ""
+
+#: functions/functions.translations.php:1230
+msgid "SSL/TLS certificate"
+msgstr ""
+
+#: functions/functions.translations.php:1231
+msgid "Will be deleted on:"
+msgstr ""
+
+#: functions/functions.translations.php:1232
+#: functions/functions.translations.php:1289
+#, php-format
+msgid "All requests to %s will be redirected to %s."
+msgstr ""
+
+#: functions/functions.translations.php:1233
+msgid "System domains"
+msgstr ""
+
+#: functions/functions.translations.php:1235
+msgid ""
+"You must select an owner for the domain first, before you can configure "
+"other domain settings."
+msgstr ""
+
+#: functions/functions.translations.php:1236
+msgid "Domain type"
+msgstr ""
+
+#: functions/functions.translations.php:1237
+msgid "Main domain"
+msgstr ""
+
+#: functions/functions.translations.php:1238
+msgid "Subdomain"
+msgstr ""
+
+#: functions/functions.translations.php:1246
+msgid "Complete domain name"
+msgstr ""
+
+#: functions/functions.translations.php:1248
+msgid "Create www. subdomain"
+msgstr ""
+
+#: functions/functions.translations.php:1249
+msgid "Local directory"
+msgstr ""
+
+#: functions/functions.translations.php:1250
+msgid "Forwarding"
+msgstr ""
+
+#: functions/functions.translations.php:1251
+msgid "If the specified directory does not exist, it will be created."
+msgstr ""
+
+#: functions/functions.translations.php:1252
+msgid "Use skeleton / file template for new directory"
+msgstr ""
+
+#: functions/functions.translations.php:1253
+msgid ""
+"When you assign a new (non-existing) directory to a domain, you can decide "
+"if you would like to fill this new directory with a template of files."
+msgstr ""
+
+#: functions/functions.translations.php:1254
+msgid "Domain default page"
+msgstr ""
+
+#: functions/functions.translations.php:1255
+msgid "Destination address"
+msgstr ""
+
+#: functions/functions.translations.php:1256
+msgid "Forwarding type"
+msgstr ""
+
+#: functions/functions.translations.php:1257
+msgid "Moved permanently (Code 301)"
+msgstr ""
+
+#: functions/functions.translations.php:1258
+msgid ""
+"Forwards the visitor permanently to another page. This has no effect on your "
+"search engine page ranking."
+msgstr ""
+
+#: functions/functions.translations.php:1259
+msgid "Moved temporarily (Code 302)"
+msgstr ""
+
+#: functions/functions.translations.php:1260
+msgid ""
+"Forwards the visitor temporarily to another page. The original URL remains "
+"in the search engine index."
+msgstr ""
+
+#: functions/functions.translations.php:1261
+msgid "The Domain can be used for email addresses."
+msgstr ""
+
+#: functions/functions.translations.php:1262
+msgid "Domain is disabled"
+msgstr ""
+
+#: functions/functions.translations.php:1263
+msgid "Disabling a main domain also disables all subdomains."
+msgstr ""
+
+#: functions/functions.translations.php:1264
+msgid "Disable DNS for this domain"
+msgstr ""
+
+#: functions/functions.translations.php:1266
+msgid "Interpreter"
+msgstr ""
+
+#: functions/functions.translations.php:1267
+msgid "PHP interpreter"
+msgstr ""
+
+#: functions/functions.translations.php:1268
+msgid ""
+"Some PHP software requires a different PHP version than the default PHP "
+"version of this operating system. Here you can change the version of the PHP "
+"interpreter you want to use."
+msgstr ""
+
+#: functions/functions.translations.php:1269
+msgid "Apply PHP interpreter to all subdomains"
+msgstr ""
+
+#: functions/functions.translations.php:1270
+msgid ""
+"This is a one-time operation. If you add more subdomains in the future, you "
+"will need to manually update their settings."
+msgstr ""
+
+#: functions/functions.translations.php:1271
+msgid "Perl/CGI script path"
+msgstr ""
+
+#: functions/functions.translations.php:1272
+msgid ""
+"In order to get CGI programs to work properly, you may need to specify this "
+"path (\"ScriptAlias\"). All scripts inside this directory are treated as CGI "
+"programs."
+msgstr ""
+
+#: functions/functions.translations.php:1273
+msgid "The specified directory will not be created automatically."
+msgstr ""
+
+#: functions/functions.translations.php:1274
+msgid "Default setting"
+msgstr ""
+
+#: functions/functions.translations.php:1275
+msgid "Domain target directory"
+msgstr ""
+
+#: functions/functions.translations.php:1276
+msgid "Custom setting"
+msgstr ""
+
+#: functions/functions.translations.php:1278
+msgid ""
+"Web sites that are authenticated by an SSL/TLS certificate, offer visitors "
+"an encrypted communication between browser and web server, which cannot be "
+"accessed by third parties."
+msgstr ""
+
+#: functions/functions.translations.php:1279
+msgid "No certificate"
+msgstr ""
+
+#: functions/functions.translations.php:1280
+msgid "This domain is only accessible via an unsecured HTTP connection."
+msgstr ""
+
+#: functions/functions.translations.php:1281
+msgid ""
+"A free-of-charge certificate from the Let's Encrypt certification authority "
+"is used."
+msgstr ""
+
+#: functions/functions.translations.php:1282
+msgid ""
+"The administrative handling (request, renewal, etc.) of such certificate is "
+"fully automated."
+msgstr ""
+
+#: functions/functions.translations.php:1283
+msgid "Select certificate"
+msgstr ""
+
+#: functions/functions.translations.php:1284
+msgid "Available certificates"
+msgstr ""
+
+#: functions/functions.translations.php:1285
+msgid ""
+"The currently selected certificate has not been assigned to your account."
+msgstr ""
+
+#: functions/functions.translations.php:1286
+msgid ""
+"If you modify the domain's certificate, you cannot switch back to this "
+"certificate without the help of an administrator."
+msgstr ""
+
+#: functions/functions.translations.php:1287
+msgid "No certificate available"
+msgstr ""
+
+#: functions/functions.translations.php:1288
+msgid "Enforce secure connection"
+msgstr ""
+
+#: functions/functions.translations.php:1290
+msgid "HTTP Strict Transport Security (HSTS)"
+msgstr ""
+
+#: functions/functions.translations.php:1291
+msgid ""
+"If enabled, the visitor's browser will be told, that the requested website "
+"is only available via a secure connection."
+msgstr ""
+
+#: functions/functions.translations.php:1292
+msgid ""
+"When you disable the certificate / switching back from HTTPS to HTTP later "
+"on, under certain circumstances visitors are prevented by their browser from "
+"accessing this domain."
+msgstr ""
+
+#: functions/functions.translations.php:1293
+msgid ""
+"This field specifies, how long the HSTS setting is stored in the visitor's "
+"browser (\"max-age\")."
+msgstr ""
+
+#: functions/functions.translations.php:1294
+msgid "Add \"includeSubdomains\" directive"
+msgstr ""
+
+#: functions/functions.translations.php:1295
+msgid "Add \"preload\" directive"
+msgstr ""
+
+#: functions/functions.translations.php:1296
+msgid "Apply security settings to all subdomains"
+msgstr ""
+
+#: functions/functions.translations.php:1298
+msgid "Apache settings"
+msgstr ""
+
+#: functions/functions.translations.php:1299
+msgid "Additional Apache directives"
+msgstr ""
+
+#: functions/functions.translations.php:1300
+msgid ""
+"The directives you enter here are added to the HTTP / HTTPS virtual host "
+"containers of the domain."
+msgstr ""
+
+#: functions/functions.translations.php:1301
+msgid ""
+"Make sure that the directives have the correct syntax. The input is not "
+"syntactically checked. A wrong syntax prevents a restart of the web server."
+msgstr ""
+
+#: functions/functions.translations.php:1302
+msgid "Automation"
+msgstr ""
+
+#: functions/functions.translations.php:1303
+msgid "Delete this domain on specified date"
+msgstr ""
+
+#: functions/functions.translations.php:1304
+msgid ""
+"This option deletes the domain, including all of its subdomains and email "
+"addresses."
+msgstr ""
+
+#: functions/functions.translations.php:1306
+msgid "Email accounts count"
+msgstr ""
+
+#: functions/functions.translations.php:1308
+msgid "View web server logs"
+msgstr ""
+
+#: functions/functions.translations.php:1309
+msgid ""
+"Here you can monitor the latest entries in the domain's access and error log "
+"files."
+msgstr ""
+
+#: functions/functions.translations.php:1310
+msgid "You can also download all available log files in full size."
+msgstr ""
+
+#: functions/functions.translations.php:1311
+msgid "Go to download"
+msgstr ""
+
+#: functions/functions.translations.php:1312
+msgid "Start real-time monitoring"
+msgstr ""
+
+#: functions/functions.translations.php:1313
+msgid "Stop real-time monitoring"
+msgstr ""
+
+#: functions/functions.translations.php:1314
+msgid "Clear list"
+msgstr ""
+
+#: functions/functions.translations.php:1315
+msgid "Access log"
+msgstr ""
+
+#: functions/functions.translations.php:1316
+msgid "Error log"
+msgstr ""
+
+#: functions/functions.translations.php:1317
+msgid "Date"
+msgstr ""
+
+#: functions/functions.translations.php:1318
+msgid "HTTP code"
+msgstr ""
+
+#: functions/functions.translations.php:1319
+msgid "Message"
+msgstr ""
+
+#: functions/functions.translations.php:1320
+msgid "Referer"
+msgstr ""
+
+#: functions/functions.translations.php:1321
+msgid "User agent"
+msgstr ""
+
+#: functions/functions.translations.php:1322
+msgid "Client IP"
+msgstr ""
+
+#: functions/functions.translations.php:1323
+msgid "Download access logs"
+msgstr ""
+
+#: functions/functions.translations.php:1324
+msgid "Download error logs"
+msgstr ""
+
+#: functions/functions.translations.php:1325
+msgid "Filename"
+msgstr ""
+
+#: functions/functions.translations.php:1326
+msgid "Modification date"
+msgstr ""

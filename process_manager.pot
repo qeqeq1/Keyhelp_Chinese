@@ -1,0 +1,179 @@
+# SOME DESCRIPTIVE TITLE.
+# This file is put in the public domain.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KeyHelp 21.1\n"
+"Report-Msgid-Bugs-To: info@keyhelp.de\n"
+"POT-Creation-Date: 2021-04-12 12:02+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: functions/functions.translations.php:1078
+msgid ""
+"Here you can see all processes currently running on the server and the "
+"resources they are using."
+msgstr ""
+
+#: functions/functions.translations.php:1080
+msgid "Notes on CPU usage calculation"
+msgstr ""
+
+#: functions/functions.translations.php:1081
+msgid ""
+"The CPU usage values take into account the amount of available CPU cores."
+msgstr ""
+
+#: functions/functions.translations.php:1083
+msgid "Notes on memory usage calculation"
+msgstr ""
+
+#: functions/functions.translations.php:1084
+msgid ""
+"Depending on how you look at the memory usage values, one could think they "
+"may be wrong."
+msgstr ""
+
+#: functions/functions.translations.php:1085
+msgid ""
+"In fact, the memory usage shown here indicates how much memory a process "
+"would consume if it were the only process running on the system."
+msgstr ""
+
+#: functions/functions.translations.php:1086
+msgid ""
+"On a typical server there are always many processes running at the same time "
+"and it is very likely that they share different libraries, therefore their "
+"memory consumption is counted multiple times."
+msgstr ""
+
+#: functions/functions.translations.php:1087
+msgid ""
+"Although the values do not show the actual memory consumption of the server "
+"as a whole, they should still give you an idea of how the processes use the "
+"memory."
+msgstr ""
+
+#: functions/functions.translations.php:1088
+msgid "Processes by users"
+msgstr ""
+
+#: functions/functions.translations.php:1089
+msgid "Process count"
+msgstr ""
+
+#: functions/functions.translations.php:1090
+msgid "CPU usage"
+msgstr ""
+
+#: functions/functions.translations.php:1091
+msgid "Memory usage"
+msgstr ""
+
+#: functions/functions.translations.php:1092
+msgid "Cumulated CPU time"
+msgstr ""
+
+#: functions/functions.translations.php:1093
+msgid "Process ID"
+msgstr ""
+
+#: functions/functions.translations.php:1094
+msgid "Command"
+msgstr ""
+
+#: functions/functions.translations.php:1095
+msgid "Idle"
+msgstr ""
+
+#: functions/functions.translations.php:1096
+msgid "Sleeping"
+msgstr ""
+
+#: functions/functions.translations.php:1097
+msgid "Stopped"
+msgstr ""
+
+#: functions/functions.translations.php:1098
+msgid "Running"
+msgstr ""
+
+#: functions/functions.translations.php:1099
+msgid "Zombie"
+msgstr ""
+
+#: functions/functions.translations.php:1100
+msgid "Complete process list"
+msgstr ""
+
+#: functions/functions.translations.php:1101
+msgid "Current CPU usage"
+msgstr ""
+
+#: functions/functions.translations.php:1102
+msgid "Current memory usage"
+msgstr ""
+
+#: functions/functions.translations.php:1103
+msgid "By system"
+msgstr ""
+
+#: functions/functions.translations.php:1104
+msgid "By clients"
+msgstr ""
+
+#: functions/functions.translations.php:1105
+msgid "Processes"
+msgstr ""
+
+#: functions/functions.translations.php:1106
+msgid "Average usage"
+msgstr ""
+
+#: functions/functions.translations.php:1107
+msgid "Available memory"
+msgstr ""
+
+#: functions/functions.translations.php:1108
+msgid "Kill process"
+msgstr ""
+
+#: functions/functions.translations.php:1109
+msgid "Kill processes"
+msgstr ""
+
+#: functions/functions.translations.php:1110
+msgid "Please confirm the killing of the following process."
+msgstr ""
+
+#: functions/functions.translations.php:1111
+msgid ""
+"Please confirm the killing of all processes running by the following user."
+msgstr ""
+
+#: pages/admin_process_manager.php:73
+#, php-format
+msgid "The process ID %s was killed."
+msgstr ""
+
+#: pages/admin_process_manager.php:77
+#, php-format
+msgid "The process ID %s could not be killed."
+msgstr ""
+
+#: pages/admin_process_manager.php:105
+#, php-format
+msgid "The following processes of user %s were killed:"
+msgstr ""
+
+#: pages/admin_process_manager.php:113
+#, php-format
+msgid "The following processes of user %s could not be killed:"
+msgstr ""

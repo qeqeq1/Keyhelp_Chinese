@@ -1,0 +1,74 @@
+# SOME DESCRIPTIVE TITLE.
+# This file is put in the public domain.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KeyHelp 21.1\n"
+"Report-Msgid-Bugs-To: info@keyhelp.de\n"
+"POT-Creation-Date: 2021-04-12 12:02+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: functions/functions.translations.php:1582
+msgid "Sender name"
+msgstr ""
+
+#: functions/functions.translations.php:1583
+msgid "Sender email address"
+msgstr ""
+
+#: functions/functions.translations.php:1584
+msgid "Subject"
+msgstr ""
+
+#: functions/functions.translations.php:1585
+msgid "Message"
+msgstr ""
+
+#: functions/functions.translations.php:1586
+msgid "Recipients"
+msgstr ""
+
+#: functions/functions.translations.php:1587
+msgid "From"
+msgstr ""
+
+#: functions/functions.translations.php:1588
+msgid "Send email"
+msgstr ""
+
+#: functions/functions.translations.php:1589
+msgid "Administrator accounts"
+msgstr ""
+
+#: functions/functions.translations.php:1590
+msgid "User accounts"
+msgstr ""
+
+#: functions/functions.translations.php:1591
+msgid "User accounts without email address"
+msgstr ""
+
+#. Translators: Default name for senders, you may want to keep "Support" also in your language
+#: functions/functions.translations.php:1593
+msgid "Support"
+msgstr ""
+
+#: functions/functions.translations.php:1594
+msgid "Test email in advance"
+msgstr ""
+
+#: functions/functions.translations.php:1595
+msgid "Enter a recipient email address."
+msgstr ""
+
+#: functions/functions.translations.php:1596
+msgid "Failed to send email"
+msgstr ""

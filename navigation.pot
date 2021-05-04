@@ -1,0 +1,373 @@
+# SOME DESCRIPTIVE TITLE.
+# This file is put in the public domain.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KeyHelp 21.1\n"
+"Report-Msgid-Bugs-To: info@keyhelp.de\n"
+"POT-Creation-Date: 2021-04-12 12:02+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: cronjob/jobs/statistic.php:590 functions/functions.translations.php:1434
+#: misc/configuration.php:134 misc/navigation.php:242
+#: pages/admin_configuration.php:1726
+msgid "Web Statistic"
+msgstr ""
+
+#: functions/functions.translations.php:290
+#: functions/functions.translations.php:1157 misc/navigation.php:41
+#: misc/navigation.php:238
+msgid "Dashboard"
+msgstr ""
+
+#: functions/functions.translations.php:349 misc/navigation.php:84
+#: pages/admin_api.php:326 pages/admin_configuration.php:35
+#: pages/admin_configuration.php:2442 pages/admin_template_account.php:658
+#: pages/admin_template_default_index.php:28 pages/admin_template_email.php:390
+#: pages/admin_white_label.php:512 pages/scheduled_tasks.php:757
+msgid "Configuration"
+msgstr ""
+
+#: functions/functions.translations.php:349 misc/configuration.php:40
+#: pages/admin_configuration.php:231
+msgid "PHP Interpreter"
+msgstr ""
+
+#: functions/functions.translations.php:478 misc/navigation.php:50
+msgid "Traffic Statistic"
+msgstr ""
+
+#: functions/functions.translations.php:488 misc/navigation.php:93
+msgid "Server Service Management"
+msgstr ""
+
+#: functions/functions.translations.php:956 misc/navigation.php:89
+msgid "Maintenance Intervals"
+msgstr ""
+
+#: functions/functions.translations.php:1045 misc/navigation.php:150
+msgid "Active Sessions"
+msgstr ""
+
+#: functions/functions.translations.php:1076 misc/navigation.php:138
+msgid "Process Manager"
+msgstr ""
+
+#: functions/functions.translations.php:1115 misc/navigation.php:158
+msgid "Disk Usage"
+msgstr ""
+
+#: functions/functions.translations.php:1139 misc/navigation.php:142
+msgid "Email Queue"
+msgstr ""
+
+#: functions/functions.translations.php:1580 misc/navigation.php:194
+msgid "Email All Users"
+msgstr ""
+
+#: functions/functions.translations.php:1814 misc/configuration.php:160
+msgid "Domain Default Page"
+msgstr ""
+
+#: functions/functions.translations.php:1878 misc/navigation.php:116
+#: pages/admin_firewall.php:45 pages/admin_firewall.php:547
+msgid "Firewall"
+msgstr ""
+
+#: misc/configuration.php:28
+msgid "System"
+msgstr ""
+
+#: misc/configuration.php:32 pages/admin_configuration.php:58
+msgid "Hostname"
+msgstr ""
+
+#: misc/configuration.php:36 pages/admin_configuration.php:131
+msgid "IP Addresses"
+msgstr ""
+
+#: misc/configuration.php:44 pages/admin_configuration.php:347
+msgid "RAM Drive"
+msgstr ""
+
+#: misc/configuration.php:48 pages/admin_configuration.php:416
+msgid "DNS Server"
+msgstr ""
+
+#: misc/configuration.php:52 pages/admin_configuration.php:483
+msgid "Web Server"
+msgstr ""
+
+#: misc/configuration.php:56 pages/admin_configuration.php:566
+msgid "Email Server"
+msgstr ""
+
+#: misc/configuration.php:60 pages/admin_configuration.php:668
+msgid "Database Server"
+msgstr ""
+
+#: misc/configuration.php:64 pages/admin_configuration.php:709
+msgid "FTP Server"
+msgstr ""
+
+#: misc/configuration.php:68 pages/admin_configuration.php:750
+msgid "Restricted SSH environment"
+msgstr ""
+
+#: misc/configuration.php:73 pages/admin_configuration.php:812
+msgid "System Time"
+msgstr ""
+
+#: misc/configuration.php:77 pages/admin_configuration.php:851
+msgid "Server Reboot"
+msgstr ""
+
+#: misc/configuration.php:83 misc/navigation.php:107 misc/navigation.php:334
+msgid "Security"
+msgstr ""
+
+#: misc/configuration.php:87 misc/navigation.php:112 misc/navigation.php:339
+#: pages/admin_configuration.php:887 pages/ssl_certificates.php:38
+#: pages/ssl_certificates.php:991
+msgid "SSL/TLS Certificates"
+msgstr ""
+
+#: misc/configuration.php:91 pages/admin_configuration.php:981
+msgid "Password Policy"
+msgstr ""
+
+#: misc/configuration.php:95 pages/admin_configuration.php:1060
+msgid "Login & Session"
+msgstr ""
+
+#: misc/configuration.php:99 pages/admin_configuration.php:1147
+msgid "TLS Version & Ciphers"
+msgstr ""
+
+#: misc/configuration.php:105 misc/navigation.php:166 misc/navigation.php:365
+msgid "Tools"
+msgstr ""
+
+#: misc/configuration.php:109 misc/navigation.php:247
+#: pages/admin_configuration.php:1225 pages/user_file_manager.php:37
+#: pages/user_file_manager.php:946
+msgid "File Manager"
+msgstr ""
+
+#: misc/configuration.php:113 misc/navigation.php:252
+#: pages/admin_configuration.php:1260 pages/user_applications.php:47
+#: pages/user_applications.php:642
+msgid "Applications"
+msgstr ""
+
+#: misc/configuration.php:118 pages/admin_configuration.php:1339
+msgid "Antivirus Scanner"
+msgstr ""
+
+#: misc/configuration.php:122 misc/navigation.php:171 misc/navigation.php:370
+#: pages/admin_configuration.php:1428
+msgid "Webmail"
+msgstr ""
+
+#: misc/configuration.php:126 pages/admin_configuration.php:1586
+msgid "Database Administration"
+msgstr ""
+
+#: misc/configuration.php:130 misc/navigation.php:97 misc/navigation.php:323
+#: pages/admin_configuration.php:1650 pages/backup.php:39
+#: pages/backup_deprecated.php:43 pages/backup_deprecated.php:798
+#: pages/backup_repository.php:527 pages/backup_restore.php:110
+msgid "Backup"
+msgstr ""
+
+#: misc/configuration.php:138 misc/navigation.php:309
+#: pages/scheduled_tasks.php:39 pages/scheduled_tasks.php:762
+msgid "Scheduled Tasks"
+msgstr ""
+
+#: misc/configuration.php:142 pages/admin_configuration.php:1753
+msgid "Temporary Folder Cleanup"
+msgstr ""
+
+#: misc/configuration.php:148
+msgid "Templates"
+msgstr ""
+
+#: misc/configuration.php:152 pages/admin_template_email.php:36
+#: pages/admin_template_email.php:394
+msgid "Email Templates"
+msgstr ""
+
+#: misc/configuration.php:156 pages/admin_template_account.php:39
+#: pages/admin_template_account.php:662
+msgid "Account Templates"
+msgstr ""
+
+#: misc/configuration.php:164 pages/admin_configuration.php:1809
+msgid "System Domain Scheme"
+msgstr ""
+
+#: misc/configuration.php:170
+msgid "Appearance"
+msgstr ""
+
+#: misc/configuration.php:174 pages/admin_configuration.php:1848
+msgid "Theme"
+msgstr ""
+
+#: misc/configuration.php:178 pages/admin_configuration.php:1895
+msgid "Languages"
+msgstr ""
+
+#: misc/configuration.php:182 pages/admin_white_label.php:36
+#: pages/admin_white_label.php:516
+msgid "White Label"
+msgstr ""
+
+#: misc/configuration.php:187 pages/admin_configuration.php:2016
+msgid "Service/Port Monitoring on Dashboard"
+msgstr ""
+
+#: misc/configuration.php:193 misc/navigation.php:189
+msgid "Miscellaneous"
+msgstr ""
+
+#: misc/configuration.php:197 pages/admin_api.php:38 pages/admin_api.php:330
+msgid "API"
+msgstr ""
+
+#: misc/configuration.php:201 pages/admin_configuration.php:2075
+msgid "License Management"
+msgstr ""
+
+#: misc/configuration.php:205 pages/admin_configuration.php:2175
+msgid "Support Access"
+msgstr ""
+
+#: misc/configuration.php:209 pages/admin_configuration.php:2204
+msgid "Data Privacy"
+msgstr ""
+
+#: misc/configuration.php:213 pages/admin_configuration.php:2240
+msgid "Notifications"
+msgstr ""
+
+#: misc/configuration.php:217 pages/admin_configuration.php:2321
+msgid "Subdomain Catch-All"
+msgstr ""
+
+#: misc/configuration.php:221 pages/admin_configuration.php:2356
+msgid "Maintenance Mode"
+msgstr ""
+
+#: misc/navigation.php:36 misc/navigation.php:233
+msgid "General"
+msgstr ""
+
+#: misc/navigation.php:45 pages/admin_accounts_admin.php:37
+#: pages/admin_accounts_admin.php:486 pages/admin_accounts_user.php:39
+#: pages/admin_accounts_user.php:1593
+msgid "User Administration"
+msgstr ""
+
+#: misc/navigation.php:58 misc/navigation.php:63 misc/navigation.php:261
+#: misc/navigation.php:266 pages/domains.php:39 pages/domains.php:1394
+#: pages/user_domain_logs.php:38
+msgid "Domains"
+msgstr ""
+
+#: misc/navigation.php:67 misc/navigation.php:271 pages/dns_editor.php:37
+#: pages/dns_editor.php:457
+msgid "DNS Zone Editor"
+msgstr ""
+
+#: misc/navigation.php:71 pages/admin_prohibited_domains.php:36
+#: pages/admin_prohibited_domains.php:352
+msgid "Prohibited Domain Names"
+msgstr ""
+
+#: misc/navigation.php:79 misc/navigation.php:318
+msgid "Settings"
+msgstr ""
+
+#: misc/navigation.php:125
+msgid "System Status"
+msgstr ""
+
+#: misc/navigation.php:130 misc/navigation.php:352 pages/admin_logs.php:30
+msgid "Logs"
+msgstr ""
+
+#: misc/navigation.php:134 misc/navigation.php:357 pages/event_logs.php:38
+msgid "Event Logs"
+msgstr ""
+
+#: misc/navigation.php:146 pages/admin_apache_server_status.php:36
+msgid "Apache Server Status"
+msgstr ""
+
+#: misc/navigation.php:154 pages/admin_disk_overview.php:35
+msgid "Disk Overview"
+msgstr ""
+
+#: misc/navigation.php:202 misc/navigation.php:388
+msgid "Help"
+msgstr ""
+
+#: misc/navigation.php:207
+msgid "Support Forum"
+msgstr ""
+
+#: misc/navigation.php:213
+msgid "Administrator Manual"
+msgstr ""
+
+#: misc/navigation.php:219
+msgid "User Manual"
+msgstr ""
+
+#: misc/navigation.php:280
+msgid "Email"
+msgstr ""
+
+#: misc/navigation.php:285 pages/user_email.php:53 pages/user_email.php:603
+msgid "Email Addresses"
+msgstr ""
+
+#: misc/navigation.php:294
+msgid "Resources"
+msgstr ""
+
+#: misc/navigation.php:299 pages/user_databases.php:40
+#: pages/user_databases.php:559
+msgid "Databases"
+msgstr ""
+
+#: misc/navigation.php:304 pages/user_ftp.php:37 pages/user_ftp.php:411
+msgid "FTP Users"
+msgstr ""
+
+#: misc/navigation.php:344 pages/user_dir_protection.php:37
+#: pages/user_dir_protection.php:395
+msgid "Directory Protection"
+msgstr ""
+
+#: misc/navigation.php:393
+msgid "Manual"
+msgstr ""
+
+#: pages/profile.php:39 pages/profile.php:540
+msgid "Profile Settings"
+msgstr ""
+
+#: pages/user_domain_logs.php:40
+msgid "Web Server Logs"
+msgstr ""

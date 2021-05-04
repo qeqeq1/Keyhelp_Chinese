@@ -1,0 +1,205 @@
+# SOME DESCRIPTIVE TITLE.
+# This file is put in the public domain.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KeyHelp 21.1\n"
+"Report-Msgid-Bugs-To: info@keyhelp.de\n"
+"POT-Creation-Date: 2021-04-12 12:02+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: functions/functions.translations.php:958
+msgid ""
+"In order to process tasks triggered by users, various server-side operations "
+"must be performed."
+msgstr ""
+
+#: functions/functions.translations.php:959
+msgid ""
+"This is always the case, for example, as soon as a new user is created or "
+"domain settings need to be updated."
+msgstr ""
+
+#: functions/functions.translations.php:960
+msgid ""
+"Furthermore it is necessary for a proper operation of the server that "
+"maintenance work is performed at regular intervals."
+msgstr ""
+
+#: functions/functions.translations.php:961
+msgid ""
+"Here you can define the intervals at which these tasks and maintenance work "
+"should be executed."
+msgstr ""
+
+#: functions/functions.translations.php:962
+msgid "Please only change the settings if you are aware of their effects."
+msgstr ""
+
+#: functions/functions.translations.php:963
+msgid "Task name"
+msgstr ""
+
+#: functions/functions.translations.php:964
+msgid "Last run"
+msgstr ""
+
+#: functions/functions.translations.php:965
+msgid "Interval"
+msgstr ""
+
+#: functions/functions.translations.php:966
+msgid "Time frame"
+msgstr ""
+
+#: functions/functions.translations.php:967
+msgid "Will be started"
+msgstr ""
+
+#: functions/functions.translations.php:968
+msgid "Start now"
+msgstr ""
+
+#: functions/functions.translations.php:969
+#, php-format
+msgid "from %1$s till %2$s o'clock"
+msgstr ""
+
+#: functions/functions.translations.php:970
+msgid "Edit settings"
+msgstr ""
+
+#: functions/functions.translations.php:971
+msgid "Start of the execution time frame"
+msgstr ""
+
+#: functions/functions.translations.php:972
+msgid "End of the execution time frame"
+msgstr ""
+
+#: functions/functions.translations.php:973
+msgid "Processing of tasks"
+msgstr ""
+
+#: functions/functions.translations.php:974
+msgid "Performs tasks, that have been commissioned via the control panel."
+msgstr ""
+
+#: functions/functions.translations.php:975
+msgid "For example creating a new user, writing configuration files etc."
+msgstr ""
+
+#: functions/functions.translations.php:976
+msgid "Calculate disk space"
+msgstr ""
+
+#: functions/functions.translations.php:977
+msgid "Calculates the disk space consumed by user accounts."
+msgstr ""
+
+#: functions/functions.translations.php:978
+msgid "Update statistics"
+msgstr ""
+
+#: functions/functions.translations.php:979
+msgid "Updates the traffic usage and the web statistics of user accounts."
+msgstr ""
+
+#: functions/functions.translations.php:980
+msgid "Control panel update"
+msgstr ""
+
+#: functions/functions.translations.php:981
+msgid ""
+"Keeps the control panel up to date and installs newer versions as soon as "
+"they are released."
+msgstr ""
+
+#: functions/functions.translations.php:982
+msgid "Update server services"
+msgstr ""
+
+#: functions/functions.translations.php:983
+msgid ""
+"Keeps the software/packages installed on the server up to date by installing "
+"newer improved versions as soon as they become available."
+msgstr ""
+
+#: functions/functions.translations.php:985
+msgid ""
+"If you see any pending updates on the dashboard page, which remain even "
+"after this job has run, these are updates that require a manual call to the "
+"\"apt-get dist-upgrade\" command."
+msgstr ""
+
+#: functions/functions.translations.php:986
+msgid ""
+"KeyHelp does not execute this command automatically, because updates can be "
+"installed, which could lead to breaking changes in the software used on the "
+"server."
+msgstr ""
+
+#: functions/functions.translations.php:987
+msgid "Perform clean-up operations"
+msgstr ""
+
+#: functions/functions.translations.php:988
+msgid "Deletes unused files from the temporary folders of user accounts."
+msgstr ""
+
+#: functions/functions.translations.php:989
+msgid ""
+"Performs automatic email deletion for email accounts that have the auto-"
+"expunge feature enabled."
+msgstr ""
+
+#: functions/functions.translations.php:990
+msgid "Antivirus scanner"
+msgstr ""
+
+#: functions/functions.translations.php:991
+msgid "Performs a virus check."
+msgstr ""
+
+#: functions/functions.translations.php:992
+msgid "Maintenance of SSL/TLS certificates"
+msgstr ""
+
+#: functions/functions.translations.php:993
+msgid ""
+"Checks if SSL/TLS certificates are going to expire, performs Let's Encrypt "
+"certificate update and other SSL/TLS related maintenance work."
+msgstr ""
+
+#: functions/functions.translations.php:994
+msgid "Update PHP interpreter"
+msgstr ""
+
+#: functions/functions.translations.php:995
+msgid ""
+"This job is responsible for receiving and updating of the additional PHP "
+"interpreter packages."
+msgstr ""
+
+#: functions/functions.translations.php:996
+msgid "Update restricted SSH environments"
+msgstr ""
+
+#: functions/functions.translations.php:997
+msgid "This task is important when using restricted SSH environments."
+msgstr ""
+
+#: functions/functions.translations.php:998
+msgid ""
+"It ensures that all updates for installed services (e.g. triggered by "
+"calling apt-get upgrade) are also transferred to the SSH environment of the "
+"users using a restricted environment."
+msgstr ""

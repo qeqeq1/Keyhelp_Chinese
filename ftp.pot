@@ -1,0 +1,85 @@
+# SOME DESCRIPTIVE TITLE.
+# This file is put in the public domain.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KeyHelp 21.1\n"
+"Report-Msgid-Bugs-To: info@keyhelp.de\n"
+"POT-Creation-Date: 2021-04-12 12:02+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: functions/functions.translations.php:1338
+msgid "Here you can manage and set up additional FTP accounts."
+msgstr ""
+
+#: functions/functions.translations.php:1339
+msgid ""
+"Each user you create can store and delete data and folders in the assigned "
+"directory and its subdirectories."
+msgstr ""
+
+#: functions/functions.translations.php:1340
+msgid "Hint:"
+msgstr ""
+
+#: functions/functions.translations.php:1341
+msgid ""
+"You can always just simply use your main ftp account, by using the same "
+"login credentials you use to log into this control panel."
+msgstr ""
+
+#: functions/functions.translations.php:1342
+msgid "Advice:"
+msgstr ""
+
+#: functions/functions.translations.php:1343
+msgid "FTP over SSL (FTPS) in explicit mode"
+msgstr ""
+
+#: functions/functions.translations.php:1343
+#, php-format
+msgid ""
+"For the security of your data it is recommended to establish the FTP "
+"connection using protocol/encryption %s only."
+msgstr ""
+
+#: functions/functions.translations.php:1344
+msgid "Add FTP user"
+msgstr ""
+
+#: functions/functions.translations.php:1345
+msgid "Home directory"
+msgstr ""
+
+#: functions/functions.translations.php:1346
+#, php-format
+msgid "Must be a subfolder of %s or %s."
+msgstr ""
+
+#: functions/functions.translations.php:1347
+msgid "If the specified directory does not exist, it is created automatically."
+msgstr ""
+
+#: functions/functions.translations.php:1348
+msgid "FTP over TLS (FTPS)"
+msgstr ""
+
+#: functions/functions.translations.php:1349
+msgid "Encryption"
+msgstr ""
+
+#: functions/functions.translations.php:1350
+msgid "Explicit mode"
+msgstr ""
+
+#: functions/functions.translations.php:1351
+msgid "Delete home directory"
+msgstr ""

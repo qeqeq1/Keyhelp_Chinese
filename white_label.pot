@@ -1,0 +1,195 @@
+# SOME DESCRIPTIVE TITLE.
+# This file is put in the public domain.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KeyHelp 21.1\n"
+"Report-Msgid-Bugs-To: info@keyhelp.de\n"
+"POT-Creation-Date: 2021-04-12 12:02+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: functions/functions.translations.php:1535
+msgid "Import settings"
+msgstr ""
+
+#: functions/functions.translations.php:1536
+msgid "Export settings"
+msgstr ""
+
+#: functions/functions.translations.php:1537
+msgid "Reset all settings"
+msgstr ""
+
+#: functions/functions.translations.php:1538
+msgid ""
+"Please note, if you import new white label settings your current white label "
+"settings on this sever will be lost."
+msgstr ""
+
+#: functions/functions.translations.php:1539
+msgid "Product name"
+msgstr ""
+
+#: functions/functions.translations.php:1540
+msgid "Replaces all occurrences of \"KeyHelp\" with this name."
+msgstr ""
+
+#: functions/functions.translations.php:1541
+msgid "Page title"
+msgstr ""
+
+#: functions/functions.translations.php:1542
+msgid "Favicon"
+msgstr ""
+
+#: functions/functions.translations.php:1543
+msgid "Banner for internal area"
+msgstr ""
+
+#: functions/functions.translations.php:1544
+msgid "Banner for external area"
+msgstr ""
+
+#: functions/functions.translations.php:1545
+msgid ""
+"For best results at different screen resolutions it is recommended to select "
+"a .svg image."
+msgstr ""
+
+#. Translators: Short form of internal area banner
+#: functions/functions.translations.php:1546
+msgid "Int. banner"
+msgstr ""
+
+#. Translators: Short form of external area banner
+#: functions/functions.translations.php:1547
+msgid "Ext. banner"
+msgstr ""
+
+#: functions/functions.translations.php:1548
+msgid "Footer"
+msgstr ""
+
+#: functions/functions.translations.php:1549
+msgid "A freely definable text which replaces the default footer."
+msgstr ""
+
+#: functions/functions.translations.php:1550
+msgid ""
+"Please note that KeyHelp is a registered trademark of Keyweb AG. It is not "
+"permitted to impersonate KeyHelp as your own trademark / the trademark of "
+"your company."
+msgstr ""
+
+#: functions/functions.translations.php:1551
+msgid "Help links"
+msgstr ""
+
+#: functions/functions.translations.php:1552
+msgid "Hidden content"
+msgstr ""
+
+#: functions/functions.translations.php:1553
+msgid "All languages"
+msgstr ""
+
+#: functions/functions.translations.php:1555
+msgid ""
+"In addition to the editable settings here you can also edit the <a>domain "
+"default page</a> as well as the <a>email templates</a>."
+msgstr ""
+
+#: functions/functions.translations.php:1558
+msgid ""
+"The \"All languages\" settings apply to all accounts, regardless of the "
+"language used. They can be overwritten by the language-specific settings."
+msgstr ""
+
+#: functions/functions.translations.php:1559
+msgid ""
+"It is recommended to use the \"All languages\" to define the general rules "
+"of your design, and to use the language-specific ones only to configure "
+"settings related to a specific language."
+msgstr ""
+
+#: functions/functions.translations.php:1560
+msgid "Additional CSS"
+msgstr ""
+
+#: functions/functions.translations.php:1561
+msgid "You can define your own CSS styles and override the current design."
+msgstr ""
+
+#: functions/functions.translations.php:1562
+#, php-format
+msgid ""
+"If you want certain styles to work only in dark mode, put %s in front of "
+"your CSS directives."
+msgstr ""
+
+#: functions/functions.translations.php:1563
+#, php-format
+msgid "If you want them to appear only in default mode, put %s in front."
+msgstr ""
+
+#: functions/functions.translations.php:1564
+msgid "Additional JavaScript"
+msgstr ""
+
+#: functions/functions.translations.php:1565
+msgid "You can define your own JavaScript code - jQuery can be used."
+msgstr ""
+
+#: functions/functions.translations.php:1566
+msgid "Trusted sources"
+msgstr ""
+
+#: functions/functions.translations.php:1567
+msgid ""
+"Here you can define URLs that are treated as trustworthy. This can be useful "
+"if you try to load scripts and styles from external sources."
+msgstr ""
+
+#: functions/functions.translations.php:1568
+msgid "Hide Keyweb AG product recommendations."
+msgstr ""
+
+#: functions/functions.translations.php:1569
+msgid "Hide link to the changelog on admin dashboard page."
+msgstr ""
+
+#: functions/functions.translations.php:1570
+msgid "Hide KeyHelp news on admin dashboard page."
+msgstr ""
+
+#: functions/functions.translations.php:1571
+msgid "Add link"
+msgstr ""
+
+#: functions/functions.translations.php:1572
+msgid "Label"
+msgstr ""
+
+#: functions/functions.translations.php:1573
+msgid "Hide menu"
+msgstr ""
+
+#: functions/functions.translations.php:1574
+msgid "Custom settings"
+msgstr ""
+
+#: functions/functions.translations.php:1575
+msgid "Preview on this page"
+msgstr ""
+
+#: functions/functions.translations.php:1576
+msgid "Remove image"
+msgstr ""

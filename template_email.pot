@@ -1,0 +1,208 @@
+# SOME DESCRIPTIVE TITLE.
+# This file is put in the public domain.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KeyHelp 21.1\n"
+"Report-Msgid-Bugs-To: info@keyhelp.de\n"
+"POT-Creation-Date: 2021-04-12 12:02+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: functions/functions.translations.php:1826
+msgid ""
+"Here you can manage the content of the emails, which will be sent by the "
+"control panel on certain events."
+msgstr ""
+
+#: functions/functions.translations.php:1827
+msgid ""
+"If no template is defined here for the event, the default template is used."
+msgstr ""
+
+#: functions/functions.translations.php:1828
+msgid "Event"
+msgstr ""
+
+#: functions/functions.translations.php:1829
+msgid "Add email template"
+msgstr ""
+
+#: functions/functions.translations.php:1830
+msgid "Load default template"
+msgstr ""
+
+#: functions/functions.translations.php:1831
+#: functions/functions.translations.php:1858
+msgid "Subject"
+msgstr ""
+
+#: functions/functions.translations.php:1832
+#: functions/functions.translations.php:1858
+msgid "Text"
+msgstr ""
+
+#: functions/functions.translations.php:1833
+msgid "Sender name"
+msgstr ""
+
+#: functions/functions.translations.php:1834
+msgid "Send a copy to email (BCC)"
+msgstr ""
+
+#: functions/functions.translations.php:1835
+msgid "Use commas to separate multiple addresses."
+msgstr ""
+
+#: functions/functions.translations.php:1836
+msgid "Test email template"
+msgstr ""
+
+#: functions/functions.translations.php:1837
+msgid "Enter a recipient email address."
+msgstr ""
+
+#: functions/functions.translations.php:1838
+msgid "Send email"
+msgstr ""
+
+#: functions/functions.translations.php:1839
+msgid "Failed to send email"
+msgstr ""
+
+#: functions/functions.translations.php:1841
+msgid "A new user was created"
+msgstr ""
+
+#: functions/functions.translations.php:1842
+msgid "An administrator assigns new login credentials to a user"
+msgstr ""
+
+#: functions/functions.translations.php:1843
+msgid "Forgot password"
+msgstr ""
+
+#: functions/functions.translations.php:1844
+msgid "A new email account was created"
+msgstr ""
+
+#: functions/functions.translations.php:1846
+#, no-php-format
+msgid "A client has used 90% of its available disk space"
+msgstr ""
+
+#: functions/functions.translations.php:1848
+#, no-php-format
+msgid "A client has used 100% of its available disk space"
+msgstr ""
+
+#: functions/functions.translations.php:1850
+#, no-php-format
+msgid "A mailbox has used 90% of its available disk space"
+msgstr ""
+
+#: functions/functions.translations.php:1851
+msgid "A domain has been disabled"
+msgstr ""
+
+#: functions/functions.translations.php:1852
+msgid "A domain has been enabled"
+msgstr ""
+
+#: functions/functions.translations.php:1853
+msgid "A backup process was successfully completed"
+msgstr ""
+
+#: functions/functions.translations.php:1854
+msgid "A backup process was canceled due to an error"
+msgstr ""
+
+#: functions/functions.translations.php:1855
+msgid "SSL/TLS certificate problem notifications"
+msgstr ""
+
+#: functions/functions.translations.php:1857
+msgid "Placeholders"
+msgstr ""
+
+#: functions/functions.translations.php:1858
+#, php-format
+msgid "Inside of %1$s and %2$s, the following placeholders are available:"
+msgstr ""
+
+#: functions/functions.translations.php:1859
+msgid "Additional placeholders"
+msgstr ""
+
+#: functions/functions.translations.php:1860
+msgid "Will be replaced with the username."
+msgstr ""
+
+#: functions/functions.translations.php:1861
+msgid "Will be replaced with the first name."
+msgstr ""
+
+#: functions/functions.translations.php:1862
+msgid "Will be replaced with the last name."
+msgstr ""
+
+#: functions/functions.translations.php:1863
+msgid "Will be replaced with the company."
+msgstr ""
+
+#: functions/functions.translations.php:1864
+msgid ""
+"Will be replaced with the first and last name, falls back to the username if "
+"neither is set."
+msgstr ""
+
+#: functions/functions.translations.php:1865
+msgid "Will be replaced with the password of the user account."
+msgstr ""
+
+#: functions/functions.translations.php:1866
+msgid "Will be replaced with the URL to the control panel."
+msgstr ""
+
+#: functions/functions.translations.php:1867
+msgid "Will be replaced with a link to reset the password."
+msgstr ""
+
+#: functions/functions.translations.php:1868
+msgid "Will be replaced with the email address of the account."
+msgstr ""
+
+#: functions/functions.translations.php:1869
+msgid "Will be replaced with the server name."
+msgstr ""
+
+#: functions/functions.translations.php:1870
+msgid "Will be replaced with the domain name."
+msgstr ""
+
+#: functions/functions.translations.php:1871
+msgid ""
+"Will be replaced with the backup type - 'user backup' including username / "
+"'server backup'."
+msgstr ""
+
+#: functions/functions.translations.php:1872
+msgid ""
+"Will be replaced with an error message, describing why the backup job failed."
+msgstr ""
+
+#: functions/functions.translations.php:1873
+msgid ""
+"Will be replaced with warning/error messages for all affected certificates."
+msgstr ""
+
+#: functions/functions.translations.php:1874
+msgid "Will be replaced with the mailbox name."
+msgstr ""

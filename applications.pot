@@ -1,0 +1,288 @@
+# SOME DESCRIPTIVE TITLE.
+# This file is put in the public domain.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KeyHelp 21.1\n"
+"Report-Msgid-Bugs-To: info@keyhelp.de\n"
+"POT-Creation-Date: 2021-04-12 12:02+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Translators: Variable is size in MB
+#: core/ApplicationInstaller/ApplicationVersion.php:148
+#, php-format
+msgid "Free disk space of %s MB"
+msgstr ""
+
+#. Translators: First variable is the name of the service ("PHP", "MariaDB", ...) the later ones are version numbers
+#: core/ApplicationInstaller/ApplicationVersion.php:163
+#, php-format
+msgid "%1$s version %2$s or later"
+msgstr ""
+
+#. Translators: First variable is the name of the service ("PHP", "MariaDB", ...) the later ones are version numbers
+#: core/ApplicationInstaller/ApplicationVersion.php:170
+#, php-format
+msgid "%1$s version lesser than %2$s"
+msgstr ""
+
+#. Translators: First variable is the name of the service ("PHP", "MariaDB", ...) the later ones are version numbers
+#: core/ApplicationInstaller/ApplicationVersion.php:177
+#, php-format
+msgid "%1$s version between %2$s and %3$s"
+msgstr ""
+
+#: functions/functions.translations.php:1182
+msgid ""
+"Here you can let popular web applications automatically be installed on your "
+"web space."
+msgstr ""
+
+#: functions/functions.translations.php:1183
+msgid "All categories"
+msgstr ""
+
+#. Translators: plural form
+#: functions/functions.translations.php:1184
+msgid "Information:"
+msgstr ""
+
+#: functions/functions.translations.php:1185
+msgid "Website"
+msgstr ""
+
+#: functions/functions.translations.php:1186
+msgid "Requirements"
+msgstr ""
+
+#: functions/functions.translations.php:1187 pages/user_applications.php:152
+#: pages/user_applications.php:155
+msgid "Latest version"
+msgstr ""
+
+#: functions/functions.translations.php:1188 pages/user_applications.php:261
+msgid "Version"
+msgstr ""
+
+#: functions/functions.translations.php:1189 pages/user_applications.php:193
+msgid "Install"
+msgstr ""
+
+#: functions/functions.translations.php:1190
+msgid "If you are not being forwarded automatically, please click <a>here</a>."
+msgstr ""
+
+#: functions/functions.translations.php:1191
+msgid "Selected application"
+msgstr ""
+
+#: functions/functions.translations.php:1192
+msgid "Installation location"
+msgstr ""
+
+#: functions/functions.translations.php:1193
+msgid ""
+"Leave the directory field blank to install the application in the currently "
+"specified directory of the domain."
+msgstr ""
+
+#: functions/functions.translations.php:1194
+msgid ""
+"If you specify a directory, the application will be installed in a "
+"subdirectory with the given name, relative to the current domain directory."
+msgstr ""
+
+#: functions/functions.translations.php:1195
+msgid "If the directory does not exist, it will be created."
+msgstr ""
+
+#: functions/functions.translations.php:1196
+msgid "In case of existing files"
+msgstr ""
+
+#: functions/functions.translations.php:1197
+msgid ""
+"Please decide how to proceed with any existing files in the above directory."
+msgstr ""
+
+#: functions/functions.translations.php:1198
+msgid "Delete entire directory content"
+msgstr ""
+
+#: functions/functions.translations.php:1199
+msgid "Overwrite existing files"
+msgstr ""
+
+#: functions/functions.translations.php:1200
+msgid "Select the protocol via which the application should be accessible."
+msgstr ""
+
+#: functions/functions.translations.php:1201 pages/user_applications.php:204
+msgid "Automatic"
+msgstr ""
+
+#: functions/functions.translations.php:1201
+#, php-format
+msgid ""
+"Select %s to automatically determine the best possible variant based on the "
+"current settings of the domain."
+msgstr ""
+
+#: functions/functions.translations.php:1202
+msgid "Administrator account"
+msgstr ""
+
+#: functions/functions.translations.php:1203
+msgid "Specify the login data of the administrator account."
+msgstr ""
+
+#: functions/functions.translations.php:1204
+msgid "With this data you will be able to log into the application later."
+msgstr ""
+
+#: functions/functions.translations.php:1205
+msgid ""
+"The application requires a database, which is created during the "
+"installation with the following settings."
+msgstr ""
+
+#: functions/functions.translations.php:1206
+msgid "Database name"
+msgstr ""
+
+#: functions/functions.translations.php:1207
+msgid "Database username"
+msgstr ""
+
+#: functions/functions.translations.php:1209
+msgid "Successfully installed."
+msgstr ""
+
+#: functions/functions.translations.php:1210
+msgid "Installation failed."
+msgstr ""
+
+#: functions/functions.translations.php:1211
+msgid "Installation in progress."
+msgstr ""
+
+#: functions/functions.translations.php:1212
+msgid "Installation will start shortly."
+msgstr ""
+
+#: functions/functions.translations.php:1213
+msgid "Error message:"
+msgstr ""
+
+#: pages/user_applications.php:98
+msgid ""
+"Click here to remove the status reports of all completed installation "
+"processes at once."
+msgstr ""
+
+#: pages/user_applications.php:118
+msgid "You can now log into the <a>admin area</a>."
+msgstr ""
+
+#: pages/user_applications.php:270
+msgid ""
+"To install an application you require at least one domain assigned to your "
+"account."
+msgstr ""
+
+#: pages/user_applications.php:279
+msgid "The selected application requires a database."
+msgstr ""
+
+#. Translators: The variable is the application name.
+#: pages/user_applications.php:291 pages/user_applications.php:319
+#, php-format
+msgid "An installation requirement for %s is not fulfilled:"
+msgstr ""
+
+#: pages/user_applications.php:391
+msgid "The selected domain is a forwarding domain."
+msgstr ""
+
+#: pages/user_applications.php:393
+msgid ""
+"In order to install an application for this domain, you must first remove "
+"the forwarding via the <a>domain management</a>."
+msgstr ""
+
+#: pages/user_applications.php:415
+#, php-format
+msgid ""
+"The selected domain is not compatible with the required PHP settings %s of "
+"the application."
+msgstr ""
+
+#: pages/user_applications.php:417
+msgid ""
+"Change the utilized PHP interpreter of the domain via the <a>domain "
+"management</a> or ask your administrator for help."
+msgstr ""
+
+#: pages/user_applications.php:429
+msgid "The selected directory is not empty."
+msgstr ""
+
+#: pages/user_applications.php:430
+msgid ""
+"To prevent files from being accidentally deleted / overwritten, you must "
+"decide how to proceed with already existing files."
+msgstr ""
+
+#: pages/user_applications.php:431
+msgid "Absolute path:"
+msgstr ""
+
+#: pages/user_applications.php:439
+msgid "The current domain directory is not within your home directory."
+msgstr ""
+
+#: pages/user_applications.php:457
+msgid "Invalid domain selected."
+msgstr ""
+
+#: pages/user_applications.php:531
+msgid "Invalid database settings."
+msgstr ""
+
+#: pages/user_applications.php:537
+msgid "Database already exists."
+msgstr ""
+
+#: pages/user_applications.php:543
+msgid "Database creation failed."
+msgstr ""
+
+#: pages/user_applications.php:594
+#, php-format
+msgid "Installation of %s will start shortly."
+msgstr ""
+
+#: pages/user_applications.php:595
+msgid "The installation process can take several minutes."
+msgstr ""
+
+#: pages/user_applications.php:596
+msgid "Please refresh this page to receive updated status reports below."
+msgstr ""
+
+#: pages/user_applications.php:597
+msgid ""
+"Please do not access the application URL until the installation has finished."
+msgstr ""
+
+#: pages/user_applications.php:609
+msgid "Select domain"
+msgstr ""

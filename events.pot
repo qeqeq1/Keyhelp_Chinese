@@ -1,0 +1,805 @@
+# SOME DESCRIPTIVE TITLE.
+# This file is put in the public domain.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KeyHelp 21.1\n"
+"Report-Msgid-Bugs-To: info@keyhelp.de\n"
+"POT-Creation-Date: 2021-04-12 12:02+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: core/Validation/PasswordValidator.php:84
+msgid "The password you entered does not match the password confirmation!"
+msgstr ""
+
+#: core/Validation/PasswordValidator.php:88
+msgid ""
+"The password belongs to the list of the most frequently used passwords. "
+"Please choose a more secure Password."
+msgstr ""
+
+#: core/Validation/PasswordValidator.php:159
+msgid "The required password complexity was not fulfilled."
+msgstr ""
+
+#: core/Validation/PasswordValidator.php:179 pages/login.php:110
+msgid "Your selected password was found in data of a published data leak."
+msgstr ""
+
+#: core/Validation/PasswordValidator.php:180
+#, php-format
+msgid "The password appeared %s times."
+msgstr ""
+
+#: core/Validation/PasswordValidator.php:181 pages/login.php:111
+msgid "It is strongly advised to use a more secure password."
+msgstr ""
+
+#: functions/functions.languages.php:438
+msgid "The settings have been updated."
+msgstr ""
+
+#: functions/functions.languages.php:442 functions/functions.languages.php:465
+#: pages/admin_accounts_user.php:1293
+msgid "Changes will take effect in a few moments."
+msgstr ""
+
+#: functions/functions.languages.php:450 pages/admin_accounts_user.php:878
+#, php-format
+msgid "Invalid input in field %s."
+msgstr ""
+
+#: functions/functions.languages.php:455
+msgid "An unexpected error has occurred."
+msgstr ""
+
+#: functions/functions.languages.php:461
+msgid "The following items have been deleted."
+msgstr ""
+
+#: functions/functions.languages.php:461
+msgid "The selected items have been deleted."
+msgstr ""
+
+#: functions/functions.languages.php:473
+msgid "The requested operation is not allowed in demo mode."
+msgstr ""
+
+#: index.php:277 index.php:277
+msgid "Version mismatch - Please contact your administrator."
+msgstr ""
+
+#: index.php:390 index.php:390
+msgid "Your account is not fully set up - some functions are limited."
+msgstr ""
+
+#: pages/admin_accounts_admin.php:131 pages/admin_accounts_admin.php:251
+#: pages/admin_accounts_admin.php:397
+msgid "Insufficient user privileges."
+msgstr ""
+
+#: pages/admin_accounts_admin.php:145 pages/admin_accounts_admin.php:275
+#: pages/user_applications.php:488
+msgid "Please enter a valid username."
+msgstr ""
+
+#: pages/admin_accounts_admin.php:152 pages/admin_accounts_admin.php:283
+msgid "There is already a user with this name."
+msgstr ""
+
+#: pages/admin_accounts_admin.php:167 pages/admin_accounts_admin.php:301
+#: pages/admin_configuration.php:919 pages/admin_configuration.php:1365
+#: pages/admin_configuration.php:2261 pages/admin_email_all_users.php:97
+#: pages/admin_template_email.php:215 pages/backup_deprecated.php:207
+#: pages/backup_deprecated.php:354 pages/profile.php:167
+#: pages/user_applications.php:495
+msgid "The entered email address is invalid."
+msgstr ""
+
+#: pages/admin_accounts_admin.php:188
+#, php-format
+msgid "The administrator %s has been successfully created."
+msgstr ""
+
+#: pages/admin_accounts_admin.php:330
+#, php-format
+msgid "The administrator %s has been updated."
+msgstr ""
+
+#: pages/admin_accounts_admin.php:453 pages/admin_accounts_user.php:956
+#: pages/admin_accounts_user.php:1521
+msgid "The deleting of the demo accounts is not allowed in the KeyHelp demo!"
+msgstr ""
+
+#: pages/admin_accounts_user.php:733
+#, php-format
+msgid "Please enter a valid username with up to %s characters in lowercase."
+msgstr ""
+
+#: pages/admin_accounts_user.php:747
+msgid "Invalid system domain."
+msgstr ""
+
+#: pages/admin_accounts_user.php:754
+msgid "The system domain already exists."
+msgstr ""
+
+#: pages/admin_accounts_user.php:763
+msgid "The username is already in use (in the database or on the server)."
+msgstr ""
+
+#: pages/admin_accounts_user.php:881
+#, php-format
+msgid "Invalid input in the PHP setting field %s."
+msgstr ""
+
+#: pages/admin_accounts_user.php:884
+#, php-format
+msgid "Invalid input in the PHP-FPM setting field %s."
+msgstr ""
+
+#: pages/admin_accounts_user.php:902 pages/admin_template_account.php:331
+msgid "You can not allow additional FTP users, if FTP is deactivated."
+msgstr ""
+
+#: pages/admin_accounts_user.php:909 pages/admin_template_account.php:337
+msgid ""
+"You can not allow email addresses, without having at least one email account."
+msgstr ""
+
+#: pages/admin_accounts_user.php:916 pages/admin_template_account.php:343
+msgid "The disk space must be at least 1 MB."
+msgstr ""
+
+#: pages/admin_accounts_user.php:926
+msgid ""
+"The value of \"pm.min_spare_servers\" may not be greater than \"pm."
+"max_spare_servers\"."
+msgstr ""
+
+#: pages/admin_accounts_user.php:933
+msgid ""
+"The values of \"pm.min_spare_servers\" and \"pm.max_spare_servers\" may not "
+"be greater than \"pm.max_children\"."
+msgstr ""
+
+#: pages/admin_accounts_user.php:950
+msgid "The suspending of the demo accounts is not allowed in the KeyHelp demo!"
+msgstr ""
+
+#: pages/admin_accounts_user.php:962 pages/profile.php:199
+msgid ""
+"The change of passwords of demo accounts is not allowed in the KeyHelp demo!"
+msgstr ""
+
+#: pages/admin_accounts_user.php:1021
+msgid "The form was submitted repeatedly. Please try it again."
+msgstr ""
+
+#: pages/admin_accounts_user.php:1116
+#, php-format
+msgid ""
+"The user %s has been successfully created. In a few moments, the account can "
+"be used."
+msgstr ""
+
+#: pages/admin_accounts_user.php:1289
+#, php-format
+msgid "The user %s has been updated."
+msgstr ""
+
+#: pages/admin_active_sessions.php:68
+msgid "The selected sessions got terminated."
+msgstr ""
+
+#: pages/admin_api.php:203 pages/admin_firewall.php:449
+#: pages/backup_repository.php:353 pages/domains.php:1026
+#: pages/ssl_certificates.php:488 pages/ssl_certificates.php:752
+#: pages/user_databases.php:231 pages/user_databases.php:372
+#: pages/user_dir_protection.php:255 pages/user_email.php:406
+#: pages/user_ftp.php:199 pages/user_ftp.php:291
+msgid "Failed to save settings."
+msgstr ""
+
+#: pages/admin_configuration.php:99
+msgid "The specified hostname is not valid. Please enter a valid FQDN."
+msgstr ""
+
+#: pages/admin_configuration.php:105
+msgid "The specified hostname is already in use by a domain on this server."
+msgstr ""
+
+#: pages/admin_configuration.php:173
+msgid "Invalid IP address."
+msgstr ""
+
+#: pages/admin_configuration.php:192
+msgid "Select at least one IP address."
+msgstr ""
+
+#: pages/admin_configuration.php:196
+msgid "Select a maximum of two IPv4 and two IPv6 addresses."
+msgstr ""
+
+#: pages/admin_configuration.php:374
+msgid "Please choose a valid unit for the RAM drive size."
+msgstr ""
+
+#: pages/admin_configuration.php:380
+msgid "Please input a valid percentage between 0 and 100."
+msgstr ""
+
+#: pages/admin_configuration.php:447
+msgid "Invalid name server."
+msgstr ""
+
+#: pages/admin_configuration.php:455
+msgid "Select at least two name servers."
+msgstr ""
+
+#: pages/admin_configuration.php:509
+msgid "Invalid port."
+msgstr ""
+
+#: pages/admin_configuration.php:515
+#, php-format
+msgid "The log format must end with the parameters %s."
+msgstr ""
+
+#: pages/admin_configuration.php:875
+msgid "The system will be restarted now."
+msgstr ""
+
+#: pages/admin_configuration.php:910
+msgid "Demo mode restriction: Only Let's Encrypt test environment allowed."
+msgstr ""
+
+#: pages/admin_configuration.php:1030 pages/admin_configuration.php:1489
+#: pages/admin_configuration.php:1517 pages/admin_configuration.php:1963
+msgid "The webmail configuration could not be updated."
+msgstr ""
+
+#: pages/admin_configuration.php:1092 pages/admin_configuration.php:2380
+msgid "Invalid IP / IP subnet address."
+msgstr ""
+
+#: pages/admin_configuration.php:1100
+#, php-format
+msgid ""
+"With your current IP %s you would not be able to log into an administrator "
+"account."
+msgstr ""
+
+#: pages/admin_configuration.php:1185
+msgid ""
+"Not all services installed on the server are supporting the selected TLS "
+"version."
+msgstr ""
+
+#: pages/admin_configuration.php:1186
+msgid "You may need to upgrade your operating system to use this version."
+msgstr ""
+
+#: pages/admin_configuration.php:1291
+msgid "Please select at least one application."
+msgstr ""
+
+#: pages/admin_configuration.php:1454 pages/admin_configuration.php:1605
+msgid "The URL is invalid."
+msgstr ""
+
+#: pages/admin_configuration.php:2274
+msgid "One or more entered recipient addresses are invalid."
+msgstr ""
+
+#: pages/admin_email_all_users.php:90
+msgid "Please fill out all required fields."
+msgstr ""
+
+#: pages/admin_email_all_users.php:116
+msgid ""
+"There are no recipients defined. / The selected recipients have no email "
+"address stored."
+msgstr ""
+
+#: pages/admin_email_all_users.php:159
+#, php-format
+msgid "The message has been sent to %s recipient(s)."
+msgstr ""
+
+#: pages/admin_email_all_users.php:170
+msgid "While sending emails to the following recipients, errors occurred."
+msgstr ""
+
+#: pages/admin_maintenance_intervals.php:120
+msgid "Invalid form data."
+msgstr ""
+
+#: pages/admin_prohibited_domains.php:149
+#: pages/admin_prohibited_domains.php:229
+msgid "Domain name already exists."
+msgstr ""
+
+#: pages/admin_prohibited_domains.php:168
+#, php-format
+msgid "The domain name %s has been added."
+msgstr ""
+
+#: pages/admin_prohibited_domains.php:249
+#, php-format
+msgid "The domain name %s has been updated."
+msgstr ""
+
+#: pages/admin_services.php:182
+msgid "The service has been successfully stopped."
+msgstr ""
+
+#: pages/admin_services.php:187
+msgid "The service has been successfully started."
+msgstr ""
+
+#: pages/admin_services.php:192
+msgid ""
+"Sorry, the operation could not be performed correctly. (Permissions correct?)"
+msgstr ""
+
+#: pages/admin_template_account.php:311
+msgid "Please choose a name for the template."
+msgstr ""
+
+#: pages/admin_template_account.php:325
+msgid "There already exists an account template with this name."
+msgstr ""
+
+#: pages/admin_template_account.php:404
+msgid "The account template has been successfully added."
+msgstr ""
+
+#: pages/admin_template_account.php:408
+msgid "The account template has been successfully updated."
+msgstr ""
+
+#: pages/admin_template_email.php:164 pages/admin_white_label.php:250
+msgid "You have selected an invalid language."
+msgstr ""
+
+#: pages/admin_template_email.php:170
+msgid "The selected event is invalid."
+msgstr ""
+
+#: pages/admin_template_email.php:184
+msgid "There already exists a template for the event in this language."
+msgstr ""
+
+#: pages/admin_template_email.php:191
+msgid "Please enter a subject."
+msgstr ""
+
+#: pages/admin_template_email.php:197
+msgid "Please enter an email text."
+msgstr ""
+
+#: pages/admin_template_email.php:237
+msgid "The email template has been successfully added."
+msgstr ""
+
+#: pages/admin_template_email.php:252
+msgid "The email template has been successfully updated."
+msgstr ""
+
+#: pages/admin_white_label.php:85 pages/admin_white_label.php:333
+#: pages/ssl_certificates.php:403 pages/ssl_certificates.php:692
+msgid "Failed to upload file."
+msgstr ""
+
+#: pages/admin_white_label.php:98
+msgid "The settings have been successfully imported."
+msgstr ""
+
+#: pages/admin_white_label.php:102
+#, php-format
+msgid "An error occurred while importing: %s"
+msgstr ""
+
+#: pages/admin_white_label.php:139 pages/backup_deprecated.php:326
+#: pages/backup_deprecated.php:723
+msgid "The settings have been reset successfully."
+msgstr ""
+
+#: pages/admin_white_label.php:307
+msgid "The entered product name is too long (max. 20 characters)."
+msgstr ""
+
+#: pages/admin_white_label.php:351
+msgid "The file could not be saved on the server due to lack of permissions."
+msgstr ""
+
+#: pages/backup_deprecated.php:212 pages/backup_deprecated.php:366
+msgid "Please select a repository."
+msgstr ""
+
+#: pages/backup_deprecated.php:240
+msgid "The backup task has been successfully scheduled."
+msgstr ""
+
+#: pages/backup_deprecated.php:344
+msgid "Please select a valid backup start time in the format hh:mm."
+msgstr ""
+
+#: pages/backup_deprecated.php:361
+msgid "Please select a valid backup interval."
+msgstr ""
+
+#: pages/backup_deprecated.php:554
+msgid "There are no remote connection settings stored."
+msgstr ""
+
+#: pages/backup_deprecated.php:572
+msgid "The connection to the remote server could not be established."
+msgstr ""
+
+#: pages/backup_deprecated.php:573 pages/backup_deprecated.php:767
+msgid "Error message:"
+msgstr ""
+
+#: pages/backup_deprecated.php:766
+msgid "During testing remote connection errors have occurred."
+msgstr ""
+
+#: pages/dns_editor.php:226
+msgid "The zone has been reset to default settings."
+msgstr ""
+
+#: pages/dns_editor.php:290
+msgid "Invalid primary name server."
+msgstr ""
+
+#: pages/dns_editor.php:298
+msgid "Invalid RNAME."
+msgstr ""
+
+#: pages/dns_editor.php:332
+#, php-format
+msgid "Record %s | Invalid record type."
+msgstr ""
+
+#: pages/dns_editor.php:339
+#, php-format
+msgid "Record %1$s | The input fields contain invalid data for a %2$s record."
+msgstr ""
+
+#: pages/dns_editor.php:392
+msgid "Syntax check failed, please check your inputs!"
+msgstr ""
+
+#: pages/dns_editor.php:419
+msgid "The zone has been edit successfully."
+msgstr ""
+
+#: pages/domains.php:429
+msgid ""
+"You have to create one or more user accounts first, to assign domains to "
+"them."
+msgstr ""
+
+#: pages/domains.php:512
+msgid "Please select an owner for the domain."
+msgstr ""
+
+#: pages/domains.php:606
+msgid "You have reached the maximum number of your available main domains."
+msgstr ""
+
+#: pages/domains.php:612
+msgid "You have reached the maximum number of your available subdomains."
+msgstr ""
+
+#: pages/domains.php:631
+msgid "Please select a valid main domain."
+msgstr ""
+
+#: pages/domains.php:651 pages/domains.php:660
+#, php-format
+msgid "The domain %s already exists."
+msgstr ""
+
+#: pages/domains.php:669
+msgid "The selected domain name is on the list of prohibited domains."
+msgstr ""
+
+#: pages/domains.php:761
+msgid "Invalid certificate selected."
+msgstr ""
+
+#: pages/domains.php:785
+msgid ""
+"Wildcard domain names combined with a Let's Encrypt certificate is currently "
+"not supported."
+msgstr ""
+
+#: pages/domains.php:1017
+#, php-format
+msgid "The domain %s has been updated."
+msgstr ""
+
+#: pages/forgotpw.php:75
+msgid "The user does not exist or does not match to the email address."
+msgstr ""
+
+#: pages/forgotpw.php:78
+msgid "The email could not be sent, please contact your administrator."
+msgstr ""
+
+#: pages/forgotpw.php:81
+msgid ""
+"Your password reset link appears to be invalid. Please request a new link "
+"below."
+msgstr ""
+
+#: pages/forgotpw.php:173 pages/login.php:120
+msgid "Multiple invalid requests from your IP have been detected."
+msgstr ""
+
+#: pages/forgotpw.php:174 pages/login.php:121
+#, php-format
+msgid "Therefore your next requests are throttled up to %s seconds."
+msgstr ""
+
+#: pages/login.php:80
+msgid "The combination of username and password is incorrect."
+msgstr ""
+
+#: pages/login.php:83
+msgid "Your account has been suspended."
+msgstr ""
+
+#: pages/login.php:87
+msgid ""
+"Due to too many failed login attempts this account was temporarily suspended."
+msgstr ""
+
+#: pages/login.php:88
+#, php-format
+msgid "Please try again in %s seconds."
+msgstr ""
+
+#: pages/login.php:93
+#, php-format
+msgid ""
+"The administrative access from your IP address %s is restricted in "
+"accordance to currently applied access restriction policy."
+msgstr ""
+
+#: pages/login.php:96
+msgid "You have successfully logged out."
+msgstr ""
+
+#: pages/login.php:99
+msgid "Your session has expired, please sign in again!"
+msgstr ""
+
+#: pages/login.php:102
+msgid "An email with instructions, how to reset your password has been sent."
+msgstr ""
+
+#: pages/login.php:105
+msgid "Your password has been updated."
+msgstr ""
+
+#: pages/login_two_factor.php:93 pages/profile.php:234
+msgid ""
+"Failed to read/decrypt the secret two-factor authentication key. Please "
+"contact your server administrator to reset your two-factor authentication "
+"settings."
+msgstr ""
+
+#: pages/login_two_factor.php:121 pages/profile.php:244
+msgid ""
+"The server time seams not set correctly. The two-factor authentication "
+"requires a correctly set server time. Please contact your server "
+"administrator."
+msgstr ""
+
+#: pages/login_two_factor.php:124
+msgid "Two-factor authentication failed."
+msgstr ""
+
+#: pages/profile.php:177
+msgid "The entered current password was incorrect."
+msgstr ""
+
+#: pages/profile.php:222
+msgid ""
+"The modification of the two-factor authentication settings of demo accounts "
+"is not allowed in the KeyHelp demo!"
+msgstr ""
+
+#: pages/profile.php:238
+msgid "The authentication code is not valid."
+msgstr ""
+
+#: pages/profile.php:364
+msgid "Your profile has been updated successfully."
+msgstr ""
+
+#: pages/profile.php:465
+msgid "The provided public key is invalid."
+msgstr ""
+
+#: pages/scheduled_tasks.php:311
+msgid ""
+"You have already reached your maximum number of allowed scheduled tasks."
+msgstr ""
+
+#: pages/scheduled_tasks.php:448
+msgid "The scheduled task has been successfully added."
+msgstr ""
+
+#: pages/scheduled_tasks.php:448
+msgid "The scheduled task has been successfully updated."
+msgstr ""
+
+#: pages/ssl_certificates.php:439
+msgid "Please upload all required certificate components."
+msgstr ""
+
+#: pages/ssl_certificates.php:463
+msgid ""
+"The certificate request (CSR) has been successfully created. In order to "
+"obtain a valid certificate, submit this CSR to a certificate authority:"
+msgstr ""
+
+#: pages/ssl_certificates.php:468
+msgid ""
+"The SSL/TLS certificate has been added successfully. You can now assign it "
+"to the corresponding domain(s)."
+msgstr ""
+
+#: pages/ssl_certificates.php:482
+#, php-format
+msgid "Certificate repository is not writable: %s."
+msgstr ""
+
+#: pages/ssl_certificates.php:496 pages/ssl_certificates.php:759
+#, php-format
+msgid "A certificate with the name %s already exists."
+msgstr ""
+
+#: pages/ssl_certificates.php:507 pages/ssl_certificates.php:510
+#: pages/ssl_certificates.php:513 pages/ssl_certificates.php:516
+#: pages/ssl_certificates.php:770 pages/ssl_certificates.php:773
+#: pages/ssl_certificates.php:776 pages/ssl_certificates.php:779
+#, php-format
+msgid "Invalid SSL/TLS component %s."
+msgstr ""
+
+#: pages/ssl_certificates.php:519 pages/ssl_certificates.php:782
+msgid "The CSR / certificate component is missing."
+msgstr ""
+
+#: pages/ssl_certificates.php:522 pages/ssl_certificates.php:525
+#: pages/ssl_certificates.php:785 pages/ssl_certificates.php:788
+#, php-format
+msgid "Invalid combination of %s and private key."
+msgstr ""
+
+#: pages/user_applications.php:280 pages/user_databases.php:136
+msgid "You have already reached the maximum number of databases."
+msgstr ""
+
+#: pages/user_databases.php:224
+#, php-format
+msgid "The database %1$s and the database user %2$s were successfully created."
+msgstr ""
+
+#: pages/user_databases.php:240
+#, php-format
+msgid "The database %s already exists."
+msgstr ""
+
+#: pages/user_databases.php:245
+#, php-format
+msgid "The database user %s already exists."
+msgstr ""
+
+#: pages/user_dir_protection.php:219
+msgid "The combination of username and path already exists."
+msgstr ""
+
+#: pages/user_dir_protection.php:265
+msgid "The realm title contains illegal characters."
+msgstr ""
+
+#: pages/user_dir_protection.php:268
+msgid "The username contains illegal characters."
+msgstr ""
+
+#: pages/user_dir_protection.php:271
+msgid "The path contains illegal characters."
+msgstr ""
+
+#: pages/user_email.php:155
+msgid ""
+"You have already reached the maximum number of your available email accounts."
+msgstr ""
+
+#: pages/user_email.php:172
+msgid "The administrator has not been assigned an email domain to you."
+msgstr ""
+
+#: pages/user_email.php:256
+msgid ""
+"You have already reached the maximum number of your available email "
+"addresses."
+msgstr ""
+
+#: pages/user_email.php:263
+msgid "The email domain does not exist."
+msgstr ""
+
+#: pages/user_email.php:279
+msgid "This email address already exists."
+msgstr ""
+
+#: pages/user_email.php:305
+#, php-format
+msgid ""
+"Invalid mailbox size. Please enter a valid number that is less / equal than "
+"your total memory (%s)."
+msgstr ""
+
+#: pages/user_email.php:318
+msgid "There is already a catch-all email account for this domain."
+msgstr ""
+
+#: pages/user_email.php:357
+msgid ""
+"With the addresses in the alias list you will exceed the number of your "
+"available email addresses, please reduce the alias addresses."
+msgstr ""
+
+#: pages/user_email.php:385
+#, php-format
+msgid "The email account %s has been successfully created."
+msgstr ""
+
+#: pages/user_ftp.php:130
+msgid "You have reached the maximum number of your available FTP users."
+msgstr ""
+
+#: pages/user_ftp.php:149 pages/user_ftp.php:249
+msgid "The home directory must be a subfolder of /www/ or /files/."
+msgstr ""
+
+#: pages/user_ftp.php:165
+#, php-format
+msgid "The username %s is already in use."
+msgstr ""
+
+#: pages/user_ftp.php:193
+#, php-format
+msgid "The FTP user %s has been created successfully."
+msgstr ""
+
+#: pages/user_ftp.php:209
+msgid ""
+"The setting up of your account has not yet been fully completed. Please try "
+"again in a few moments."
+msgstr ""
+
+#: pages/user_ftp.php:212 pages/user_ftp.php:300
+msgid "The home directory contains illegal characters."
+msgstr ""
+
+#: pages/user_ftp.php:285
+#, php-format
+msgid "The FTP user %s has been updated successfully."
+msgstr ""

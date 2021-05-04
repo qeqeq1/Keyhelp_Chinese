@@ -1,0 +1,440 @@
+# SOME DESCRIPTIVE TITLE.
+# This file is put in the public domain.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KeyHelp 21.1\n"
+"Report-Msgid-Bugs-To: info@keyhelp.de\n"
+"POT-Creation-Date: 2021-04-12 12:02+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: functions/functions.translations.php:371
+msgid "Administrator accounts"
+msgstr ""
+
+#: functions/functions.translations.php:372
+msgid "User accounts"
+msgstr ""
+
+#: functions/functions.translations.php:373 pages/admin_accounts_admin.php:106
+msgid "Add administrator"
+msgstr ""
+
+#: functions/functions.translations.php:374 pages/admin_accounts_admin.php:212
+msgid "Edit administrator"
+msgstr ""
+
+#: functions/functions.translations.php:375 pages/admin_accounts_user.php:376
+msgid "Add user"
+msgstr ""
+
+#: functions/functions.translations.php:376 pages/admin_accounts_user.php:376
+msgid "Edit user"
+msgstr ""
+
+#: functions/functions.translations.php:377 pages/admin_accounts_admin.php:355
+#: pages/admin_accounts_user.php:1453
+msgid "Delete user"
+msgstr ""
+
+#: functions/functions.translations.php:378
+msgid "Last login"
+msgstr ""
+
+#: functions/functions.translations.php:379
+msgid "Main administrator"
+msgstr ""
+
+#: functions/functions.translations.php:380
+msgid "No action available"
+msgstr ""
+
+#: functions/functions.translations.php:381
+msgid "Contact name"
+msgstr ""
+
+#: functions/functions.translations.php:382
+msgid "Will be suspended on:"
+msgstr ""
+
+#: functions/functions.translations.php:383
+msgid "Will be deleted on:"
+msgstr ""
+
+#: functions/functions.translations.php:384
+msgid "Suspended"
+msgstr ""
+
+#: functions/functions.translations.php:386
+msgid ""
+"Main administrators can edit and delete other administrator accounts, as "
+"well as manage white label settings."
+msgstr ""
+
+#: functions/functions.translations.php:388
+msgid "Create system domain?"
+msgstr ""
+
+#: functions/functions.translations.php:389
+msgid "Creates the system domain according to the following scheme:"
+msgstr ""
+
+#: functions/functions.translations.php:391
+msgid ""
+"With this domain, the user is able to access its webspace, even without "
+"having a domain assigned."
+msgstr ""
+
+#: functions/functions.translations.php:392
+msgid "Send login credentials to email address"
+msgstr ""
+
+#: functions/functions.translations.php:393
+msgid "Use skeleton / file template for www directory"
+msgstr ""
+
+#: functions/functions.translations.php:394
+msgid ""
+"You can select, which file template should get used and be stored inside the "
+"users www directory."
+msgstr ""
+
+#: functions/functions.translations.php:395
+#, php-format
+msgid ""
+"You can define your own templates by creating a new subfolder in %s and put "
+"your files in this subfolder."
+msgstr ""
+
+#: functions/functions.translations.php:396
+msgid "Domain default page"
+msgstr ""
+
+#: functions/functions.translations.php:397
+msgid "Here you can enter notes for the user."
+msgstr ""
+
+#: functions/functions.translations.php:398
+msgid ""
+"These are displayed on the user administration / domain overview page and "
+"are only visible for administrators."
+msgstr ""
+
+#: functions/functions.translations.php:399
+msgid "Account template"
+msgstr ""
+
+#: functions/functions.translations.php:400
+msgid "Use account templates to simplify the user creation process."
+msgstr ""
+
+#: functions/functions.translations.php:401
+msgid "You can manage your account templates <a>here</a>."
+msgstr ""
+
+#: functions/functions.translations.php:402
+msgid "Default template"
+msgstr ""
+
+#: functions/functions.translations.php:403
+msgid "Apply template"
+msgstr ""
+
+#: functions/functions.translations.php:404
+msgid "Account is suspended"
+msgstr ""
+
+#: functions/functions.translations.php:405
+msgid ""
+"If enabled, all associated domains become disabled, access via FTP / SSH / "
+"email / panel access become denied."
+msgstr ""
+
+#: functions/functions.translations.php:406
+msgid "Automation"
+msgstr ""
+
+#: functions/functions.translations.php:407
+msgid "Suspend account on specified date"
+msgstr ""
+
+#: functions/functions.translations.php:408
+msgid "Delete account on specified date"
+msgstr ""
+
+#: functions/functions.translations.php:410
+msgid "Resources & permissions"
+msgstr ""
+
+#: functions/functions.translations.php:411
+msgid "Disk space"
+msgstr ""
+
+#: functions/functions.translations.php:412
+msgid "Including: webspace, databases, emails"
+msgstr ""
+
+#: functions/functions.translations.php:413
+msgid ""
+"If set to 0, admin accounts still can assign an unlimited amount of main "
+"domains and the user cannot delete the main domains assigned to him."
+msgstr ""
+
+#: functions/functions.translations.php:415
+msgid "Create backups"
+msgstr ""
+
+#: functions/functions.translations.php:416
+msgid ""
+"This action will delete all existing backups and backup settings of this "
+"user."
+msgstr ""
+
+#: functions/functions.translations.php:417
+msgid "Panel access"
+msgstr ""
+
+#: functions/functions.translations.php:418
+msgid "File manager"
+msgstr ""
+
+#: functions/functions.translations.php:419
+msgid "DNS editor"
+msgstr ""
+
+#: functions/functions.translations.php:420
+msgid "Certificate management"
+msgstr ""
+
+#: functions/functions.translations.php:421
+msgid "Change personal data"
+msgstr ""
+
+#: functions/functions.translations.php:422
+msgid "Except client ID"
+msgstr ""
+
+#: functions/functions.translations.php:423
+msgid "The user is not restricted to his home directory."
+msgstr ""
+
+#: functions/functions.translations.php:424
+msgid ""
+"This setting alone is not sufficient to restrict the user to its home "
+"directory."
+msgstr ""
+
+#: functions/functions.translations.php:425
+#: functions/functions.translations.php:430
+msgid "Restricted SSH environment"
+msgstr ""
+
+#: functions/functions.translations.php:425
+#, php-format
+msgid "You should also consider selecting the %s checkbox."
+msgstr ""
+
+#: functions/functions.translations.php:426
+msgid "Database remote access"
+msgstr ""
+
+#: functions/functions.translations.php:427
+msgid "Domain security"
+msgstr ""
+
+#: functions/functions.translations.php:428
+msgid ""
+"The user can modify SSL/TLS settings of his domains (e.g set certificate, "
+"Let's Encrypt, HSTS)."
+msgstr ""
+
+#: functions/functions.translations.php:429
+msgid "Applications"
+msgstr ""
+
+#: functions/functions.translations.php:431
+msgid "Restricts the user's SSH session to its home directory."
+msgstr ""
+
+#: functions/functions.translations.php:432
+#, php-format
+msgid "The %s permission must be enabled to use this feature."
+msgstr ""
+
+#: functions/functions.translations.php:434
+msgid ""
+"Sets the maximum amount of memory, that the script may consume (in bytes)."
+msgstr ""
+
+#: functions/functions.translations.php:435
+msgid "To specify no memory limit, enter the value -1."
+msgstr ""
+
+#: functions/functions.translations.php:436
+#: functions/functions.translations.php:440
+#: functions/functions.translations.php:442
+msgid ""
+"Use the following shortcuts for byte values: K (Kilo), M (Mega) and G "
+"(Giga). Example: 64M."
+msgstr ""
+
+#: functions/functions.translations.php:437
+msgid ""
+"Sets the maximum time in seconds that a script is allowed to run before the "
+"execution is stopped."
+msgstr ""
+
+#: functions/functions.translations.php:438
+msgid ""
+"Specifies the maximum allowed size of data that can be sent by using the "
+"POST method (in bytes)."
+msgstr ""
+
+#: functions/functions.translations.php:439
+msgid ""
+"The value should be bigger than \"upload_max_filesize\" and smaller than "
+"\"memory_limit\""
+msgstr ""
+
+#: functions/functions.translations.php:441
+msgid "Specifies the maximum allowed size of an uploaded file (in bytes)."
+msgstr ""
+
+#: functions/functions.translations.php:443
+msgid ""
+"Limits the files that can be accessed by PHP to specific folders, including "
+"their subfolders."
+msgstr ""
+
+#: functions/functions.translations.php:444
+#, php-format
+msgid ""
+"The placeholder %s can be used and will be filled automatically with the "
+"document root directory of the user."
+msgstr ""
+
+#: functions/functions.translations.php:445
+msgid ""
+"Multiple directories will be separated from each other with a colon. "
+"Example: /web1/files/:/web1/www/"
+msgstr ""
+
+#: functions/functions.translations.php:446
+msgid ""
+"Allows disabling of individual internal PHP functions for security reasons."
+msgstr ""
+
+#: functions/functions.translations.php:447
+msgid "Function are passed as a comma-separated list of function names."
+msgstr ""
+
+#: functions/functions.translations.php:448
+msgid "Additional PHP settings"
+msgstr ""
+
+#: functions/functions.translations.php:449
+msgid "Here you can specify additional PHP settings."
+msgstr ""
+
+#: functions/functions.translations.php:450
+msgid "Use the same syntax that you would use in a php.ini file."
+msgstr ""
+
+#: functions/functions.translations.php:451
+msgid ""
+"If you encounter problems with rejected emails because of a wrong envelope "
+"sender address (SPF check), you can set a new sender address here."
+msgstr ""
+
+#: functions/functions.translations.php:453
+msgid ""
+"Specifies how the process manager administrates the number of child "
+"processes."
+msgstr ""
+
+#: functions/functions.translations.php:454
+msgid "The number of child processes is fixed (pm.max_children)."
+msgstr ""
+
+#: functions/functions.translations.php:455
+msgid "The child processes will start, when they are needed."
+msgstr ""
+
+#: functions/functions.translations.php:456
+msgid ""
+"The number of child processes will be adjusted dynamically, at the beginning "
+"pm.start_servers processes will start."
+msgstr ""
+
+#: functions/functions.translations.php:457
+msgid "The number of child processes that will be created maximal."
+msgstr ""
+
+#: functions/functions.translations.php:458
+msgid ""
+"The number of requests that a child process performs before it restarts."
+msgstr ""
+
+#: functions/functions.translations.php:459
+msgid "For an unlimited number of requests, enter the value 0."
+msgstr ""
+
+#: functions/functions.translations.php:460
+msgid "The number of servers to start."
+msgstr ""
+
+#: functions/functions.translations.php:461
+msgid "This value is calculated according to the following formula."
+msgstr ""
+
+#: functions/functions.translations.php:462
+msgid "The desired minimum number of processes."
+msgstr ""
+
+#: functions/functions.translations.php:463
+msgid "The desired maximum number of processes."
+msgstr ""
+
+#: functions/functions.translations.php:464
+msgid "Enable status page"
+msgstr ""
+
+#: functions/functions.translations.php:465
+msgid ""
+"If enabled, the following URLs can be used to determine the PHP-FPM status."
+msgstr ""
+
+#: functions/functions.translations.php:466
+msgid ""
+"The status pages of a domain can be accessed by calling the following URLs."
+msgstr ""
+
+#: functions/functions.translations.php:467
+#: functions/functions.translations.php:468
+msgid "DOMAIN NAME"
+msgstr ""
+
+#: functions/functions.translations.php:469
+msgid "Limit the access to the following IP (empty = no limitation)"
+msgstr ""
+
+#: functions/functions.translations.php:471
+msgid "SSL/TLS certificates"
+msgstr ""
+
+#: functions/functions.translations.php:472
+msgid ""
+"After deleting this user, the certificates are assigned to the server pool."
+msgstr ""
+
+#: functions/functions.translations.php:474
+msgid "Setup date"
+msgstr ""

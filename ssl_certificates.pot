@@ -1,0 +1,240 @@
+# SOME DESCRIPTIVE TITLE.
+# This file is put in the public domain.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KeyHelp 21.1\n"
+"Report-Msgid-Bugs-To: info@keyhelp.de\n"
+"POT-Creation-Date: 2021-04-12 12:02+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: functions/functions.translations.php:902
+msgid "Secure server services"
+msgstr ""
+
+#: functions/functions.translations.php:903
+msgid "Email server"
+msgstr ""
+
+#: functions/functions.translations.php:904
+msgid "FTP server"
+msgstr ""
+
+#: functions/functions.translations.php:905
+msgid "Webmail subdomain"
+msgstr ""
+
+#: functions/functions.translations.php:906
+msgid "Use this overview to upload and manage SSL/TLS certificates."
+msgstr ""
+
+#: functions/functions.translations.php:907
+msgid ""
+"SSL/TLS certificates allow a secure network communication between e.g. "
+"visitors of a website and the web server, so that sensitive data such as "
+"passwords cannot be intercepted by third parties."
+msgstr ""
+
+#: functions/functions.translations.php:908
+msgid ""
+"Certificates of the Let's-Encrypt Certification Authority, which can be "
+"obtained free of charge for domains, are not listed in this overview. You "
+"can activate the use of such a certificate specifically for domains and "
+"subdomains via the domain administration."
+msgstr ""
+
+#: functions/functions.translations.php:909
+msgid "SSL/TLS certificates"
+msgstr ""
+
+#: functions/functions.translations.php:910
+msgid "Certificate name"
+msgstr ""
+
+#: functions/functions.translations.php:911
+msgid ""
+"A freely definable certificate name for identification within this control "
+"panel."
+msgstr ""
+
+#: functions/functions.translations.php:912
+msgid "Valid from"
+msgstr ""
+
+#: functions/functions.translations.php:913
+msgid "Valid till"
+msgstr ""
+
+#: functions/functions.translations.php:914
+msgid "Used"
+msgstr ""
+
+#: functions/functions.translations.php:915
+msgid "Issuer"
+msgstr ""
+
+#: functions/functions.translations.php:916
+msgid "Private key"
+msgstr ""
+
+#: functions/functions.translations.php:917
+msgid "Certificate"
+msgstr ""
+
+#: functions/functions.translations.php:918
+msgid "CA Certificate"
+msgstr ""
+
+#: functions/functions.translations.php:919
+msgid "Add SSL/TLS certificate"
+msgstr ""
+
+#: functions/functions.translations.php:920
+msgid "Expired"
+msgstr ""
+
+#: functions/functions.translations.php:921
+msgid "Expires soon"
+msgstr ""
+
+#: functions/functions.translations.php:922
+msgid "This certificate is used to protect a server service."
+msgstr ""
+
+#: functions/functions.translations.php:923
+msgid "Used for domains"
+msgstr ""
+
+#: functions/functions.translations.php:924
+msgid "Warning, this certificate is currently in use!"
+msgstr ""
+
+#: functions/functions.translations.php:925
+msgid "Choose action"
+msgstr ""
+
+#: functions/functions.translations.php:926
+msgid "Generate CSR"
+msgstr ""
+
+#: functions/functions.translations.php:927
+msgid ""
+"A certificate signing request (CSR) contains information about the domain "
+"specified in the form. You have to send this CSR to a certificate authority "
+"in order to receive your certificate, which you than can add to this "
+"certificate bundle."
+msgstr ""
+
+#: functions/functions.translations.php:928
+#: functions/functions.translations.php:931
+msgid "Please avoid the use of special characters and umlauts during input."
+msgstr ""
+
+#: functions/functions.translations.php:929
+msgid "Generate self-signed certificate"
+msgstr ""
+
+#: functions/functions.translations.php:930
+msgid ""
+"A self-signed certificate is signed by the issuer himself and not by a "
+"certification authority. Such a certificate allows the use of SSL/TLS, but "
+"is considered less trusted and usually results in security warnings being "
+"displayed."
+msgstr ""
+
+#: functions/functions.translations.php:932
+msgid "Key length"
+msgstr ""
+
+#: functions/functions.translations.php:933
+msgid "Locality / city"
+msgstr ""
+
+#: functions/functions.translations.php:934
+msgid "Organization / company"
+msgstr ""
+
+#: functions/functions.translations.php:935
+msgid "Department name in the organization"
+msgstr ""
+
+#: functions/functions.translations.php:936
+msgid "Domain"
+msgstr ""
+
+#: functions/functions.translations.php:937
+msgid ""
+"Enter the exact domain name, which should be protected by the certificate."
+msgstr ""
+
+#: functions/functions.translations.php:938
+msgid "The certificate is only valid for this input."
+msgstr ""
+
+#: functions/functions.translations.php:939
+msgid "Email of the responsible person"
+msgstr ""
+
+#: functions/functions.translations.php:940
+msgid "Validation period"
+msgstr ""
+
+#: functions/functions.translations.php:941
+msgid "Upload an existing certificate"
+msgstr ""
+
+#: functions/functions.translations.php:942
+msgid ""
+"If you already have a certificate package that consists of at least a "
+"private key and a certificate, you can upload it here."
+msgstr ""
+
+#: functions/functions.translations.php:943
+msgid ""
+"To do this, select the appropriate files or paste the contents of the "
+"certificate components into the corresponding text fields."
+msgstr ""
+
+#: functions/functions.translations.php:944
+msgid "Server pool / No owner"
+msgstr ""
+
+#: functions/functions.translations.php:945
+msgid "Certificate components"
+msgstr ""
+
+#: functions/functions.translations.php:946
+msgid "This component does not exist"
+msgstr ""
+
+#: functions/functions.translations.php:947
+msgid "Certificate signing request (CSR)"
+msgstr ""
+
+#: functions/functions.translations.php:948
+msgid "Alternative domain names"
+msgstr ""
+
+#: functions/functions.translations.php:949
+msgid "Certificate information"
+msgstr ""
+
+#: functions/functions.translations.php:950
+msgid "Update certificate components"
+msgstr ""
+
+#: functions/functions.translations.php:951
+msgid "Here you can update the stored components of the certificate."
+msgstr ""
+
+#: functions/functions.translations.php:952
+msgid "Self-signed"
+msgstr ""

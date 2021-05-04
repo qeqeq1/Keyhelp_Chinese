@@ -1,0 +1,294 @@
+# SOME DESCRIPTIVE TITLE.
+# This file is put in the public domain.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KeyHelp 21.1\n"
+"Report-Msgid-Bugs-To: info@keyhelp.de\n"
+"POT-Creation-Date: 2021-04-12 12:02+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: functions/functions.translations.php:1937
+#: functions/functions.translations.php:1964
+#: functions/functions.translations.php:1986
+#: functions/functions.translations.php:2013
+#: functions/functions.translations.php:2038
+#: functions/functions.translations.php:2064
+#: functions/functions.translations.php:2082
+#: functions/functions.translations.php:2101
+#: functions/functions.translations.php:2120
+#: functions/functions.translations.php:2138
+#: functions/functions.translations.php:2158
+#: functions/functions.translations.php:2177
+msgid "Support"
+msgstr ""
+
+#: functions/functions.translations.php:1938
+msgid "Reset password"
+msgstr ""
+
+#: functions/functions.translations.php:1940
+msgid ""
+"Hello ##full_name##!\n"
+"\n"
+"A reset of your password was requested for your account.\n"
+"If you have not requested this email, simply ignore it.\n"
+"\n"
+"------------\n"
+"Username: ##username##\n"
+"Server: ##panel_url##\n"
+"------------\n"
+"\n"
+"To reset your password, click the following link:\n"
+"\n"
+"##reset_link##\n"
+"\n"
+"Please note, this link is only valid for a short period of time."
+msgstr ""
+
+#: functions/functions.translations.php:1957
+#: functions/functions.translations.php:1979
+#: functions/functions.translations.php:2006
+#: functions/functions.translations.php:2031
+#: functions/functions.translations.php:2057
+#: functions/functions.translations.php:2075
+#: functions/functions.translations.php:2094
+#: functions/functions.translations.php:2113
+#: functions/functions.translations.php:2131
+#: functions/functions.translations.php:2151
+#: functions/functions.translations.php:2170
+#: functions/functions.translations.php:2187
+msgid ""
+"Best regards,\n"
+"Your support team"
+msgstr ""
+
+#: functions/functions.translations.php:1959
+#: functions/functions.translations.php:1981
+#: functions/functions.translations.php:2008
+#: functions/functions.translations.php:2033
+#: functions/functions.translations.php:2059
+#: functions/functions.translations.php:2077
+#: functions/functions.translations.php:2096
+#: functions/functions.translations.php:2115
+#: functions/functions.translations.php:2133
+#: functions/functions.translations.php:2153
+#: functions/functions.translations.php:2172
+#: functions/functions.translations.php:2189
+msgid "This message was generated automatically."
+msgstr ""
+
+#: functions/functions.translations.php:1961
+#: functions/functions.translations.php:1983
+#: functions/functions.translations.php:2010
+#: functions/functions.translations.php:2035
+#: functions/functions.translations.php:2061
+#: functions/functions.translations.php:2079
+#: functions/functions.translations.php:2098
+#: functions/functions.translations.php:2117
+#: functions/functions.translations.php:2135
+#: functions/functions.translations.php:2155
+#: functions/functions.translations.php:2174
+#: functions/functions.translations.php:2191
+msgid "Please do not reply to this email."
+msgstr ""
+
+#: functions/functions.translations.php:1965
+msgid "Your disk space consumption reaches > 90%!"
+msgstr ""
+
+#: functions/functions.translations.php:1967
+msgid ""
+"Hello ##full_name##!\n"
+"\n"
+"Your disk space consumption on the server ##server## has just reached\n"
+"90% of your available space.\n"
+"\n"
+"Please note that if you reach 100%:\n"
+"\n"
+"- you can not upload any more data\n"
+"- you can not receive emails\n"
+"- your database rights will be restricted"
+msgstr ""
+
+#: functions/functions.translations.php:1987
+msgid "WARNING - your disk space usage reaches 100%!"
+msgstr ""
+
+#: functions/functions.translations.php:1989
+msgid ""
+"Hello ##full_name##!\n"
+"\n"
+"Your disk space consumption on the server ##server## has just reached\n"
+"its maximum available space.\n"
+"\n"
+"As long as you do not rectify this problem:\n"
+"\n"
+"- you can not upload any more data\n"
+"- you can not receive emails\n"
+"- your database rights stay restricted\n"
+"\n"
+"Note: As soon as you have enough free disk space available,\n"
+"it will still take a little moment, until your account\n"
+"is automatically fully unlocked again.\n"
+"Please have patience."
+msgstr ""
+
+#: functions/functions.translations.php:2014
+msgid "Warmly Welcome!"
+msgstr ""
+
+#: functions/functions.translations.php:2016
+msgid ""
+"Hello ##full_name##!\n"
+"\n"
+"A KeyHelp user account has just been created for you.\n"
+"\n"
+"You can now log in to the web interface.\n"
+"\n"
+"------------\n"
+"Login name: ##username##\n"
+"Password: ##password##\n"
+"KeyHelp web interface: ##panel_url##\n"
+"------------\n"
+"\n"
+"For security reasons, we advise to change the given password as soon as "
+"possible."
+msgstr ""
+
+#: functions/functions.translations.php:2039
+msgid "Your new password!"
+msgstr ""
+
+#: functions/functions.translations.php:2041
+msgid ""
+"Hello ##full_name##!\n"
+"\n"
+"An administrator has assigned new login credentials for your\n"
+"KeyHelp account.\n"
+"\n"
+"You can now log in to the web interface with your new login credentials\n"
+"\n"
+"------------\n"
+"Login name: ##username##\n"
+"Password: ##password##\n"
+"KeyHelp web interface: ##panel_url##\n"
+"------------\n"
+"\n"
+"For security reasons, we advise to change the given password as soon as "
+"possible."
+msgstr ""
+
+#: functions/functions.translations.php:2065
+msgid "Your mailbox has been setup successfully!"
+msgstr ""
+
+#: functions/functions.translations.php:2067
+msgid ""
+"Hello ##full_name##!\n"
+"\n"
+"We are pleased to inform you,\n"
+"that your new mailbox ##email## has just been setup completely.\n"
+"\n"
+"Now you can receive and send emails."
+msgstr ""
+
+#: functions/functions.translations.php:2083
+msgid "Your domain \"##domain##\" has been disabled!"
+msgstr ""
+
+#: functions/functions.translations.php:2085
+msgid ""
+"Hello ##full_name##!\n"
+"\n"
+"An administrator has disabled one of your domains:\n"
+"\n"
+"##domain##\n"
+"\n"
+"The domain and its subdomains are now no longer reachable via web browser."
+msgstr ""
+
+#: functions/functions.translations.php:2102
+msgid "Your domain \"##domain##\" has been enabled!"
+msgstr ""
+
+#: functions/functions.translations.php:2104
+msgid ""
+"Hello ##full_name##!\n"
+"\n"
+"An administrator has enabled one of your domains:\n"
+"\n"
+"##domain##\n"
+"\n"
+"The domain should now be fully reachable."
+msgstr ""
+
+#: functions/functions.translations.php:2121
+msgid "[SUCCESS] Backup on server ##server## | ##backup_type##"
+msgstr ""
+
+#: functions/functions.translations.php:2123
+msgid ""
+"Hello ##full_name##!\n"
+"\n"
+"Your backup process finished successfully!\n"
+"\n"
+"Server: ##server##\n"
+"Backup type: ##backup_type##"
+msgstr ""
+
+#: functions/functions.translations.php:2139
+msgid "[ERROR] Backup on server ##server## | ##backup_type##"
+msgstr ""
+
+#: functions/functions.translations.php:2141
+msgid ""
+"Hello ##full_name##!\n"
+"\n"
+"Your backup process was canceled, because of an error!\n"
+"\n"
+"Server: ##server##\n"
+"Backup type: ##backup_type##\n"
+"\n"
+"Error message: ##error_message##"
+msgstr ""
+
+#: functions/functions.translations.php:2159
+msgid "SSL/TLS certificate problem notifications for server ##server##"
+msgstr ""
+
+#: functions/functions.translations.php:2161
+msgid ""
+"Hello ##full_name##!\n"
+"\n"
+"During the routine check of the SSL/TLS certificates, the following problems "
+"occurred:\n"
+"\n"
+"------------\n"
+"##certificate_messages##\n"
+"------------\n"
+msgstr ""
+
+#: functions/functions.translations.php:2178
+msgid "Your mailbox ##mailbox## is almost full."
+msgstr ""
+
+#: functions/functions.translations.php:2180
+#, no-php-format
+msgid ""
+"Hello ##full_name##!\n"
+"\n"
+"Your ##mailbox## mailbox is now using over 90% of the available storage "
+"space\n"
+"If it has reached 100% usage, you will not be able to receive any new "
+"emails.\n"
+"Please increase the size of your mailbox or delete unused messages."
+msgstr ""
